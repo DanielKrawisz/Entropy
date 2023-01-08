@@ -1,8 +1,6 @@
 # Entropy
 
-## Conceptual Issues
-
-### Irreversibility
+## Irreversibility
 
 Entropy is a theoretical quantity that explains irreversibility in physics. Known laws of physics are reversible, which means some physical process would be equally valid both forwards or backwards in time. (For everyday phsyics, this statement is exactly true, whereas for some processes in high energy physics the time-reversed version of a process would also have to be mirror-image reversed as well in order to be valid, whereas for everyday physics, mirror image reversal is also an exact symmetry.) However, in ordinary experience, many unexceptional processes would be quite exceptional if they were reversed. No one, for example, has ever experienced a convergence of sound waves into a puddle of liquid and pieces of glass sufficient to project them into the air and together in his hand as an unbroken cup of hot tea but many people have experienced the time-reversed version of such a process.
 
@@ -10,9 +8,9 @@ Thus, we observe that physics is irreversible on an everday scale but in all con
 
 If our world is indeed random, then it follows that a state with more states that are similar to it is *more likely* than one with fewer. This conclusion explains irreversibility in everyday physics. An irreversible process in everyday experience is not literally irreversible, but is a transition from less likely state to a more likely state. Indeed, different configurations of matter might be indistinguishable from vastly different numbers of similar configurations, which means that some possibilities are so unlikely that they never happen. To put it concretely, among all states in which there is a puddle and broken teacup on the floor, there are vastly fewer similar states with perfectly prepared tea than without, whereas among all states with perfectly prepared tea there are relatively many similar states with a puddle and a broken cup. 
 
-A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. 
+A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. That is all that entropy is and all that it implies. 
 
-### Entropy as Disorder
+## Entropy as Disorder
 
 Entropy is often characterized as an expression of the disorder of a system. This characterization certainly raises more questions than it answers because disorder would seem to be potentially an obscure property of some system. In real life, order can appear superficially to be disorder and vice versa. Therefore, how could we possibly quantify disorder? 
 
@@ -20,7 +18,7 @@ In fact, entropy is not a quantity that can be measured in real systems. It can 
 
 Thus, I would say that entropy as disorder, though not inaccurate, is quite a confusing soundbyte that requires a lot of context to make sense of, whereas entropy as an explanation for irreversibility more directly approaches the fundamental idea. 
 
-### The Second Law of Thermodynamics
+## The Second Law of Thermodynamics
 
 If entropy is not an objective or observable quantity, what of the second law of thermodynamics? This law states
 
@@ -36,13 +34,7 @@ When entropy was first described, physicists inferred its existence but did not 
 
 Thus the second law of thermodynamics, despite being an important principle, is not a real law of physics but was promoted to one due to a mistaken understanding of entropy as an emprical rather than a theoretical concept. The second law of thermodynamics resembles praxeology more than it resembles other laws of physics because they both have to do with laws about ideal things like value that we ascribe to the world but cannot observe. 
 
-## Entropy in Thermodynamics
-
-### Definition of Entropy
-
-
-
-### Temperature
+## Temperature
 
 When entropy was first proposed, entropy was defined in terms of temperature. Nowadays, temperature is defined in terms of entropy. 
 
@@ -58,11 +50,11 @@ Thus, temperature is measured by allowing a thermometer to come into equilibrium
 
 
 
-### Discovery of Entropy
+## Discovery of Entropy
 
-## Thermodynamics in Terms of Statistical Mechanics
+## Absolute Temperature
 
-### Laws of Thermodynamics
+## Laws of Thermodynamics
 
 To reiterate, the laws of thermodynamics are 
 
