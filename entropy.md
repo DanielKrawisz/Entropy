@@ -4,11 +4,13 @@
 
 ### Irreversibility
 
-Entropy is a theoretical quantity that explains irreversibility in physics. Known laws of physics are reversible, which means some physical process would be equally valid both forwards or backwards in time. (For everyday phsyics, this statement is exactly true, whereas for some processes in high energy physics the time-reversed version of a process would also have to be mirror-image reversed as well in order to be valid.) However, in ordinary experience, many unexceptional processes would be quite exceptional if they were reversed. No one has ever experienced a convergence of sound waves into a puddle of liquid and pieces of glass sufficient to project them into the air and together in his hand as an unbroken cup of hot tea but many people have experienced the time-reversed version of such a process.
+Entropy is a theoretical quantity that explains irreversibility in physics. Known laws of physics are reversible, which means some physical process would be equally valid both forwards or backwards in time. (For everyday phsyics, this statement is exactly true, whereas for some processes in high energy physics the time-reversed version of a process would also have to be mirror-image reversed as well in order to be valid, whereas for everyday physics, mirror image reversal is also an exact symmetry.) However, in ordinary experience, many unexceptional processes would be quite exceptional if they were reversed. No one, for example, has ever experienced a convergence of sound waves into a puddle of liquid and pieces of glass sufficient to project them into the air and together in his hand as an unbroken cup of hot tea but many people have experienced the time-reversed version of such a process.
 
-Thus, we observe that physics is irreversible on an everday scale but in controlled conditions designed to experiment with fundamental processes, physics is reversible. Intuitively, the resolution of this apparent paradox follows from a statistical understanding of the physics of our everday experience. Not knowing the precise interactions of all particles around us, from our perspective, the evolution of our everyday system needs to be treated as random. The relevant features of our experience do not depend on the exact position of every particle in our environment. Rather, many possible configurations of matter would result in indistinguishable experiences. 
+Thus, we observe that physics is irreversible on an everday scale but in all controlled conditions designed to experiment with fundamental processes, physics is reversible. The resolution of this apparent paradox follows from a statistical understanding of the physics in our everday experience. Not knowing the precise interactions of all particles around us, we have no recourse but to treat the evolution of our everyday environment as random. The relevant features of our experience do not depend on the exact position of every particle in our environment. Rather, many possible configurations of matter would result in indistinguishable experiences. 
 
-The key to the argument is to note that different configurations of matter might be indistinguishable from vastly different numbers of similar configurations. This would mean that someone who expected his system to evolve randomly would expect some experiences to be vastly more likely than others. A configuration that is similar to fewer others is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely. To put it concretely, here are vastly more ways for a tea cup to fall and break and for tea to spill than for tea to be prepared properly. 
+If our world is indeed random, then it follows that a state with more states that are similar to it is *more likely* than one with fewer. This conclusion explains irreversibility in everyday physics. An irreversible process in everyday experience is not literally irreversible, but is a transition from less likely state to a more likely state. Indeed, different configurations of matter might be indistinguishable from vastly different numbers of similar configurations, which means that some possibilities are so unlikely that they never happen. To put it concretely, among all states in which there is a puddle and broken teacup on the floor, there are vastly fewer similar states with perfectly prepared tea than without, whereas among all states with perfectly prepared tea there are relatively many similar states with a puddle and a broken cup. 
+
+A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. 
 
 ### Entropy as Disorder
 
@@ -52,10 +54,13 @@ For more general sysetms, it is hard to define exactly what temperature is measu
 
 0. **Bodies of the same temperature are in thermodynamic equilibrium.**
 
-Thus, temperature is measured by allowing a thermometer to come into equilibrium with the substance being tested. At equilibrium, the substance is giving as much energy from its interaction with the thermometer as the thermometer is giving back to it. This information is enough to define 
+Thus, temperature is measured by allowing a thermometer to come into equilibrium with the substance being tested. At equilibrium, the substance is giving as much energy from its interaction with the thermometer as the thermometer is giving back to it. This information is enough to derive temperature in terms of entropy. 
+
+
 
 ### Discovery of Entropy
 
+## Thermodynamics in Terms of Statistical Mechanics
 
 ### Laws of Thermodynamics
 
