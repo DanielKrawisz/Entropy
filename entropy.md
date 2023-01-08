@@ -64,7 +64,7 @@ To reiterate, the laws of thermodynamics are
 0. **Bodies of the same temperature are in thermodynamic equilibrium.**
 1. **Energy is conserved.** 
 2. **In a closed system, the entropy never decreases.**
-3. **As the temperature approaches absolute zero, the entropy 
+3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
 
 The third law is the one we have not yet exmained, so we will explain it here. 
 
