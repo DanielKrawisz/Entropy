@@ -40,19 +40,25 @@ When entropy was first proposed, entropy was defined in terms of temperature. No
 
 Temperature was originally defined in terms of thermometers in which fluides could be observed to expand and contract in response to hot and cold. Once temperature could be measuered, it became possible to understand heat as a kind of enerrgy and to distinguish between heat and temperature. Formerly, it was assumed that temperature was a measure of the internal heat of a body, but this is not so. Different substances have different heat capacities, which means that different amounts of heat energy can be absorbed or released by them to change their temperatures by the same amount. 
 
-But if temperature is not a measure of heat, what is it measuring? Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy at equilibrium than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains a great deal about why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
+But if temperature is not a measure of heat, what is it measuring? Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
 
 For more general sysetms, it is hard to define exactly what temperature is measuring. The zeroth law of thermodynamics, which was added later, states 
 
-0. **Bodies of the same temperature are in thermodynamic equilibrium.**
+0. **Bodies that are in thermal equilibrium with one another have the same temperature.**
 
-Thus, temperature is measured by allowing a thermometer to come into equilibrium with the substance being tested. At equilibrium, the substance is giving as much energy from its interaction with the thermometer as the thermometer is giving back to it. This information is enough to derive temperature in terms of entropy. 
+Thus, temperature is measured by allowing a thermometer to come into equilibrium with the substance being tested. At equilibrium, the substance is giving as much energy from its interaction with the thermometer as the thermometer is giving back to it. This information is enough to guess at the relationship between temperature and entropy. 
 
+Two bodies which are at thermal equilibrium with one another should not be able to increase their total entropy by transferring energy from one body to another. Thus the number of states in each body must be increasing with regard to increases in energy at the same rate. If the number of states in one body is increasing faster with regard to increases in energy than the other, than we would expect energy to move into that body from the other and we would say that it has a lower temperature. 
 
+Thus for entropy $S$, energy $E$, and temperature $T$, we might guess that 
 
-## Discovery of Entropy
+$$ \frac{1}{T} = \frac{d S}{d E} $$
+
+which turns out to be correct. 
 
 ## Absolute Temperature
+
+3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
 
 ## Laws of Thermodynamics
 
@@ -64,8 +70,6 @@ To reiterate, the laws of thermodynamics are
 3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
 
 The third law is the one we have not yet exmained, so we will explain it here. 
-
-
 
 ## Entropy and Life
 
