@@ -12,23 +12,23 @@ A configuration that is similar to fewer other states is considered to be low en
 
 ## Entropy as Disorder
 
-Entropy is often characterized as an expression of the disorder of a system. This characterization certainly raises more questions than it answers because disorder would seem to be potentially an obscure property of some system. In real life, order can appear superficially to be disorder and vice versa. Therefore, how could we possibly quantify disorder? 
+Entropy is often characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. Disorder would seem to be potentially an obscure property of some system. In real life, order can appear superficially to be disorder and vice versa. Therefore, how could we possibly quantify disorder? 
 
-In fact, entropy is not a quantity that can be measured in real systems. It can only be applied objectively to theoretical systems whose nature is given by hypothesis. In a real life system, it would only be with a complete understanding that one could say how disordered it really was. In science we never truly know that we have a complete understanding of anything. Rather, our theories tend to get better over time as more observations and analyses are done. Therefore, any purported expression of the disorder of some real system would have to be understood as a theoretical claim supported by an understanding of the nature of the system in question, which would be the result of analysis, not antecedent to it. 
+Although it is true that a disordered state has more entropy than an ordered state, entropy cannot be said to be a measure of disorder because disorder only exists relative to some kind of order. Imagine, for example, that there was no such thing as an unbroken tea cup. Would we then say that broken glass represented a state of disorder? We would not because there would be no other way that it could be. Such a state would still have entropy and its entropy would not be significantly altered by removing all states involving unbroken tea cups because the number of such states would be overwhelmed by the number of other possible configurations of glass.
 
-Thus, I would say that entropy as disorder, though not inaccurate, is quite a confusing soundbyte that requires a lot of context to make sense of, whereas entropy as an explanation for irreversibility more directly approaches the fundamental idea. 
+## Measurability of Entropy
+
+As we will see, differences in entropy can be measured between states that result from changes in temperature, but in general, entropy is a theoretical quantity that can only be applied objectively to ideal systems that are fully understood by hypothesis. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that could only be accurate with an accurate understanding of the room. 
+
+In real systems, there can always be hidden order that is not understood. Think of someone you probably know whose desk alawys appears to be in a state of chaos but who never has trouble finding where anything is. His desk is therefore more ordered than it appears. If you rearranged his desk, he would not be able to find anything. Thus, two configurations that are apparently similar are actually not similar, and can be distinguished by asking your friend if his desk is messy. 
 
 ## The Second Law of Thermodynamics
 
-If entropy is not an objective or observable quantity, what of the second law of thermodynamics? This law states
+If entropy is not disorder, what does the second law of thermodynamics mean? This law states 
 
 2. **In a closed system, the entropy never decreases.**
 
-How can there be a law about an unobservable theoretical construct? The second law is not a law of physics in the same sense as the law of gravity or even the first law of thermodynamics, which states 
-
-1. **Energy is conserved.** 
-
-These laws can be tested empirically, whereas the second law cannot. 
+I said above that a more disordered state has more entropy than an ordered state, so this law does mean that disorder always increases, even though entropy is not a measure of disorder. Since entropy is also an explanation for irreversibility in physics, the second law is a tautology because if entropy decreased over time, that would indicate that a process has occurred which can only happen backwards in time. 
 
 When entropy was first described, physicists inferred its existence but did not understand what it was. Plank, for example, believed that entropy was a fundamental quantity like energy that would eventually be observed directly. However, he was disappointed when Boltzman was able to explain it as emerging out of statistical mechanics because he wanted to be working on fundamental laws, not emergent quantities. Before Boltzman's work, physicists did not understand entropy as relating to disorder. Instead, entropy was understood as a quantity whose increase expressed irreversibility in physics. 
 
@@ -52,35 +52,37 @@ Thus for entropy $S$, energy $E$, and temperature $T$, we might guess that
 
 $$ \frac{1}{T} = \frac{d S}{d E} $$
 
-which turns out to be correct.  
+which turns out to be correct. 
 
-## Thermal Equilibrium
+## The Third Law of Thermodynamics
 
-Originally, temperature was defined in terms of thermometers and entropy was defined as in terms of temperature via the integral version of the expression above. 
+The third law of thermodynamics states 
 
-$$ S = \int \frac{d E}{T} $$ 
+3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
 
-In theoretical physics today, entropy is considered to be a more fundamental idea than temperature, which is typically defined in terms of entropy. However, there is a big difference between temperature as measured in a thermometer and temperature as a function of entropy. The difference is that a real thermometer will always measure a temperature whereas the theoretical definition only exists in thermal equilibrium. 
+This can be understood by transforming the differential expression above into an integral expression:
+
+$$ E = \int T d S + C $$ 
+
+The constant at the end of the integral expression is necessary to set the entropy at absolute zero, which is different for different materials. Two different systems at absolute zero may have different entropies because a system may have one or more lowest energy states. If there is one lowest state then the entropy at absolute zero ought to be zero because there is no ambiguity about which state it is in, whereas if there are more than one, it ought to be greater than zero. 
+
+## Thermal Equilibrium 
+
+In theoretical physics today, entropy is considered to be a more fundamental idea than temperature. Originally, temperature was defined in terms of thermometers and entropy was defined as in terms of temperature via the integral version of the expression above. 
+
+Nowadays, temperature is defined in terms of entropy. However, there is a big difference between temperature as measured in a thermometer and temperature as a function of entropy. The difference is that a real thermometer will always measure a temperature whereas the theoretical definition only exists in thermal equilibrium. 
 
 The idealization of thermal equilibrium is the reason I say that entropy cannot be measured in real systems. One can measure temperature but one cannot make inferences about entropy without knowing that the measurement is taken at thermal equilibrium. But we cannot know that we are at thermal equilibrium without an exact knowledge of the system in question, which we only have of theoretical systems, not real ones. You can of course watch a system and observe that it has not apparently changed in a while, but there could always be some very slow reaction going on that is not evident over your observational time scale. 
 
+For exmaple, imagine a system of two gasses that were mixed together but which interacted only weakly. One gas could be hot and the other cold. A thermometer would measure a temperature if it was 
+
 For example, suppose that the proton decays, as many theoretical physicists suspect. That would mean that there are unknown states that are not being accounted for that are not being occupied by any energy added to some system consisting of ordinary matter. Any measurement of the temperature of ordinary matter would have to be less than the theoretical temperature defined in terms of entropy. 
 
-## Absolute Temperature
-
-3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
-
-## Laws of Thermodynamics
-
-To reiterate, the laws of thermodynamics are 
-
-0. **Bodies of the same temperature are in thermodynamic equilibrium.**
-1. **Energy is conserved.** 
-2. **In a closed system, the entropy never decreases.**
-3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
-
-The third law is the one we have not yet exmained, so we will explain it here. 
+In the example above, the measured temperature would give us a good idea of the entropy. 
 
 ## Entropy and Life
 
+The second law of thermodynamics supposedly says that disorder is always increasing 
+
 ## Entropy and Quantum Gravity
+
