@@ -36,8 +36,6 @@ Thus the second law of thermodynamics, despite being an important principle, is 
 
 ## Temperature
 
-When entropy was first proposed, entropy was defined in terms of temperature. Nowadays, temperature is defined in terms of entropy. 
-
 Temperature was originally defined in terms of thermometers in which fluides could be observed to expand and contract in response to hot and cold. Once temperature could be measuered, it became possible to understand heat as a kind of enerrgy and to distinguish between heat and temperature. Formerly, it was assumed that temperature was a measure of the internal heat of a body, but this is not so. Different substances have different heat capacities, which means that different amounts of heat energy can be absorbed or released by them to change their temperatures by the same amount. 
 
 But if temperature is not a measure of heat, what is it measuring? Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
@@ -54,7 +52,19 @@ Thus for entropy $S$, energy $E$, and temperature $T$, we might guess that
 
 $$ \frac{1}{T} = \frac{d S}{d E} $$
 
-which turns out to be correct. 
+which turns out to be correct.  
+
+## Thermal Equilibrium
+
+Originally, temperature was defined in terms of thermometers and entropy was defined as in terms of temperature via the integral version of the expression above. 
+
+$$ S = \int \frac{d E}{T} $$ 
+
+In theoretical physics today, entropy is considered to be a more fundamental idea than temperature, which is typically defined in terms of entropy. However, there is a big difference between temperature as measured in a thermometer and temperature as a function of entropy. The difference is that a real thermometer will always measure a temperature whereas the theoretical definition only exists in thermal equilibrium. 
+
+The idealization of thermal equilibrium is the reason I say that entropy cannot be measured in real systems. One can measure temperature but one cannot make inferences about entropy without knowing that the measurement is taken at thermal equilibrium. But we cannot know that we are at thermal equilibrium without an exact knowledge of the system in question, which we only have of theoretical systems, not real ones. You can of course watch a system and observe that it has not apparently changed in a while, but there could always be some very slow reaction going on that is not evident over your observational time scale. 
+
+For example, suppose that the proton decays, as many theoretical physicists suspect. That would mean that there are unknown states that are not being accounted for that are not being occupied by any energy added to some system consisting of ordinary matter. Any measurement of the temperature of ordinary matter would have to be less than the theoretical temperature defined in terms of entropy. 
 
 ## Absolute Temperature
 
