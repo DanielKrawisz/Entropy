@@ -44,6 +44,14 @@ When entropy was first described, physicists inferred its existence but did not 
 
 Thus the second law of thermodynamics, despite being an important principle, is not a real law of physics but was promoted to one due to a mistaken understanding of entropy as an emprical rather than a theoretical concept. The second law of thermodynamics resembles praxeology more than it resembles other laws of physics because they both have to do with laws about ideal things like value that we ascribe to the world but cannot observe. 
 
+## Entropy and Life 
+
+Many processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
+
+Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. 
+
+If you consider that all life is driven by the fire in the sun, the total entropy being created there is enormous in comparison to anything going on on the Earth.  
+
 ## Temperature
 
 Temperature was originally defined in terms of thermometers in which fluides could be observed to expand and contract in response to hot and cold. Once temperature could be measuered, it became possible to understand heat as a kind of enerrgy and to distinguish between heat and temperature. Formerly, it was assumed that temperature was a measure of the internal heat of a body, but this is not so. Different substances have different heat capacities, which means that different amounts of heat energy can be absorbed or released by them to change their temperatures by the same amount. 
@@ -89,10 +97,6 @@ For exmaple, imagine a system of two gasses that were mixed together but which i
 For example, suppose that the proton decays, as many theoretical physicists suspect. That would mean that there are unknown states that are not being accounted for that are not being occupied by any energy added to some system consisting of ordinary matter. Any measurement of the temperature of ordinary matter would have to be less than the theoretical temperature defined in terms of entropy. 
 
 In the example above, the measured temperature would give us a good idea of the entropy. 
-
-## Entropy and Life
-
-The second law of thermodynamics supposedly says that disorder is always increasing 
 
 ## Entropy and Quantum Gravity
 
