@@ -12,19 +12,23 @@ A configuration that is similar to fewer other states is considered to be low en
 
 ## Entropy as Disorder
 
-Entropy is often characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. Disorder would seem to be potentially an obscure property of some system. In real life, order can appear superficially to be disorder and vice versa. Therefore, how could we possibly quantify disorder? 
+Entropy is often unhelpfully characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. 
 
-Although it is true that a disordered state has more entropy than an ordered state, entropy cannot be said to be a measure of disorder because disorder only exists relative to some kind of order. Imagine, for example, that there was no such thing as an unbroken tea cup. Would we then say that broken glass represented a state of disorder? We would not because there would be no other way that it could be. Such a state would still have entropy and its entropy would not be significantly altered by removing all states involving unbroken tea cups because the number of such states would be overwhelmed by the number of other possible configurations of glass.
+While it is true that a disordered state has more entropy than an ordered state, entropy cannot be said to be a measure of disorder because disorder only exists relative to some kind of order. Imagine, for example, that there was no such thing as an unbroken tea cup. Would we then say that broken glass represented a state of disorder? We would not because there would be no other way that it could be. Such a state would still have entropy and its entropy would not be significantly altered by removing all states involving unbroken tea cups because the number of such states would be overwhelmed by the number of other possible configurations of glass.
+
+Thus, if we were to say that a system had a certain amount of entropy, this value could not be said to correspond to some amount of disorder in the system, whatever that means. Rather, the system would be less ordered than some other configuration of the system with less entropy. If you wanted to say that the system was disordered, you ought to show that an ordered state was actually possible. 
 
 ## Measurability of Entropy
 
-As we will see, differences in entropy can be measured between states that result from changes in temperature, but in general, entropy is a theoretical quantity that can only be applied objectively to ideal systems that are fully understood by hypothesis. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that could only be accurate with an accurate understanding of the room. 
+Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that could only be accurate with an accurate understanding of the room. 
 
-In real systems, there can always be hidden order that is not understood. Think of someone you probably know whose desk alawys appears to be in a state of chaos but who never has trouble finding where anything is. His desk is therefore more ordered than it appears. If you rearranged his desk, he would not be able to find anything. Thus, two configurations that are apparently similar are actually not similar, and can be distinguished by asking your friend if his desk is messy. 
+Differences in entropy are sometimes measurable. In particular, observations about how the temperature of a system changes in response to changes in heat energy tell us about changes in entropy. It is possible that other experiements can tell us about other entropy differences, but it is in the context of heat and temperature that entropy is best understood.  
+
+In real systems, there can always be hidden order that is not understood. Think of someone you probably know whose desk alawys appears to be in a state of chaos but who never has trouble finding where anything is. His desk is therefore more ordered than it appears. If you rearranged his desk, he would not be able to find anything. Thus, two configurations that are apparently similar are actually not similar, and can be distinguished by asking your friend if his desk is messy. Thus, some idea about how much entropy a system has can change as a result of a deeper understanding of the system resulting from some new scientific investigation of it. 
 
 ## The Second Law of Thermodynamics
 
-If entropy is not disorder, what does the second law of thermodynamics mean? This law states 
+If entropy is not disorder and is not measureable, what does the second law of thermodynamics mean? This law states 
 
 2. **In a closed system, the entropy never decreases.**
 
