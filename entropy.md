@@ -18,6 +18,8 @@ While it is true that a disordered state has more entropy than an ordered state,
 
 Thus, if we were to say that a system had a certain amount of entropy, this value could not be said to correspond to some amount of disorder in the system, whatever that means. Rather, the system would be less ordered than some other configuration of the system with less entropy. If you wanted to say that the system was disordered, you ought to show that an ordered state was actually possible. 
 
+Entropy as an explanation for irreversibily makes a lot more sense than entropy as disorder. However, with an accurate understanding of entropy as disorder, we can say that a tendency towards disorder is the explanatiion for irreversibility in physics. 
+
 ## Measurability of Entropy
 
 Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that could only be accurate with an accurate understanding of the room. 
@@ -32,7 +34,11 @@ If entropy is not disorder and is not measureable, what does the second law of t
 
 2. **In a closed system, the entropy never decreases.**
 
-I said above that a more disordered state has more entropy than an ordered state, so this law does mean that disorder always increases, even though entropy is not a measure of disorder. Since entropy is also an explanation for irreversibility in physics, the second law is a tautology because if entropy decreased over time, that would indicate that a process has occurred which can only happen backwards in time. 
+I said above that a more disordered state has more entropy than an ordered state, so this law does mean that disorder always increases. However, given that entropy is not measurable, this law is certainly of a different character than the law of gravity or even the first law of thermodynamics, which states 
+
+1. **Energy is conserved.**
+
+These laws can be tested empirically, whereas the second cannot. If entropy is an explanation for disorder in phsyics, the second law is a tautology becasue if entropy decreased, that would indicate that some process had occurred which can only happen backwards in time. 
 
 When entropy was first described, physicists inferred its existence but did not understand what it was. Plank, for example, believed that entropy was a fundamental quantity like energy that would eventually be observed directly. However, he was disappointed when Boltzman was able to explain it as emerging out of statistical mechanics because he wanted to be working on fundamental laws, not emergent quantities. Before Boltzman's work, physicists did not understand entropy as relating to disorder. Instead, entropy was understood as a quantity whose increase expressed irreversibility in physics. 
 
