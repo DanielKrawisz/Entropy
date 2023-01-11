@@ -98,13 +98,13 @@ The third law of thermodynamics states
 
 This can be understood by transforming the differential expression above into an integral expression:
 
-$$ E = \int T d S + C $$ 
+$$ S = \int \frac{d E}{T} + C $$ 
 
 The constant at the end of the integral expression is necessary to set the entropy at absolute zero, which is different for different materials. Two different systems at absolute zero may have different entropies because a system may have one or more lowest energy states. If there is one lowest state then the entropy at absolute zero ought to be zero because there is no ambiguity about which state it is in, whereas if there are more than one, it ought to be greater than zero. 
 
 ## Entropy and Life 
 
-Many processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
+Some processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
 
 Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. 
 
