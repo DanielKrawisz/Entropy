@@ -1,6 +1,8 @@
 # Entropy
 
-## Irreversibility
+## Conceptual Issues
+
+### Irreversibility
 
 Entropy is a theoretical quantity that explains irreversibility in physics. Known laws of physics are reversible, which means some physical process would be equally valid both forwards or backwards in time. (For everyday phsyics, this statement is exactly true, whereas for some processes in high energy physics the time-reversed version of a process would also have to be mirror-image reversed as well in order to be valid, whereas for everyday physics, mirror image reversal is also an exact symmetry.) However, in ordinary experience, many unexceptional processes would be quite exceptional if they were reversed. No one, for example, has ever experienced a convergence of sound waves into a puddle of liquid and pieces of glass sufficient to project them into the air and together in his hand as an unbroken cup of hot tea but many people have experienced the time-reversed version of such a process.
 
@@ -10,7 +12,7 @@ If our world is indeed random, then it follows that a state with more states tha
 
 A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. That is all that entropy is and all that it implies. 
 
-## Entropy as Disorder
+### Entropy as Disorder
 
 Entropy is often unhelpfully characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. 
 
@@ -20,15 +22,15 @@ Thus, if we were to say that a system had a certain amount of entropy, this valu
 
 Entropy as an explanation for irreversibily makes a lot more sense than entropy as disorder. However, with an accurate understanding of entropy as disorder, we can say that a tendency towards disorder is the explanatiion for irreversibility in physics. 
 
-## Measurability of Entropy
+### Measurability of Entropy
 
-Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that could only be accurate with an accurate understanding of the room. 
+Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that would depend on an accurate understanding of all possible configurations of matter in the room. 
 
 Differences in entropy are sometimes measurable. In particular, observations about how the temperature of a system changes in response to changes in heat energy tell us about changes in entropy. It is possible that other experiements can tell us about other entropy differences, but it is in the context of heat and temperature that entropy is best understood.  
 
 In real systems, there can always be hidden order that is not understood. Think of someone you probably know whose desk alawys appears to be in a state of chaos but who never has trouble finding where anything is. His desk is therefore more ordered than it appears. If you rearranged his desk, he would not be able to find anything. Thus, two configurations that are apparently similar are actually not similar, and can be distinguished by asking your friend if his desk is messy. Thus, some idea about how much entropy a system has can change as a result of a deeper understanding of the system resulting from some new scientific investigation of it. 
 
-## The Second Law of Thermodynamics
+### The Second Law of Thermodynamics
 
 If entropy is not disorder and is not measureable, what does the second law of thermodynamics mean? This law states 
 
@@ -42,23 +44,23 @@ These laws can be tested empirically, whereas the second cannot. If entropy is a
 
 When entropy was first described, physicists inferred its existence but did not understand what it was. Plank, for example, believed that entropy was a fundamental quantity like energy that would eventually be observed directly. However, he was disappointed when Boltzman was able to explain it as emerging out of statistical mechanics because he wanted to be working on fundamental laws, not emergent quantities. Before Boltzman's work, physicists did not understand entropy as relating to disorder. Instead, entropy was understood as a quantity whose increase expressed irreversibility in physics. 
 
-Thus the second law of thermodynamics, despite being an important principle, is not a real law of physics but was promoted to one due to a mistaken understanding of entropy as an emprical rather than a theoretical concept. The second law of thermodynamics resembles praxeology more than it resembles other laws of physics because they both have to do with laws about ideal things like value that we ascribe to the world but cannot observe. 
+The second law of thermodynamics is certainly a deep and important principle that is at the heart of everything in our experience, but it is not a law of physics in the ordinary sense. It is closer in character to something like praxeology than to other laws of physics because it has to do with ideal things like value that we ascribe to the world but cannot observe. 
 
-## Entropy and Life 
+## Entropy as the Foundation of Thermodynamics
 
-Many processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
+### Temperature vs. Heat
 
-Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. 
+Early researches into thermodynammics concerned questions about the nature of hot and cold. Since antiquity, some people had understood that a fluid changes volume in response to heat. This observation was the basis for the first thermomenters. Originally, *degree* referred to an arbitrary line that was drawn on the device because no one knew what temperature was actually measuring, although it was understood that different thermometers could be calibrated with respect to one another and thus were all measuring the same thing. 
 
-If you consider that all life is driven by the fire in the sun, the total entropy being created there is enormous in comparison to anything going on on the Earth.  
+But what was that thing? Are hot and cold different substances, or is cold merely the absence of hot? Is heat a substance in its own right or is it a kind of motion? These questions were resolved with an experiment that showed that water could be brought to a boil with friction alone. In other words, an unlimited quantity of heat could be produced from motion, and thus it appeared that heat merely was motion. 
 
-## Temperature
+Understanding the connection between heat and motion made it possible to produce heat in specific amounts whose effects could be tested on different kinds of matter. This made it obvious that temperature did not measure heat. Instead, every substance has its own heat capacity, which is an amount of heat required to raise a given mass of the substance one degree of temperature. 
 
-Temperature was originally defined in terms of thermometers in which fluides could be observed to expand and contract in response to hot and cold. Once temperature could be measuered, it became possible to understand heat as a kind of enerrgy and to distinguish between heat and temperature. Formerly, it was assumed that temperature was a measure of the internal heat of a body, but this is not so. Different substances have different heat capacities, which means that different amounts of heat energy can be absorbed or released by them to change their temperatures by the same amount. 
+But if temperature is not a measure of heat, what is it measuring? 
 
-But if temperature is not a measure of heat, what is it measuring? Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
+### Temperature in Terms of Entropy
 
-For more general sysetms, it is hard to define exactly what temperature is measuring. The zeroth law of thermodynamics, which was added later, states 
+The zeroth law of thermodynamics, which was added later, states 
 
 0. **Bodies that are in thermal equilibrium with one another have the same temperature.**
 
@@ -72,17 +74,7 @@ $$ \frac{1}{T} = \frac{d S}{d E} $$
 
 which turns out to be correct. 
 
-## The Third Law of Thermodynamics
-
-The third law of thermodynamics states 
-
-3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
-
-This can be understood by transforming the differential expression above into an integral expression:
-
-$$ E = \int T d S + C $$ 
-
-The constant at the end of the integral expression is necessary to set the entropy at absolute zero, which is different for different materials. Two different systems at absolute zero may have different entropies because a system may have one or more lowest energy states. If there is one lowest state then the entropy at absolute zero ought to be zero because there is no ambiguity about which state it is in, whereas if there are more than one, it ought to be greater than zero. 
+Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
 
 ## Thermal Equilibrium 
 
@@ -98,5 +90,28 @@ For example, suppose that the proton decays, as many theoretical physicists susp
 
 In the example above, the measured temperature would give us a good idea of the entropy. 
 
+## The Third Law of Thermodynamics
+
+The third law of thermodynamics states 
+
+3. **As the temperature approaches absolute zero, the entropy approaches a constant value.**
+
+This can be understood by transforming the differential expression above into an integral expression:
+
+$$ E = \int T d S + C $$ 
+
+The constant at the end of the integral expression is necessary to set the entropy at absolute zero, which is different for different materials. Two different systems at absolute zero may have different entropies because a system may have one or more lowest energy states. If there is one lowest state then the entropy at absolute zero ought to be zero because there is no ambiguity about which state it is in, whereas if there are more than one, it ought to be greater than zero. 
+
+## Entropy and Life 
+
+Many processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
+
+Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. 
+
+If you consider that all life is driven by the fire in the sun, the total entropy being created there is enormous in comparison to anything going on on the Earth. 
+
+Statistical Physics of self-replication
+
 ## Entropy and Quantum Gravity
 
+Quantum information conjecture
