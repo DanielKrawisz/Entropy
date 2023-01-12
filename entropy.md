@@ -26,7 +26,7 @@ Entropy as an explanation for irreversibily makes a lot more sense than entropy 
 
 Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that would depend on an accurate understanding of all possible configurations of matter in the room. 
 
-Differences in entropy are sometimes measurable. In particular, observations about how the temperature of a system changes in response to changes in heat energy tell us about changes in entropy. It is possible that other experiements can tell us about other entropy differences, but it is in the context of heat and temperature that entropy is best understood.  
+Differences in entropy are sometimes measurable. In particular, observations about how the temperature of a system changes in response to changes in heat energy tell us about changes in entropy. It is possible that other experiements can tell us about other entropy differences, but it is in the context of heat and temperature that entropy is best understood. 
 
 In real systems, there can always be hidden order that is not understood. Think of someone you probably know whose desk alawys appears to be in a state of chaos but who never has trouble finding where anything is. His desk is therefore more ordered than it appears. If you rearranged his desk, he would not be able to find anything. Thus, two configurations that are apparently similar are actually not similar, and can be distinguished by asking your friend if his desk is messy. Thus, some idea about how much entropy a system has can change as a result of a deeper understanding of the system resulting from some new scientific investigation of it. 
 
@@ -56,9 +56,19 @@ But what was that thing? Are hot and cold different substances, or is cold merel
 
 Understanding the connection between heat and motion made it possible to produce heat in specific amounts whose effects could be tested on different kinds of matter. This made it obvious that temperature did not measure heat. Instead, every substance has its own heat capacity, which is an amount of heat required to raise a given mass of the substance one degree of temperature. 
 
-But if temperature is not a measure of heat, what is it measuring? 
-
 ### Temperature in Terms of Entropy
+
+But if temperature is not a measure of heat, what is it measuring? When entropy was first identified, it was defined in terms of temperature, but now temperature is defined in terms of entropy, at least if you are a theorist. When two bodies are placed in contact so that they can exchange heat, their relative temperature will tell us which direction heat will move. 
+
+If heat is simply a kind of random motion, then a flow of heat could only be explained in terms of the maximization of entropy. If energy that flows from body $A$ to body $B$ then the number of states available in $B$ as energy is being gained must be greater than those that are being lost in $A$ as the energy is lost. We would also say that $A$ must be hotter than $B$, or otherwise the flow of heat would be in the opposite direction. 
+
+Thus, colder bodies have a greater change in entropy in terms of energy than hotter bodies. For entropy $S$, energy $E$, and temperature $T$, 
+
+$$ \frac{1}{T} = \frac{d S}{d E} $$
+
+This relation was originally a definition of entropy, but is now the theoretical definition of temperature. 
+
+Temperature does not measure something that can be easily identified concretely. The relationship between heat energy and entropy is different for every substance. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. Although real gasses are not ideal, this relation explains why why some gases are stronger greenhouse gasses than others. Gasses with more comlpex molecules store more of their internal energy as potential energy, and hence have higher heat capacities. carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
 
 The zeroth law of thermodynamics, which was added later, states 
 
@@ -68,13 +78,8 @@ Thus, temperature is measured by allowing a thermometer to come into equilibrium
 
 Two bodies which are at thermal equilibrium with one another should not be able to increase their total entropy by transferring energy from one body to another. Thus the number of states in each body must be increasing with regard to increases in energy at the same rate. If the number of states in one body is increasing faster with regard to increases in energy than the other, than we would expect energy to move into that body from the other and we would say that it has a lower temperature. 
 
-Thus for entropy $S$, energy $E$, and temperature $T$, we might guess that 
-
-$$ \frac{1}{T} = \frac{d S}{d E} $$
-
 which turns out to be correct. 
 
-Certain ideal substances could have a formula for temperature asscribed to them. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. This formula explains the heat capacity of gasses in terms of their molecular composition. In particular, some gasses store potential energy as well as kinetic energy. In general, gasses with more complex molecules will store more average potential energy than gasses with less complex molecules. Even though real gasses are not ideal, the ideal gas analysis explains why carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
 
 ## Thermal Equilibrium 
 
