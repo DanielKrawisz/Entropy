@@ -1,8 +1,6 @@
 # Entropy
 
-## Conceptual Issues
-
-### Irreversibility
+## Irreversibility
 
 Entropy is a theoretical quantity that explains irreversibility in physics. Known laws of physics are reversible, which means some physical process would be equally valid both forwards or backwards in time. (For everyday phsyics, this statement is exactly true, whereas for some processes in high energy physics the time-reversed version of a process would also have to be mirror-image reversed as well in order to be valid, whereas for everyday physics, mirror image reversal is also an exact symmetry.) However, in ordinary experience, many unexceptional processes would be quite exceptional if they were reversed. No one, for example, has ever experienced a convergence of sound waves into a puddle of liquid and pieces of glass sufficient to project them into the air and together in his hand as an unbroken cup of hot tea but many people have experienced the time-reversed version of such a process.
 
@@ -12,7 +10,7 @@ If our world is indeed random, then it follows that a state with more states tha
 
 A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. That is all that entropy is and all that it implies. 
 
-### Entropy as Disorder
+## Entropy as Disorder
 
 Entropy is often unhelpfully characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. 
 
@@ -22,7 +20,15 @@ Thus, if we were to say that a system had a certain amount of entropy, this valu
 
 Entropy as an explanation for irreversibily makes a lot more sense than entropy as disorder. However, with an accurate understanding of entropy as disorder, we can say that a tendency towards disorder is the explanatiion for irreversibility in physics. 
 
-### Measurability of Entropy
+## Entropy as Negative Information
+
+Although information is sometimes said to be negative entropy, it is easier to understand entropy in terms of information and say that entropy is like negative information. 
+
+Information Theory was developed by Claude Shannon in *A Mathematical Theory of Communication*. There, he showed that every message could be encoded as a sequence of bits. If the total number of possible messages that could be transmitted over a certain channel in a given amount of time is $M$, then the number of bits in one message is $log_2 (M)$. Shannon defined the information content of a message to be the number of *meaningful* bits in a message. In other words, depending on how messages are enecoded, there may be more than one possible message that all have the same meaning. The differences between these messages do not count toward their information content. If, of those $M$ messages, $N$ possible meanings can be encoded, then the information content of the channel is $log_2 (N)$. The entropy, then, is the number of redundant bits in the message, which is $log_2 (M - N)$. 
+
+Entropy in a physical system works the same way, if you think of the system as a message. 
+
+## Measurability of Entropy
 
 Entropy is not a measurable quantity but rather a theoretical one that we ascribe to systems based on our theoretical knowledge of them. If we were to ascribe a certain value $S$ of entropy to a system, this value would be an inference based on our idea about how many states a sytem can actually have for given values of energy and possibly other observable quantities. Suppose, for example, that you cleaned your room. It would be possible to estimate the change in entropy of the room by attempting to enumerate the number of clean states in relation to messy states, but this would not be a measurement. It would be a theoretical result that would depend on an accurate understanding of all possible configurations of matter in the room. 
 
