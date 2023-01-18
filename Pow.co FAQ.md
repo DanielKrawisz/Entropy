@@ -5,7 +5,7 @@
 PoW.co is a website from The Proof-of-Work Company that enables users to upvote content using Bitcoin's [proof-of-work](#what-is-proof-of-work) function. 
 
 There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle), engagement in terms of ⛏ is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and [relevant](#what-is-relevance). 
-
+fe
 ## What is Boost POW?
 
 Boost POW is protocol defined using Bitcoin transactions that categorizes the relevance of content via the market-driven moderation of proof of work. Boost POW is backed by the economics of the [Handicap Principle](#what-is-the-handicap-principle), which means that the content is expected to be relevant. 
@@ -121,6 +121,7 @@ A candidate (or in our case content) who wants to signal fitness using a handica
 At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. 
 
 ## What about someone who lies to look better even though it’s against his own interest? 
+
 TL;DR- Lies always go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
 
 Evolution works over time and this is an ongoing process that will eventually weed out all liars. 
@@ -152,13 +153,11 @@ As Graffen showed, costly signals are honest on average but not absolutely. Hone
 
 Although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
-# What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? Is BoostPoW even necessary? What if someone objects from participating in the honesty game, what would that mean? 
+# What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? 
 
-TL:DR- BoostPoW will eventually become as viceral in content evaluation, as the handicap principle is in mate selection.  Anyone objecting to participate in the honesty game would be seen as concealing their content due to inadequacy. 
+Boost PWW will eventually become as viceral in content evaluation, as the handicap principle is in mate selection.  Anyone objecting to participate in the honesty game would be seen as concealing their content due to inadequacy. 
 
-Then evaluators ignore him because it is not worth their time to evaluate him, even if they would find him to be a good candidate if they did. They have no choice but to assume that he is a bad candidate. Their optimal strategy is to treat handicaps as honest signals and not waste time on candidates who signal poorly. Handicaps are about finding good relationships quickly and if you don’t make it easy on the evaluators you don’t get any. 
-
-This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. 
+This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
 
 ## Is anything that demonstrates cost an honest signal of fitness? 
 
@@ -255,7 +254,6 @@ As discussed above, honest signallers must understand themselves in relation to 
 
 TL;DR- We welcome you to try.  Incentives are naturally aligned so that such actions are suicidal.  Eventually, the market will learn that it will be more profitable to simply be honest. 
 
-
 See above. We invite you to try boosting irrelevant information and see where it gets you.
 
 Honest actors benefit from boosting good information because they improve the world around them. Thus, they do not lose as much as someone who is boosting fake news and you will never gain as much from subverting the system as they will from upholding it. The difficulty can go as high as it needs to and dishonest actors will be priced out faster than honest actors.
@@ -263,6 +261,7 @@ Honest actors benefit from boosting good information because they improve the wo
 There _is_ something stopping you from boosting fake news, and that is the opportunity cost of boosting something good and gaining the benefit. Manipulative ideas that serve parasites are incapable of winning at PoW.co. If you try being a troll, all that will happen is that you will either run out of money or get bored and turn good.
 
 # Can't some billionaire manipulate the system by boosting any propaganda he wants to the top?
+
 TL;DR- The billionaire can try if he/she wants to waste a lot of resources up until the time the market catches up to his/her deception.  
 
 Yes and no. As can be seen from the previous answer, Boost does not mean that the top idea is automatically better than the next highest idea. Rather, it is a cut-off that is used to limit the number of ideas that users engage with, however many they can handle. In order to control the conversation, a manipulator would have to control the top several upvoted memes, however many the audience he wants to manipulate would typically read.
@@ -280,6 +279,7 @@ This is an objection made by Craig Wright in .
 It is certainly true that opening oneself up to predation is costly. However, there are many costs other than the risk of predation. Spending energy inherently brings anybody closer to failure. Whether or not a predator exists may change the degree of risk involved, and hence the optimal level of signaling, but it does not change the nature of the game. 
 
 # What is the cost of proof-of-work?
+
 TL;DR- Energy that could have been used in other things; opportunity cost. 
 The cost is energy, and the opportunity cost of energy is motion in general. Thus one who signals with proof-of-work has the ability to transform energy and sustain motion. It is a machine that won't turn off regardless of the external conditions.
 
@@ -287,11 +287,11 @@ If a costly signal was truly a signal of fitness, therefore, it must have life a
 
 Since energy is abstract, the machine is not associated with any particular way of storing energy. The fitness to transform energy in general is the ability to transform into whatever is needed. Not just that, but it has optimal intelligence in order to understand how to transform.
 
-# So on PoW.co, you would expect people to be talking about how to continue to transform energy no matter what happens? 
+## So on PoW.co, you would expect people to be talking about how to continue to transform energy no matter what happens? 
 
 Exactly, and that is another word for survival.  
 
-# If a meme is fit, does that mean I can accept it without thinking? 
+## If a meme is fit, does that mean I can accept it without thinking? 
 
 TL;DR- No, you are not absolved from your need to make personal judgements. 
 
@@ -299,10 +299,11 @@ Theoretically yes but remember handicaps are honest on average, not absolutely. 
 
 The difference between PoW.co and other platforms is that here honesty is expected although not absolutely certain, whereas on other platforms dishonesty is to be expected, especially for information that is very relevant and for which a lot can be gained from deception, such as politics, economics, and health. 
 
-# What is a fit meme? 
+## What is a fit meme? 
+
 TL;DR- This is evaluated over time via BoostPoW.  Truly fit memes will grow in acceptance and costly signaling over time.  
 
-Fitness is about avoiding death, so a fit meme is one that will continue to reproduce in people’s brain’s a long time. Over the long term, a meme can destroy its own environment by leading people to their deaths or mental degeneration. This is the kind of unfit meme that we can stop at PoW.co. A fit meme will enhance its own environment so that there will always be lots of brains. It will be something that tells us how to survive. 
+Fitness is about avoiding death, so a fit meme is one that will continue to reproduce in people’s brains for a long time. Over the long term, a meme can destroy its own environment by leading people to their deaths or mental degeneration. This is the kind of unfit meme that we can stop at PoW.co. A fit meme will enhance its own environment so that there will always be lots of brains. It will be something that tells us how to survive. 
 
 A meme’s environment is all the other memes, not just people. Fit memes are symbiotic with other fit memes as well. Hence a fit meme will fit into a larger whole that tells us how to survive and thrive in general. 
 
