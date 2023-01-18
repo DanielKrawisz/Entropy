@@ -4,11 +4,11 @@
 
 PoW.co is a website from The Proof-of-Work Company that enables users to upvote content using Bitcoin's [proof-of-work](#what-is-proof-of-work) function. 
 
-There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle?), engagement in terms of ⛏ is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and relevant. 
+There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle), engagement in terms of ⛏ is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and [relevant](#what-is-relevance). 
 
 ## What is Boost POW?
 
-Boost POW is protocol defined using Bitcoin transactions that categorizes the relevance of content via the market-driven moderation of proof of work. Boost POW is backed by the economics of the [Handicap Principle](#what-is-the-handicap-principle?), which means that the content is expected to be relevant. 
+Boost POW is protocol defined using Bitcoin transactions that categorizes the relevance of content via the market-driven moderation of proof of work. Boost POW is backed by the economics of the [Handicap Principle](#what-is-the-handicap-principle), which means that the content is expected to be relevant. 
 
 When content is boosted, funds are locked in a hash puzzle. Behind the scenes, someone with hashpower can redeem the funds to create a proof-of-work string. When the puzzle has been solved, the content appears on PoW.co with the additional ⛏ added to its total. 
 
@@ -22,25 +22,7 @@ Bitcoin miners know it as *difficulty*, which is equal to the expected number of
 
 ## Why does ⛏ matter?
 
-⛏ matters because it is a measure of provable waste, which is the [definition]() of a handicap and therefore an honest signal of fitness. It is attached to proof-of-work strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
-
-## What is proof-of-work?
-
-Proof-of-work is a signal that includes some information and a solved cryptographic hash puzzle that has been constructed with it. The hash puzzle could not have been solved without converting free energy into heat. Thus, proof-of-work has provable waste which is a handicap and therefore an honest signal of fitness. An example is a Bitcoin block. Another would be any content on PoW.co along with all associated proof-of-work strings. 
-
-Proof-of-work is like a meme with antlers. Memes with antlers are superior candidates for reproduction than those without. As Graffen has shown, males with no advertisement deserve no attention by females. In the same vein, memes without antlers don’t deserve attention from Internet users. 
-
-## Is proof-of-work a metaphor?
-
-Some things have been called proof-of-work in analogy to proof-of-work in the Bitcoin protocol, such as patents or degrees. These are literal proofs of work because someone cannot get them without doing work but they do not involve handicaps, and are therefore not honest signals of fitness. Is proof-of-work literally anything that proves work was done, or is it something with an honest signal of fitness? 
-
-With handicaps, we infer that it is likely worth our time to look at information, such as a purported Bitcoin block, because of waste that is easily assessed that we look at first. 
-
-In other words, handicaps are attractive signals regarding valuable information.  Handicaps provide costly signals and costly signals are signals of honesty.  
-
-“Costly Signals are honest ones” -Daniel Krawisz (or was it Zahavi?)
-
-With a patent or a degree, there is nothing like that and we can make no assessment at all before taking the time to examine it carefully.
+⛏ matters because it is a measure of provable waste, which is the [definition](#what-is-a-handicap) of a handicap and therefore an honest signal of fitness. It is attached to proof-of-work strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
 
 ## What is the Handicap Principle?
 
@@ -54,11 +36,37 @@ A handicap is provable waste.
 
 ## What is waste?
 
-Waste in this context means that something is destroyed but not uselessly or to no avail because the destruction yields a holistic and thorough appraisal. 
+Waste in this context means that something is destroyed but not uselessly or to no avail because its destruction can be expected to yield a holistic and thorough appraisal. 
 
 ## What is fitness?
 
 Fitness is the relative ability to grow and avoid death and failure. 
+
+## What is proof-of-work?
+
+Proof-of-work is a meme with antlers. In other words, it is a message that includes a solution to a cryptographic [hash puzzle](). Such a solution functions as a [handicap](#what-is-a-handicap) and therefore as an honest signal of fitness. 
+
+Memes with antlers are superior candidates for reproduction than those without. As Graffen [has shown](), males with no advertisement deserve no attention by females. In the same vein, memes without antlers don’t deserve attention from Internet users. 
+
+## What is a cryptographic hash puzzle? 
+
+A cryptographic hash puzzle is a computational problem in which an input must be found that hashes to a particular value or must satisfy certain constraints. A cryptographic hash function is one that cannot be inverted significantly faster than with random trials. Thus, a hash puzzle can be used to specify a certain amount of work in terms of random trials must be done in order to find a solution. 
+
+## Why does a hash puzzle turn a meme into a proof of work?
+
+Proof-of-work is not literally a proof of work. A better term might be *evidence of value*. Someone who made a proof-of-work for no reason would be wasting energy. You would expect that such behavior would not be sustainable long-term. Someone who was maximizing his own energy would not make a proof-of-work without some reason to expect that there was more to gain from transmitting such a message than he lost in creating it. That means that the message must be something that other people would be interested in. That is not absolute proof that the message is worth reading. As Grafen has shown, a costly signal is expected to be proportional to fitness, which does not mean that any *particluar* proof-of-work is any good. 
+
+## Is proof-of-work a metaphor?
+
+Some things have been called proof-of-work in analogy to proof-of-work in the Bitcoin protocol, such as patents or degrees. These are literal proofs of work because someone cannot get them without doing work but they do not involve handicaps, and are therefore not honest signals of fitness. Is proof-of-work literally anything that proves work was done, or is it something with an honest signal of fitness? 
+
+With handicaps, we infer that it is likely worth our time to look at information, such as a purported Bitcoin block, because of waste that is easily assessed that we look at first. 
+
+In other words, handicaps are attractive signals regarding valuable information.  Handicaps provide costly signals and costly signals are signals of honesty.  
+
+“Costly Signals are honest ones” -Daniel Krawisz (or was it Zahavi?)
+
+With a patent or a degree, there is nothing like that and we can make no assessment at all before taking the time to examine it carefully.
 
 ## What is the problem that handicaps solve? 
 
@@ -74,8 +82,9 @@ This translates into the world of categorizing valuable data, but acknowledging 
 
 The costly signals of handicaps keep us from being manipulated by others.
 
-It is important to note that handicaps are not as negative as they sound because they show success and fitness over time.  Only truly successful information can sustain the costliness of handicaps.  
-# Why do memes need an honest signal of fitness?
+It is important to note that handicaps are not as negative as they sound because they show success and fitness over time.  Only truly successful information can sustain the costliness of handicaps. 
+
+## Why do memes need an honest signal of fitness?
 
 The biggest problem we have is the problem that handicaps solve. 
 
@@ -99,7 +108,7 @@ At a traditional social network, one would expect less noise at the expense of a
 
 At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
 
-# Why is a handicap an honest signal of fitness?
+## Why is a handicap an honest signal of fitness?
 
 Handicaps are honest because they demonstrate cost. Boost gives content the ability to signal fitness. There is no other upvoting system or marketing that has this honest indicator. 
 
@@ -111,7 +120,7 @@ A candidate (or in our case content) who wants to signal fitness using a handica
 
 At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. 
 
-# What about someone who lies to look better even though it’s against his own interest? 
+## What about someone who lies to look better even though it’s against his own interest? 
 TL;DR- Lies always go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
 
 Evolution works over time and this is an ongoing process that will eventually weed out all liars. 
@@ -122,7 +131,9 @@ A less fit candidate who signals as a more fit candidate has a harder time stayi
 Handicaps do not absolve evaluators of the need for good judgment. A handicap is best understood as the first step in thean evaluation process. Evaluators have limited time in which to find the best candidate and can use handicaps to limit their sample down to a tractable number that is unlikely to have eliminated the best candidates. 
 
 A liar may use a handicap to get into the second round of evaluation when he doesn’t deserve it, but evaluators will compare him to the other candidates at this point and reject him for other reasons. A customer may remember a product because he saw an advertisement that stands out but if the product does not ultimately please him, he will not buy it. 
-# What is honesty? 
+
+## What is honesty? 
+
 TL:DR- Honesty is the proper rank of value and importance regarding specific content. Costly signals help determine the relation of content to its surrounding world.  
 
 Good question. A candidate’s optimal strategy is to signal in proportion to his fitness. But what is the correct proportion? Above we said that more fit candidates (content) signal more than less fit but that does not tell us what the right amount is for a given candidate. 
@@ -133,7 +144,8 @@ Thus, honesty in this context is not simply a matter of telling what you know. I
 
 Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. We can start to see that this is a very interesting game because honesty is not easy. Honesty is a matter of understanding the relationship between yourself and everything else. 
 
-# If handicaps are not perfectly honest, then how honest are they?
+## If handicaps are not perfectly honest, then how honest are they?
+
 TL:DR- Honest signals of handicaps save energy and time.  This helps in the evaluation process of honesty.  
 
 As Graffen showed, costly signals are honest on average but not absolutely. Honesty may be the optimal strategy, but as we have seen above, honesty is also not easy. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. 
@@ -147,7 +159,8 @@ TL:DR- BoostPoW will eventually become as viceral in content evaluation, as the 
 Then evaluators ignore him because it is not worth their time to evaluate him, even if they would find him to be a good candidate if they did. They have no choice but to assume that he is a bad candidate. Their optimal strategy is to treat handicaps as honest signals and not waste time on candidates who signal poorly. Handicaps are about finding good relationships quickly and if you don’t make it easy on the evaluators you don’t get any. 
 
 This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. 
-# Is anything that demonstrates cost an honest signal of fitness? 
+
+## Is anything that demonstrates cost an honest signal of fitness? 
 
 TL;DR- Handicaps are preferred and easily identifiable to evaluators because they are both costly and save time.  Evaluators demand that content be clear and time efficient.  
 
@@ -159,7 +172,7 @@ Although Graffen proved that every honest signal must demonstrate cost, it does 
 
 Remember, handicaps save time! A candidate who does not help evaluators save time is treated like a bad candidate by evaluators regardless of how good he really is. He may demonstrate cost, but they will still treat him like a bad candidate. Why? Because he is more likely to be a bad candidate. Handicaps are a way of rejecting candidates quickly who are likely to be bad. This was understood by Zahavi but missed by Graffen, whose work on costly signals shows that they are honest but not that they save time. 
 
-# Why is provable waste the only honest signal of fitness?
+## Why is provable waste the only honest signal of fitness?
 
 TL;DR- Yes, because provable waste is the only honest signal that gains by attrition over time. 
 
@@ -169,7 +182,7 @@ An important kind of argument that has been made against the Handicap Principle 
 
 Theoretical biologists who have argued against the Handicap Principle have followed Graffen in missing the fact that handicaps save time and therefore have not understood that handicaps win out over alternatives. 
 
-# If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
+## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
 
 TL;DR- No not necessarily, it simply means that with Boost we save time in the evaluation process of fitness, value, and/or honesty.  
 
@@ -177,13 +190,13 @@ In a sense, unfitbut unfit memes cannot ultimately win out because they destroy 
 
 We save the biggest costs by identifying errors early and correcting them before they cause damage. Thus, although truth tends to win out in general, we greatly improve our situation by ensuring that it wins out quickly rather than slowly. 
 
-# Why is waste the most easily assessed cost?
+## Why is waste the most easily assessed cost?
 
 TL;DR- Because waste has no benefit. 
 
 If a cost is not waste, then it needs to be evaluated in terms of its benefit, which makes it more difficult to evaluate. Waste has no benefit. 
 
-# What is cost?
+## What is cost?
 
 TL;DR- Alternate ways energy and resources could have been spent elsewhere on other content over that which is boosted.  Boosted content has meaning to the degree that the energy spent on it could have been spent elsewhere. 
 
@@ -193,48 +206,53 @@ Since different kinds of handicaps waste different resources and therefore have 
 
 In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
 
-# Do I approach death when I boost content on PoW.co? 
+## Do I approach death when I boost content on PoW.co? 
 
 Yes. 
-# Why would I do that? 
+
+## Why would I do that? 
 
 Because you want to live in a world where people have good ideas rather than bad ideas and you know that approaching death is the only way for honest folk to get more attention than manipulators. 
-# That answers why I would use PoW.co in general but not why I would boost any specific content. Why is any particular meme worth approaching death for? 
+
+## That answers why I would use PoW.co in general but not why I would boost any specific content. Why is any particular meme worth approaching death for? 
 
 TL;DR- Because truth is the appetite of the human intellect.  We are constantly driven for better information to improve our survival.  
 
 If a meme moves up one rank, more people see it and evaluate it. If the meme is truly fit, then all those people are improved by it and you are improved as well because now your society is better and you get to live in it. 
 
-# If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
+## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
 
 No because you pay the cost and therefore the miner does not bear it. 
 
-# Why not simply use payments to upvote content. Satoshis cost something, do they not?
+## Why not simply use payments to upvote content. Satoshis cost something, do they not?
+
 TL;DR- Because the waste of energy is innately understood as it pertains to our physical survival. This is energy wasted that we will never get back.
 
 Payments are not an easily assessed cost because it is possible to pay someone back with another transaction that is not known to be connected to the first one. In that case, no real cost has been demonstrated even though apparently it has.
 
 Furthermore, the cost of satoshis is not the same as the cost of energy. The cost of money is everything that is unknown in the economy, whereas the cost of energy is something that is very near to all of us because we all use energy in our own bodies and machines. Even if you burn satoshis, that is not genuine waste because satoshis are non-physical so nothing was really destroyed. The cost of satoshis cannot be understood without reference to the whole economy whereas the cost of energy is innately understood at least to some extent by all living things. 
 
-# What if I pay for proof-of-work and the miner pays me back? 
+## What if I pay for proof-of-work and the miner pays me back? 
+
 TL;DR- Energy is still wasted as it pertains to the meme specifically.  Incentives are naturally aligned where the miner’s well being would be affected if they were to pay you back.  
 
 (We are the environment of the meme’s fitness.  The miner paying back becomes part of the meme’s environment.)     
 
 That doesn’t matter because cost was still demonstrated with proof-of-work and that’s all we care about. It is really the meme that is signaling fitness, not you or the miner. The meme is destroying its own environment when it has proof-of-work attached to it because it is bringing its host closer to death. If you pay for proof-of-work then you are the part of the meme’s environment that is being destroyed and if the miner pays you back secretly, which he would not do unless he believed that the meme was fit, then he is the environment that is being destroyed. 
 
-# I don’t like the idea of paying to upvote content. 
-
+## I don’t like the idea of paying to upvote content. 
 
 TL;DR- Then you would be missing out on a market driven curation of information.
 Would you prefer a platform where you can say whatever you want at no cost no matter how stupid it is or would you prefer one where you get good information by reading it? The benefit of a proof-of-work upvote system is better information. To put this another way, peacocks don’t want to grow a big tail. They just want to have sex. The females don’t give them any other choice but to grow a tail. When you are a reader of PoW.co, you are like the female. That is when you get the real benefit. 
 
-# How do I know how much ⛏ to buy?
+## How do I know how much ⛏ to buy?
 
 TL;DR- If you are a specialist on the topic of a specific piece of content, you may find it imperative to help in the ⛏of content; either by buying more ⛏or by promoting the content amongst your peers.  
 
 As discussed above, honest signallers must understand themselves in relation to everything else. The meme cannot do this on its own so you must help it approach its correct rank. Other people will help, so you don’t necessarily need to move it all the way there. However, if it concerns something that you know especially better than everyone else you may need to help a lot. It’s ultimately about understanding your own knowledge in relation to everyone else’s. 
-# It sounds easy to break this system. There is nothing stopping a person from boosting fake news.
+
+## It sounds easy to break this system. There is nothing stopping a person from boosting fake news.
+
 TL;DR- We welcome you to try.  Incentives are naturally aligned so that such actions are suicidal.  Eventually, the market will learn that it will be more profitable to simply be honest. 
 
 
@@ -290,7 +308,7 @@ A meme’s environment is all the other memes, not just people. Fit memes are sy
 
 Of course, circumstances change. A fit meme one day may not be fit anymore the next day. The conditions of survival change and hence the relevance of information changes over time. Ultimately, the question of which memes are fit is a big collective puzzle that we all contribute to by using PoW.co. 
 
-# What is relevance?
+## What is relevance?
 
 I don't know, you tell me. We all need each other to teach us what we know. 
 
