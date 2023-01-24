@@ -22,7 +22,7 @@ Bitcoin miners know it as *difficulty*, which is equal to the expected number of
 
 ## Why does ⛏ matter?
 
-⛏ matters because it is a measure of provable waste, which is the [definition](#what-is-a-handicap) of a handicap and therefore an honest signal of fitness. It is attached to proof-of-work strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
+⛏ matters because it is a measure of provable waste, which is the [definition](#what-is-a-handicap) of a handicap and therefore an [honest](#what-is-honesty) signal of [fitness](#what-is-fitness). It is attached to proof-of-work strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
 
 ## What is the Handicap Principle?
 
