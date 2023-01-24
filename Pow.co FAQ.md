@@ -5,7 +5,7 @@
 PoW.co is a website from The Proof-of-Work Company that enables users to upvote content using Bitcoin's [proof-of-work](#what-is-proof-of-work) function. 
 
 There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle), engagement in terms of ⛏ is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and [relevant](#what-is-relevance). 
-fe
+
 ## What is Boost POW?
 
 Boost POW is protocol defined using Bitcoin transactions that categorizes the relevance of content via the market-driven moderation of proof of work. Boost POW is backed by the economics of the [Handicap Principle](#what-is-the-handicap-principle), which means that the content is expected to be relevant. 
@@ -40,11 +40,11 @@ Waste in this context means that something is destroyed but not uselessly or to 
 
 ## What is fitness?
 
-Fitness is the relative ability to grow and avoid death and failure. 
+Fitness is the relative ability to grow and avoid death. 
 
 ## What is proof-of-work?
 
-Proof-of-work is a meme with antlers. In other words, it is a message that includes a solution to a cryptographic [hash puzzle](). Such a solution functions as a [handicap](#what-is-a-handicap) and therefore as an honest signal of fitness. 
+Proof-of-work is a meme with antlers. In other words, it is a message that includes a solution to a cryptographic [hash puzzle](#what-is-a-cryptographic-hash-puzzle). Such a solution functions as a [handicap](#what-is-a-handicap) and therefore as an honest signal of fitness. 
 
 Memes with antlers are superior candidates for reproduction than those without. As Graffen [has shown](), males with no advertisement deserve no attention by females. In the same vein, memes without antlers don’t deserve attention from Internet users. 
 
@@ -54,19 +54,11 @@ A cryptographic hash puzzle is a computational problem in which an input must be
 
 ## Why does a hash puzzle turn a meme into a proof of work?
 
-Proof-of-work is not literally a proof of work. A better term might be *evidence of value*. Someone who made a proof-of-work for no reason would be wasting energy. You would expect that such behavior would not be sustainable long-term. Someone who was maximizing his own energy would not make a proof-of-work without some reason to expect that there was more to gain from transmitting such a message than he lost in creating it. That means that the message must be something that other people would be interested in. That is not absolute proof that the message is worth reading. As Grafen has shown, a costly signal is expected to be proportional to fitness, which does not mean that any *particluar* proof-of-work is any good. 
+Proof-of-work is not literally a proof of work. A better term might be *evidence of value*. Someone who made a proof-of-work for no reason would be wasting energy. You would expect that such behavior would not be sustainable long-term. Someone who was maximizing his own energy would not make a proof-of-work without having something important to broadcast. That means that the message must be something that other people would be interested in. That is not absolute proof that the message is worth reading. As Grafen [has shown](), a costly signal is expected to be proportional to fitness, which does not mean that any *particluar* proof-of-work is any good. Rather, proof-of-work is good for selecting content that is *probably* worth reading and rejecting content that *probably* isn't worth reading. 
 
 ## Is proof-of-work a metaphor?
 
-Some things have been called proof-of-work in analogy to proof-of-work in the Bitcoin protocol, such as patents or degrees. These are literal proofs of work because someone cannot get them without doing work but they do not involve handicaps, and are therefore not honest signals of fitness. Is proof-of-work literally anything that proves work was done, or is it something with an honest signal of fitness? 
-
-With handicaps, we infer that it is likely worth our time to look at information, such as a purported Bitcoin block, because of waste that is easily assessed that we look at first. 
-
-In other words, handicaps are attractive signals regarding valuable information.  Handicaps provide costly signals and costly signals are signals of honesty.  
-
-“Costly Signals are honest ones” -Daniel Krawisz (or was it Zahavi?)
-
-With a patent or a degree, there is nothing like that and we can make no assessment at all before taking the time to examine it carefully.
+Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not handicaps. Handicaps are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
 
 ## What is the problem that handicaps solve? 
 
