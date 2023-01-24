@@ -44,13 +44,13 @@ Fitness is the relative ability to grow and avoid death.
 
 ## What is proof-of-work?
 
-Proof-of-work is a meme with antlers. In other words, it is a message that includes a solution to a cryptographic [hash puzzle](#what-is-a-cryptographic-hash-puzzle). Such a solution functions as a [handicap](#what-is-a-handicap) and therefore as an honest signal of fitness. 
+Proof-of-work is a meme with antlers. In other words, it is a message that includes a solution to a cryptographic [hash puzzle](#what-is-a-cryptographic-hash-puzzle). Such a solution functions as a [handicap](#what-is-a-handicap) and therefore as an [honest](#what-is-honesty) signal of [fitness](#what-is-fitness). 
 
 Memes with antlers are superior candidates for reproduction than those without. As Graffen [has shown](), males with no advertisement deserve no attention by females. In the same vein, memes without antlers don’t deserve attention from Internet users. 
 
 ## What is a cryptographic hash puzzle? 
 
-A cryptographic hash puzzle is a computational problem in which an input must be found that hashes to a particular value or must satisfy certain constraints. A cryptographic hash function is one that cannot be inverted significantly faster than with random trials. Thus, a hash puzzle can be used to specify a certain amount of work in terms of random trials must be done in order to find a solution. 
+A cryptographic hash puzzle is a computational problem in which an input must be found that hashes to a certain value or to satisfy certain constraints. A cryptographic hash function by definition cannot be inverted significantly faster than with random trials. Thus, a hash puzzle can be used to specify a certain amount of work in terms of random trials must be done in order to find a solution. 
 
 ## Why does a hash puzzle turn a meme into a proof of work?
 
@@ -177,15 +177,13 @@ Theoretical biologists who have argued against the Handicap Principle have follo
 
 TL;DR- No not necessarily, it simply means that with Boost we save time in the evaluation process of fitness, value, and/or honesty.  
 
-In a sense, unfitbut unfit memes cannot ultimately win out because they destroy their own environment. Truth tends to win out over deception in the end regardless of whether we use handicaps. When we use handicaps we would expect this to happen a lot more quickly. Remember, handicaps save time. On other social networks we would expect unfit memes that are not symbiotic to overtake fit memes a lot more easily in the short term. 
+In a sense. Unfit memes cannot ultimately win out because they destroy their own environment. Truth tends to win out over deception in the end regardless of whether we use handicaps. When we use handicaps we would expect this to happen a lot more quickly. Remember, handicaps save time. On other social networks we would expect unfit memes that are not symbiotic to overtake fit memes a lot more easily in the short term. 
 
 We save the biggest costs by identifying errors early and correcting them before they cause damage. Thus, although truth tends to win out in general, we greatly improve our situation by ensuring that it wins out quickly rather than slowly. 
 
 ## Why is waste the most easily assessed cost?
 
-TL;DR- Because waste has no benefit. 
-
-If a cost is not waste, then it needs to be evaluated in terms of its benefit, which makes it more difficult to evaluate. Waste has no benefit. 
+Because waste has no benefit. 
 
 ## What is cost?
 
