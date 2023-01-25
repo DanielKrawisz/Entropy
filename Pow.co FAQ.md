@@ -1,16 +1,19 @@
 # POW.co FAQ
 
+*Daniel Krawisz
+Rafael LaVerde*
+
 ## What is POW.co?
 
 PoW.co is a website from The Proof-of-Work Company that enables users to upvote content using Bitcoin's [proof-of-work](#what-is-proof-of-work) function. 
 
-There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle), engagement in terms of ⛏ is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and [relevant](#what-is-relevance). 
+There is no institution that curates the content with the power to manipulate numbers or use artificial intelligence against you. All content and engagement data is referenced on-chain and there are no moderators or moderation other than the legal system. Due to the economics of the [Handicap Principle](#what-is-the-handicap-principle), engagement in terms of [⛏](#what-is-⛏) is expected to predict the relevance of the content. Thus, content at PoW.co is both unmanipulated and [relevant](#what-is-relevance). 
 
 ## What is Boost POW?
 
 Boost POW is protocol defined using Bitcoin transactions that categorizes the relevance of content via the market-driven moderation of proof of work. Boost POW is backed by the economics of the [Handicap Principle](#what-is-the-handicap-principle), which means that the content is expected to be relevant. 
 
-When content is boosted, funds are locked in a hash puzzle. Behind the scenes, someone with hashpower can redeem the funds to create a proof-of-work string. When the puzzle has been solved, the content appears on PoW.co with the additional ⛏ added to its total. 
+When content is boosted, funds are locked in a hash puzzle. Behind the scenes, someone with hashpower can redeem the funds to create a proof-of-work string. When the puzzle has been solved, the content appears on PoW.co with the additional [⛏](#what-is-⛏) added to its total. 
 
 ## What is ⛏?
 
@@ -22,25 +25,13 @@ Bitcoin miners know it as *difficulty*, which is equal to the expected number of
 
 ## Why does ⛏ matter?
 
-⛏ matters because it is a measure of provable waste, which is the [definition](#what-is-a-handicap) of a handicap and therefore an [honest](#what-is-honesty) signal of [fitness](#what-is-fitness). It is attached to proof-of-work strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
+⛏ matters because it is a measure of provable waste, which is the [definition](#what-is-a-handicap) of a handicap and therefore an [honest](#what-is-honesty) signal of [fitness](#what-is-fitness). It is attached to [proof-of-work](#what-is-proof-of-work) strings that are associated with memes, which are therefore expected to be fit. If you ignore ⛏, you are ignoring information that is easy to find and expected to be relevant, which is something that you cannot afford. 
 
 ## What is the Handicap Principle?
 
-The Handicap Principle is an idea from Zahavi which says that the only honest signal of fitness is provable waste. The idea was originally proposed to explain sexual signals in biology such as the peacock’s tail but the principle is general and has applications anywhere that the members of a large group need to find mates or make good allies quickly. 
+The Handicap Principle is an idea from Zahavi which says that the only [honest](#what-is-honesty) signal of [fitness](#what-is-fitness) is provable waste. The idea was originally proposed to explain sexual signals in biology such as the peacock’s tail but the principle is general and has applications anywhere that the members of a large group need to find mates or make good allies quickly. 
 
 In human society, think about how business suits can separate those who are serious from those who are just playing a commercial typically has higher production values than the content it appears with. The Handicap Principle says that someone with a good product can much more easily afford to distinguish himself using a costly advertisement than someone with a bad product because he will have more accepted offers and can therefore make up the cost more easily. 
-
-## What is a handicap?
-
-A handicap is provable waste. 
-
-## What is waste?
-
-Waste in this context means that something is destroyed but not uselessly or to no avail because its destruction can be expected to yield a holistic and thorough appraisal. 
-
-## What is fitness?
-
-Fitness is the relative ability to grow and avoid death. 
 
 ## What is proof-of-work?
 
@@ -58,23 +49,39 @@ Proof-of-work is not literally a proof of work. A better term might be *evidence
 
 ## Is proof-of-work a metaphor?
 
-Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not handicaps. Handicaps are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
+Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not [handicaps](#what-is-a-handicap). A handicap are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
+
+## What is a handicap?
+
+A handicap is provable waste. 
+
+## What is waste?
+
+Waste in this context means that something is destroyed but not uselessly or to no avail because its destruction can be expected to yield a holistic and thorough appraisal. 
+
+## What is fitness?
+
+Fitness is the relative ability to grow and avoid death. 
 
 ## What is the problem that handicaps solve? 
 
-TL;DR- They allow you to save energy and time in discovering and distinguishing between that which is valuable and honest over that which is deceptive.
+Handicaps are an honest signal of fitness, which enables us to save energy and time in discovering and distinguishing between that which is valuable and honest over that which is deceptive.
 
-Everyone wants good relationships but nobody wants to admit to being unfit. An honest signal of fitness would eliminate the problem of unfit members lying about their fitness in order to exploit others. Without handicaps we would expect to be surrounded by lies about fitness and must bear a heavy cost of navigating through them. 
+Everyone wants good relationships but nobody wants to admit to being [unfit](#what-is-fitness). An honest signal of fitness would eliminate the problem of unfit members lying about their fitness in order to exploit others. Without handicaps we would expect to be surrounded by lies about fitness and must bear a heavy cost of navigating through them. 
 
-We all have limited resources to evaluate candidates and if there are too many to give them all a close look, we need a way to limit the sample of candidates down to a reasonable number that is not time-consuming but also not likely to eliminate the best ones. 
+We have limited resources to evaluate candidates and there are too many to give them all a close look. An honest signal of fitness would enable us to limit the sample of candidates down to a reasonable number. 
 
-This is clearly important in sex because mistakes with sex is costly and it is important to be as certain as possible beforehand that it is not a mistake. Of course, no one wants to admit that they are less fit because then they would get less sex. Thus, without an honest signal of fitness everyone will be overwhelmed with lies about who is fit, and the next generation will be full of unfit mutants. In other contexts the consequences of not using handicaps will be similar. Using handicaps, we avoid the consequences of bad relationships before they happen. 
+## Why is a handicap an honest signal of fitness?
 
-This translates into the world of categorizing valuable data, but acknowledging that we all play the role of the female gaging the value of data providers.  In like manner to how costly signals help with sexual selection, information of any type can now possess handicaps thanks to BoostPoW. 
+Handicaps are honest because they demonstrate cost. Boost gives content the ability to signal fitness. There is no other upvoting system or marketing that has this honest indicator. 
 
-The costly signals of handicaps keep us from being manipulated by others.
+Some sites have up/down voting systems.  In the past, sites have eliminated the downvoting features and eradicated honest feedback.  With Boost it is costly to manipulate data.  
 
-It is important to note that handicaps are not as negative as they sound because they show success and fitness over time.  Only truly successful information can sustain the costliness of handicaps. 
+Here is a more detailed explanation on how incentives are aligned via the Handicap Principle:
+
+A candidate (or in our case content) who wants to signal fitness using a handicap must choose how much cost to demonstrate given his limited resources. The candidate/content, and must weigh the benefit of a greater signal against the benefit that is losthe loses by using those resources in other ways. 
+
+At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. 
 
 ## Why do memes need an honest signal of fitness?
 
@@ -100,18 +107,6 @@ At a traditional social network, one would expect less noise at the expense of a
 
 At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
 
-## Why is a handicap an honest signal of fitness?
-
-Handicaps are honest because they demonstrate cost. Boost gives content the ability to signal fitness. There is no other upvoting system or marketing that has this honest indicator. 
-
-Some sites have up/down voting systems.  In the past, sites have eliminated the downvoting features and eradicated honest feedback.  With Boost it is costly to manipulate data.  
-
-Here is a more detailed explanation on how incentives are aligned via the Handicap Principle:
-
-A candidate (or in our case content) who wants to signal fitness using a handicap must choose how much cost to demonstrate given his limited resources. The candidate/content, and must weigh the benefit of a greater signal against the benefit that is losthe loses by using those resources in other ways. 
-
-At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. 
-
 ## What about someone who lies to look better even though it’s against his own interest? 
 
 TL;DR- Lies always go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
@@ -119,7 +114,6 @@ TL;DR- Lies always go against the liar's interest, if they can be exposed for ly
 Evolution works over time and this is an ongoing process that will eventually weed out all liars. 
 
 A less fit candidate who signals as a more fit candidate has a harder time staying alive and will die more before he gets a chance to be evaluated. (Deceptive content will not last over time after being found false by evaluators). Furthemore, if he does get to be evaluated, he will still not pass evaluation as much as someone who is more fit. 
-
 
 Handicaps do not absolve evaluators of the need for good judgment. A handicap is best understood as the first step in thean evaluation process. Evaluators have limited time in which to find the best candidate and can use handicaps to limit their sample down to a tractable number that is unlikely to have eliminated the best candidates. 
 
