@@ -139,7 +139,11 @@ As Graffen showed, costly signals are honest on average but not absolutely. Hone
 
 Although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
-# What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? 
+## Can Handicaps Be Used Ns a Voting System? 
+
+No, and please don't try to use them that way. You should never commit to anything that happens in a handicap contest. Remember, the top candidate is not necessarily the best. Boost POW is good for figuring out what is worth thinking about, not for selecting an executive officer or passing a bill into law. [Arrow's Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) shows that voting systems do not work. Poof-of-work will not make them work. Proof-of-work is good for collective decision making in a sense, but only if everyone using it retains their autonomy. If people are committed to the top boosted candidate, then it becomes a lot more worthwhile to try to manipulate the result. 
+
+## What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? 
 
 Boost PWW will eventually become as viceral in content evaluation, as the handicap principle is in mate selection.  Anyone objecting to participate in the honesty game would be seen as concealing their content due to inadequacy. 
 
