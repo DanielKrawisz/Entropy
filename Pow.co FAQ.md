@@ -65,11 +65,7 @@ Fitness is the relative ability to grow and avoid death.
 
 ## What is the problem that handicaps solve? 
 
-Handicaps are an honest signal of fitness, which enables us to save energy and time in discovering and distinguishing between that which is valuable and honest over that which is deceptive.
-
-Everyone wants good relationships but nobody wants to admit to being [unfit](#what-is-fitness). An honest signal of fitness would eliminate the problem of unfit members lying about their fitness in order to exploit others. Without handicaps we would expect to be surrounded by lies about fitness and must bear a heavy cost of navigating through them. 
-
-We have limited resources to evaluate candidates and there are too many to give them all a close look. An honest signal of fitness would enable us to limit the sample of candidates down to a reasonable number. 
+Handicaps are an honest signal of fitness, which means that they solve the problem of being lost among liars when you need to find someone good. Everyone wants good relationships but nobody wants to admit to being [unfit](#what-is-fitness). We have limited resources to evaluate candidates and there are too many to give them all a close look. An honest signal of fitness would enable us to limit the sample of candidates down to a reasonable number. 
 
 ## Why is a handicap an honest signal of fitness?
 
