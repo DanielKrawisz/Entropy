@@ -43,13 +43,9 @@ Memes with antlers are superior candidates for reproduction than those without. 
 
 A cryptographic hash puzzle is a computational problem in which an input must be found that hashes to a certain value or to satisfy certain constraints. A cryptographic hash function by definition cannot be inverted significantly faster than with random trials. Thus, a hash puzzle can be used to specify a certain amount of work in terms of random trials must be done in order to find a solution. 
 
-## Why does a hash puzzle turn a meme into a proof of work?
+## Why does a hash puzzle turn a meme into a proof-of-work?
 
 Proof-of-work is not literally a proof of work. A better term might be *evidence of value*. Someone who made a proof-of-work for no reason would be wasting energy. You would expect that such behavior would not be sustainable long-term. Someone who was maximizing his own energy would not make a proof-of-work without having something important to broadcast. That means that the message must be something that other people would be interested in. That is not absolute proof that the message is worth reading. As Grafen [has shown](), a costly signal is expected to be proportional to fitness, which does not mean that any *particluar* proof-of-work is any good. Rather, proof-of-work is good for selecting content that is *probably* worth reading and rejecting content that *probably* isn't worth reading. 
-
-## Is proof-of-work a metaphor?
-
-Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not [handicaps](#what-is-a-handicap). A handicap are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
 
 ## What is a handicap?
 
@@ -66,6 +62,14 @@ Fitness is the relative ability to grow and avoid death.
 ## What is the problem that handicaps solve? 
 
 Handicaps are an honest signal of fitness, which means that they solve the problem of being lost among liars when you need to find someone good. Everyone wants good relationships but nobody wants to admit to being [unfit](#what-is-fitness). We have limited resources to evaluate candidates and there are too many to give them all a close look. An honest signal of fitness would enable us to limit the sample of candidates down to a reasonable number. 
+
+## Why do memes need an honest signal of fitness?
+
+The biggest problem we have is the problem that handicaps solve. 
+
+As Richard Dawkins has explained, memes are alive and want to reproduce as much as possible, just like biological life. _Meme_ is just another word for _idea_, and our society is overrun with ideas that are unfit because they promote the destruction of civilization and therefore of our brains, which is the only environment they can survive in. We need a better way of evaluating ideas before they reproduce too much. This is the problem that handicaps solve and we can solve it by requiring memes to signal fitness. 
+
+Memes are like males that will use any trick to get into your brain and reproduce. Memes that enable parasitism and other abuse spread easily with cheap talk and emotional manipulation. Memes need to make a sexual display just like the peacock before they are allowed to reproduce inside our brains.
 
 ## Why is a handicap an honest signal of fitness?
 
@@ -87,35 +91,53 @@ Thus, honesty in this context is not simply a matter of telling what you know. I
 
 Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. We can start to see that this is a very interesting game because honesty is not easy. Honesty is a matter of understanding the relationship between yourself and everything else. 
 
-## Why do memes need an honest signal of fitness?
+## Why is provable waste the only honest signal of fitness?
 
-The biggest problem we have is the problem that handicaps solve. 
+Not because other honest signals of fitness are impossible, but rather because handicaps are competitive with other honest signals due to their ease of evaluation. Thus, over the long term, handicaps would be expected to replace other honest signals of fitness. 
 
-As Richard Dawkins has explained, memes are alive and want to reproduce as much as possible, just like biological life. _Meme_ is just another word for _idea_, and our society is overrun with ideas that are unfit because they promote the destruction of civilization and therefore of our brains, which is the only environment they can survive in. We need a better way of evaluating ideas before they reproduce too much. This is the problem that handicaps solve and we can solve it by requiring memes to grow antlers. (Antlers are handicaps for stags). 
+Graffen showed that every honest signal of fitness demonstrates cost. Although he believed he had proven the Handicap Principle, a costly signal 
 
-Memes are like males that will use any trick to get into your brain and reproduce. Consequently, and people have acceptaccepted bad ideas that play with their feelings without thinking about them thoroughlyenough. any idea that plays with their feelings. 
+TL;DR- Yes, because provable waste is the only honest signal that gains by attrition over time. 
 
-Memes that enable parasitism and other abuse spread easily with cheap talk and emotional manipulation. Memes need to make a sexual display just like the peacock before they are allowed to reproduce inside our brains.
+Because handicaps are competitive with other possible signals of fitness and win out over them by competition. If a handicap were in competition with some other signal of fitness, evaluators would save more time by using the handicap than using the other signal because provable waste would be easier for them to assess than any alternative. Some competing signal of fitness, while not as good as a handicap, may survive as a second step in an evaluation process that happens after a handicap, but it would not survive on its own. 
 
-At PoW.co, the design of the page puts you in search of a good idea just as the peahen goes in search of the peacock. Your computer can assess costs, tens of thousands of times a second, and order ideas in terms of the strength of their signal.
+An important kind of argument that has been made against the Handicap Principle is that signaling games can be designed which do not involve handicaps but for which the optimal strategy is to be honest. This would seem to contradict the claim that handicaps are the only honest signal of fitness. However, although the Handicap Principle is not true if it is taken as a statement of logical necessity, it is true as a statement about the real world because nothing else is as good. 
 
-Screen space is precious real estate and your personal time is scarce.  You can stop scrolling whenever you get bored. In this way, you have limited the number of ideas down to an amount that you can reasonably assess, whatever your brainpower. If you think that an idea has been poorly assessed, you can take the standpoint of the male and boost it higher.
+Theoretical biologists who have argued against the Handicap Principle have followed Graffen in missing the fact that handicaps save time and therefore have not understood that handicaps win out over alternatives. 
 
-BoostPoW increases valuable signals as it drowns out noise.  
+## Why is waste the most easily assessed cost?
 
-BoostPoW is superior to, and has the ability to enhance, other social networks because it honestly empowers the best of ideas and data to attain the valuable focus that they deserve. 
+Because waste has no benefit. 
 
-Traditional social media provides the appearance of readily accessible relevant information, however we all know that this is highly manipulated by central planners- whose goal is to exploit you.  
+## What is cost?
 
-At a traditional social network, one would expect less noise at the expense of a lower overall quality. At a given reddit subreddit, for example, you would expect all content to be at least minimally relevant due to moderation. 
+TL;DR- Alternate ways energy and resources could have been spent elsewhere on other content over that which is boosted. Boosted content has meaning to the degree that the energy spent on it could have been spent elsewhere. 
 
-At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
+As Graffen has said, “the cost of a signal is the key to its meaning”. In Austrian economics, all costs are opportunity costs. In other words, the true cost of anything is everything else you could have done instead. Thus, cost is both the meaning of the message and the alternative to the message.
+
+Since different kinds of handicaps waste different resources and therefore have different costs, we may well ask which one is the most meaningful as a signal of fitness? 
+
+In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
+
+## Is anything that demonstrates cost an honest signal of fitness? 
+
+TL;DR- Handicaps are preferred and easily identifiable to evaluators because they are both costly and save time.  Evaluators demand that content be clear and time efficient.  
+
+Costly content that is a convoluted waste of time will be easily regarded by evaluators as evasive for some unknown reason, depreciating its ability to be assessed.  
+
+For example, plastic surgery is a costly indicator where the evaluator has to take extra time to see the actual natural qualities of the candidate.  
+
+Although Graffen proved that every honest signal must demonstrate cost, it does not follow that every costly signal is honest. A cost may be difficult or easy to evaluate. A handicap is easy to evaluate because waste is the most easily assessed cost there could be., Abut a cost that is difficult to evaluate can be dishonest because the candidate may be hoping that an evaluator may not look at it closely enough to assess it correctly. 
+
+Remember, handicaps save time! A candidate who does not help evaluators save time is treated like a bad candidate by evaluators regardless of how good he really is. He may demonstrate cost, but they will still treat him like a bad candidate. Why? Because he is more likely to be a bad candidate. Handicaps are a way of rejecting candidates quickly who are likely to be bad. This was understood by Zahavi but missed by Graffen, whose work on costly signals shows that they are honest but not that they save time. 
+
+## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
+
+No because you pay the cost and therefore the miner does not bear it. 
 
 ## What about someone who lies to look better even though it’s against his own interest? 
 
-TL;DR- Lies always go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
-
-Evolution works over time and this is an ongoing process that will eventually weed out all liars. 
+Lies go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
 
 A less fit candidate who signals as a more fit candidate has a harder time staying alive and will die more before he gets a chance to be evaluated. (Deceptive content will not last over time after being found false by evaluators). Furthemore, if he does get to be evaluated, he will still not pass evaluation as much as someone who is more fit. 
 
@@ -133,28 +155,6 @@ Boost PWW will eventually become as viceral in content evaluation, as the handic
 
 This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
 
-## Is anything that demonstrates cost an honest signal of fitness? 
-
-TL;DR- Handicaps are preferred and easily identifiable to evaluators because they are both costly and save time.  Evaluators demand that content be clear and time efficient.  
-
-Costly content that is a convoluted waste of time will be easily regarded by evaluators as evasive for some unknown reason, depreciating its ability to be assessed.  
-
-For example, plastic surgery is a costly indicator where the evaluator has to take extra time to see the actual natural qualities of the candidate.  
-
-Although Graffen proved that every honest signal must demonstrate cost, it does not follow that every costly signal is honest. A cost may be difficult or easy to evaluate. A handicap is easy to evaluate because waste is the most easily assessed cost there could be., Abut a cost that is difficult to evaluate can be dishonest because the candidate may be hoping that an evaluator may not look at it closely enough to assess it correctly. 
-
-Remember, handicaps save time! A candidate who does not help evaluators save time is treated like a bad candidate by evaluators regardless of how good he really is. He may demonstrate cost, but they will still treat him like a bad candidate. Why? Because he is more likely to be a bad candidate. Handicaps are a way of rejecting candidates quickly who are likely to be bad. This was understood by Zahavi but missed by Graffen, whose work on costly signals shows that they are honest but not that they save time. 
-
-## Why is provable waste the only honest signal of fitness?
-
-TL;DR- Yes, because provable waste is the only honest signal that gains by attrition over time. 
-
-Because handicaps are competitive with other possible signals of fitness and win out over them by competition. If a handicap were in competition with some other signal of fitness, evaluators would save more time by using the handicap than using the other signal because provable waste would be easier for them to assess than any alternative. Some competing signal of fitness, while not as good as a handicap, may survive as a second step in an evaluation process that happens after a handicap, but it would not survive on its own. 
-
-An important kind of argument that has been made against the Handicap Principle is that signaling games can be designed which do not involve handicaps but for which the optimal strategy is to be honest. This would seem to contradict the claim that handicaps are the only honest signal of fitness. However, although the Handicap Principle is not true if it is taken as a statement of logical necessity, it is true as a statement about the real world because nothing else is as good. 
-
-Theoretical biologists who have argued against the Handicap Principle have followed Graffen in missing the fact that handicaps save time and therefore have not understood that handicaps win out over alternatives. 
-
 ## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
 
 TL;DR- No not necessarily, it simply means that with Boost we save time in the evaluation process of fitness, value, and/or honesty.  
@@ -163,19 +163,21 @@ In a sense. Unfit memes cannot ultimately win out because they destroy their own
 
 We save the biggest costs by identifying errors early and correcting them before they cause damage. Thus, although truth tends to win out in general, we greatly improve our situation by ensuring that it wins out quickly rather than slowly. 
 
-## Why is waste the most easily assessed cost?
 
-Because waste has no benefit. 
 
-## What is cost?
+At PoW.co, the design of the page puts you in search of a good idea just as the peahen goes in search of the peacock. Your computer can assess costs, tens of thousands of times a second, and order ideas in terms of the strength of their signal.
 
-TL;DR- Alternate ways energy and resources could have been spent elsewhere on other content over that which is boosted.  Boosted content has meaning to the degree that the energy spent on it could have been spent elsewhere. 
+Screen space is precious real estate and your personal time is scarce.  You can stop scrolling whenever you get bored. In this way, you have limited the number of ideas down to an amount that you can reasonably assess, whatever your brainpower. If you think that an idea has been poorly assessed, you can take the standpoint of the male and boost it higher.
 
-As Graffen has said, “the cost of a signal is the key to its meaning”. In Austrian economics, all costs are opportunity costs. In other words, the true cost of anything is everything else you could have done instead. Thus, cost is both the meaning of the message and the alternative to the message.
+BoostPoW increases valuable signals as it drowns out noise.  
 
-Since different kinds of handicaps waste different resources and therefore have different costs, we may well ask which one is the most meaningful as a signal of fitness? 
+BoostPoW is superior to, and has the ability to enhance, other social networks because it honestly empowers the best of ideas and data to attain the valuable focus that they deserve. 
 
-In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
+Traditional social media provides the appearance of readily accessible relevant information, however we all know that this is highly manipulated by central planners- whose goal is to exploit you.  
+
+At a traditional social network, one would expect less noise at the expense of a lower overall quality. At a given reddit subreddit, for example, you would expect all content to be at least minimally relevant due to moderation. 
+
+At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
 
 ## Do I approach death when I boost content on PoW.co? 
 
@@ -190,10 +192,6 @@ Because you want to live in a world where people have good ideas rather than bad
 TL;DR- Because truth is the appetite of the human intellect.  We are constantly driven for better information to improve our survival.  
 
 If a meme moves up one rank, more people see it and evaluate it. If the meme is truly fit, then all those people are improved by it and you are improved as well because now your society is better and you get to live in it. 
-
-## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
-
-No because you pay the cost and therefore the miner does not bear it. 
 
 ## Why not simply use payments to upvote content. Satoshis cost something, do they not?
 
@@ -242,14 +240,6 @@ Thus, controlling the system for your own benefit costs a lot more than benefiti
 
 Furthermore, he would not be able to prevent those who didn't fall for his lies from communicating with one another, as happens with moderation on other platforms. Those who weren't fooled would just scroll down further in order to get to the good content. Eventually, his waste of resources would get the better of him and those who were better at conserving energy would again be able to boost their content to the top position.
 
-# Doesn’t proof-of-work need a predator to make it meaningful? 
-
-TL;DR- The ultimate predator is scarcity of energy and time in regards to content. 
-
-This is an objection made by Craig Wright in . 
-
-It is certainly true that opening oneself up to predation is costly. However, there are many costs other than the risk of predation. Spending energy inherently brings anybody closer to failure. Whether or not a predator exists may change the degree of risk involved, and hence the optimal level of signaling, but it does not change the nature of the game. 
-
 # What is the cost of proof-of-work?
 
 TL;DR- Energy that could have been used in other things; opportunity cost. 
@@ -261,15 +251,19 @@ Since energy is abstract, the machine is not associated with any particular way 
 
 ## So on PoW.co, you would expect people to be talking about how to continue to transform energy no matter what happens? 
 
-Exactly, and that is another word for survival.  
+Exactly, and that is another word for survival. 
+
+# Doesn’t proof-of-work need a predator to make it meaningful? 
+
+The ultimate predator is scarcity of energy and time in regards to content. It is certainly true that opening oneself up to predation is costly. However, there are many costs other than the risk of predation. Spending energy inherently brings anybody closer to failure. Whether or not a predator exists may change the degree of risk involved, and hence the optimal level of signaling, but it does not change the nature of the game. 
+
+## Is proof-of-work a metaphor?
+
+Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not [handicaps](#what-is-a-handicap). A handicap are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
 
 ## If a meme is fit, does that mean I can accept it without thinking? 
 
-TL;DR- No, you are not absolved from your need to make personal judgements. 
-
-Theoretically yes but remember handicaps are honest on average, not absolutely. You can use them to collect a sample of information that is likely to be relevant but you cannot use them to think for you and they do not absolve you of the need for judgment. 
-
-The difference between PoW.co and other platforms is that here honesty is expected although not absolutely certain, whereas on other platforms dishonesty is to be expected, especially for information that is very relevant and for which a lot can be gained from deception, such as politics, economics, and health. 
+No, you are not absolved from your need to make personal judgements. Remember handicaps are [honest on average], not absolutely. You can use them to collect a sample of information that is likely to be relevant but you cannot use them to think for you.
 
 ## What is a fit meme? 
 
