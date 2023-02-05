@@ -69,15 +69,23 @@ Handicaps are an honest signal of fitness, which means that they solve the probl
 
 ## Why is a handicap an honest signal of fitness?
 
-Handicaps are honest because they demonstrate cost. Boost gives content the ability to signal fitness. There is no other upvoting system or marketing that has this honest indicator. 
+Handicaps are honest because they demonstrate cost. At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. Thus, the handicap game is one that you lose if you are dishonest.
 
-Some sites have up/down voting systems.  In the past, sites have eliminated the downvoting features and eradicated honest feedback.  With Boost it is costly to manipulate data.  
+## How honest is a handicap?
 
-Here is a more detailed explanation on how incentives are aligned via the Handicap Principle:
+As Graffen showed, costly signals are honest on average but not absolutely. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. Thus, although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
-A candidate (or in our case content) who wants to signal fitness using a handicap must choose how much cost to demonstrate given his limited resources. The candidate/content, and must weigh the benefit of a greater signal against the benefit that is losthe loses by using those resources in other ways. 
+## What is honesty? 
 
-At a given level of signal, a more fit candidate faces a better trade-off from a bigger signal than a less-fit candidate. The more fit candidate can both more easily bear the cost and will gain more from the extra attention he will receive from evaluators.  Exposure via boost could be deadly for content; it invites more shrewd evaluators.  As a result, more fit candidates optimize at higher levels of signal than less-fit candidates. Handicaps are honest because they make deception unprofitable. 
+TL:DR- Honesty is the proper rank of value and importance regarding specific content. Costly signals help determine the relation of content to its surrounding world.  
+
+Good question. A candidate’s optimal strategy is to signal in proportion to his fitness. But what is the correct proportion? Above we said that more fit candidates (content) signal more than less fit but that does not tell us what the right amount is for a given candidate. 
+
+The answer has to do with the benefit of more attention. A better candidate can expect more accepted offers but how much more exactly? He would have to know that before he knew how much to signal. The only way to know that is to know about the competition from the other candidates. If the competition is bad then he wants to signal a lot more but if it is good then he wants to signal a little more. 
+
+Thus, honesty in this context is not simply a matter of telling what you know. It is also a matter of collecting information to be as right as you can possibly be. There are consequences for being wrong and no forgiveness for mistakes. 
+
+Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. We can start to see that this is a very interesting game because honesty is not easy. Honesty is a matter of understanding the relationship between yourself and everything else. 
 
 ## Why do memes need an honest signal of fitness?
 
@@ -114,26 +122,6 @@ A less fit candidate who signals as a more fit candidate has a harder time stayi
 Handicaps do not absolve evaluators of the need for good judgment. A handicap is best understood as the first step in thean evaluation process. Evaluators have limited time in which to find the best candidate and can use handicaps to limit their sample down to a tractable number that is unlikely to have eliminated the best candidates. 
 
 A liar may use a handicap to get into the second round of evaluation when he doesn’t deserve it, but evaluators will compare him to the other candidates at this point and reject him for other reasons. A customer may remember a product because he saw an advertisement that stands out but if the product does not ultimately please him, he will not buy it. 
-
-## What is honesty? 
-
-TL:DR- Honesty is the proper rank of value and importance regarding specific content. Costly signals help determine the relation of content to its surrounding world.  
-
-Good question. A candidate’s optimal strategy is to signal in proportion to his fitness. But what is the correct proportion? Above we said that more fit candidates (content) signal more than less fit but that does not tell us what the right amount is for a given candidate. 
-
-The answer has to do with the benefit of more attention. A better candidate can expect more accepted offers but how much more exactly? He would have to know that before he knew how much to signal. The only way to know that is to know about the competition from the other candidates. If the competition is bad then he wants to signal a lot more but if it is good then he wants to signal a little more. 
-
-Thus, honesty in this context is not simply a matter of telling what you know. It is also a matter of collecting information to be as right as you can possibly be. There are consequences for being wrong and no forgiveness for mistakes. 
-
-Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. We can start to see that this is a very interesting game because honesty is not easy. Honesty is a matter of understanding the relationship between yourself and everything else. 
-
-## If handicaps are not perfectly honest, then how honest are they?
-
-TL:DR- Honest signals of handicaps save energy and time.  This helps in the evaluation process of honesty.  
-
-As Graffen showed, costly signals are honest on average but not absolutely. Honesty may be the optimal strategy, but as we have seen above, honesty is also not easy. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. 
-
-Although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
 ## Can Handicaps Be Used Ns a Voting System? 
 
