@@ -1,6 +1,7 @@
 # POW.co FAQ
 
 *Daniel Krawisz
+
 Rafael LaVerde*
 
 ## What is POW.co?
@@ -185,8 +186,7 @@ Then that is the same as if the miner boosted your content. People might be conf
 
 ## I don’t like the idea of paying to upvote content. 
 
-TL;DR- Then you would be missing out on a market driven curation of information.
-Would you prefer a platform where you can say whatever you want at no cost no matter how stupid it is or would you prefer one where you get good information by reading it? The benefit of a proof-of-work upvote system is better information. To put this another way, peacocks don’t want to grow a big tail. They just want to have sex. The females don’t give them any other choice but to grow a tail. When you are a reader of PoW.co, you are like the female. That is when you get the real benefit. 
+What's better, a platform that is free to upvote or a platform with good information?
 
 ## How do I know how much ⛏ to buy?
 
@@ -204,7 +204,7 @@ Honest actors benefit from boosting good information because they improve the wo
 
 There _is_ something stopping you from boosting fake news, and that is the opportunity cost of boosting something good and gaining the benefit. Manipulative ideas that serve parasites are incapable of winning at PoW.co. If you try being a troll, all that will happen is that you will either run out of money or get bored and turn good.
 
-# Can't some billionaire manipulate the system by boosting any propaganda he wants to the top?
+## Can't some billionaire manipulate the system by boosting any propaganda he wants to the top?
 
 TL;DR- The billionaire can try if he/she wants to waste a lot of resources up until the time the market catches up to his/her deception.  
 
@@ -214,7 +214,7 @@ Thus, controlling the system for your own benefit costs a lot more than benefiti
 
 Furthermore, he would not be able to prevent those who didn't fall for his lies from communicating with one another, as happens with moderation on other platforms. Those who weren't fooled would just scroll down further in order to get to the good content. Eventually, his waste of resources would get the better of him and those who were better at conserving energy would again be able to boost their content to the top position.
 
-# What is the cost of proof-of-work?
+## What is the cost of proof-of-work?
 
 TL;DR- Energy that could have been used in other things; opportunity cost. 
 The cost is energy, and the opportunity cost of energy is motion in general. Thus one who signals with proof-of-work has the ability to transform energy and sustain motion. It is a machine that won't turn off regardless of the external conditions.
@@ -227,7 +227,7 @@ Since energy is abstract, the machine is not associated with any particular way 
 
 Exactly, and that is another word for survival. 
 
-# Doesn’t proof-of-work need a predator to make it meaningful? 
+## Doesn’t proof-of-work need a predator to make it meaningful? 
 
 The ultimate predator is scarcity of energy and time in regards to content. It is certainly true that opening oneself up to predation is costly. However, there are many costs other than the risk of predation. Spending energy inherently brings anybody closer to failure. Whether or not a predator exists may change the degree of risk involved, and hence the optimal level of signaling, but it does not change the nature of the game. 
 
