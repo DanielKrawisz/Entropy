@@ -65,11 +65,9 @@ Handicaps are an honest signal of fitness, which means that they solve the probl
 
 ## Why do memes need an honest signal of fitness?
 
-The biggest problem we have is the problem that handicaps solve. 
+In our society, the flow of information is controlled by well-connected individuals who have competed with one another for the ability to broadcast to many peoeple. The competition to develop many followers is better for manipulators than it is for honest people who don't have as much to gain by spreading truth. Thus, we have a problem with parasitic memes. This means that many people believe deceptions that serve an agenda rather than themselves. Our society as a whole is not good eliminating bad ideas. Gad Saad has written about this problem in his popular book, [The Parasitic Mind](). He understands the problem, Boost POW is the solution. With Boost POW, there is no single curator of information. Anyone can broadcast memes for direct competition in all users' minds. 
 
-As Richard Dawkins has explained, memes are alive and want to reproduce as much as possible, just like biological life. _Meme_ is just another word for _idea_, and our society is overrun with ideas that are unfit because they promote the destruction of civilization and therefore of our brains, which is the only environment they can survive in. We need a better way of evaluating ideas before they reproduce too much. This is the problem that handicaps solve and we can solve it by requiring memes to signal fitness. 
-
-Memes are like males that will use any trick to get into your brain and reproduce. Memes that enable parasitism and other abuse spread easily with cheap talk and emotional manipulation. Memes need to make a sexual display just like the peacock before they are allowed to reproduce inside our brains.
+As Richard Dawkins has explained, memes are alive and want to reproduce as much as possible, just like biological life. _Meme_ is just another word for _idea_, and our society is overrun with ideas that are unfit because they promote the destruction of civilization and therefore of our brains, which is the only environment they can survive in. We need a better way of evaluating ideas before they reproduce too much. This is the problem that handicaps solve and we can solve it by requiring memes to show us an honest signal of fitness before we look at them. 
 
 ## Why is a handicap an honest signal of fitness?
 
@@ -78,18 +76,6 @@ Handicaps are honest because they demonstrate cost. At a given level of signal, 
 ## How honest is a handicap?
 
 As Graffen showed, costly signals are honest on average but not absolutely. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. Thus, although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
-
-## What is honesty? 
-
-TL:DR- Honesty is the proper rank of value and importance regarding specific content. Costly signals help determine the relation of content to its surrounding world.  
-
-Good question. A candidate’s optimal strategy is to signal in proportion to his fitness. But what is the correct proportion? Above we said that more fit candidates (content) signal more than less fit but that does not tell us what the right amount is for a given candidate. 
-
-The answer has to do with the benefit of more attention. A better candidate can expect more accepted offers but how much more exactly? He would have to know that before he knew how much to signal. The only way to know that is to know about the competition from the other candidates. If the competition is bad then he wants to signal a lot more but if it is good then he wants to signal a little more. 
-
-Thus, honesty in this context is not simply a matter of telling what you know. It is also a matter of collecting information to be as right as you can possibly be. There are consequences for being wrong and no forgiveness for mistakes. 
-
-Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. We can start to see that this is a very interesting game because honesty is not easy. Honesty is a matter of understanding the relationship between yourself and everything else. 
 
 ## Why is provable waste the only honest signal of fitness?
 
@@ -131,29 +117,13 @@ Although Graffen proved that every honest signal must demonstrate cost, it does 
 
 Remember, handicaps save time! A candidate who does not help evaluators save time is treated like a bad candidate by evaluators regardless of how good he really is. He may demonstrate cost, but they will still treat him like a bad candidate. Why? Because he is more likely to be a bad candidate. Handicaps are a way of rejecting candidates quickly who are likely to be bad. This was understood by Zahavi but missed by Graffen, whose work on costly signals shows that they are honest but not that they save time. 
 
-## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
-
-No because you pay the cost and therefore the miner does not bear it. 
-
 ## What about someone who lies to look better even though it’s against his own interest? 
 
-Lies go against the liar's interest, if they can be exposed for lying.  Boost makes it easier for liars to be found out. 
-
-A less fit candidate who signals as a more fit candidate has a harder time staying alive and will die more before he gets a chance to be evaluated. (Deceptive content will not last over time after being found false by evaluators). Furthemore, if he does get to be evaluated, he will still not pass evaluation as much as someone who is more fit. 
-
-Handicaps do not absolve evaluators of the need for good judgment. A handicap is best understood as the first step in thean evaluation process. Evaluators have limited time in which to find the best candidate and can use handicaps to limit their sample down to a tractable number that is unlikely to have eliminated the best candidates. 
-
-A liar may use a handicap to get into the second round of evaluation when he doesn’t deserve it, but evaluators will compare him to the other candidates at this point and reject him for other reasons. A customer may remember a product because he saw an advertisement that stands out but if the product does not ultimately please him, he will not buy it. 
-
-## Can Handicaps Be Used Ns a Voting System? 
-
-No, and please don't try to use them that way. You should never commit to anything that happens in a handicap contest. Remember, the top candidate is not necessarily the best. Boost POW is good for figuring out what is worth thinking about, not for selecting an executive officer or passing a bill into law. [Arrow's Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) shows that voting systems do not work. Poof-of-work will not make them work. Proof-of-work is good for collective decision making in a sense, but only if everyone using it retains their autonomy. If people are committed to the top boosted candidate, then it becomes a lot more worthwhile to try to manipulate the result. 
+Then he is in direct competition with other males who are really stronger than him and either they will beat him up or the females will see that he's making a bad offer. 
 
 ## What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? 
 
-Boost PWW will eventually become as viceral in content evaluation, as the handicap principle is in mate selection.  Anyone objecting to participate in the honesty game would be seen as concealing their content due to inadequacy. 
-
-This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
+Graffen showed that rational females pay no attention to males with no advertisement. This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
 
 ## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
 
@@ -193,6 +163,10 @@ TL;DR- Because truth is the appetite of the human intellect.  We are constantly 
 
 If a meme moves up one rank, more people see it and evaluate it. If the meme is truly fit, then all those people are improved by it and you are improved as well because now your society is better and you get to live in it. 
 
+## Can Handicaps Be Used As a Voting System? 
+
+No, and please don't try to use them that way. You should never commit to anything that happens in a handicap contest. Remember, the top candidate is not necessarily the best. Boost POW is good for figuring out what is worth thinking about, not for selecting an executive officer or passing a bill into law. [Arrow's Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) shows that voting systems do not work. Poof-of-work will not make them work. Proof-of-work is good for collective decision making in a sense, but only if everyone using it retains their autonomy. If people are committed to the top boosted candidate, then it becomes a lot more worthwhile to try to manipulate the result. 
+
 ## Why not simply use payments to upvote content. Satoshis cost something, do they not?
 
 TL;DR- Because the waste of energy is innately understood as it pertains to our physical survival. This is energy wasted that we will never get back.
@@ -201,13 +175,13 @@ Payments are not an easily assessed cost because it is possible to pay someone b
 
 Furthermore, the cost of satoshis is not the same as the cost of energy. The cost of money is everything that is unknown in the economy, whereas the cost of energy is something that is very near to all of us because we all use energy in our own bodies and machines. Even if you burn satoshis, that is not genuine waste because satoshis are non-physical so nothing was really destroyed. The cost of satoshis cannot be understood without reference to the whole economy whereas the cost of energy is innately understood at least to some extent by all living things. 
 
+## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
+
+No because you pay the cost and therefore the miner does not bear it. 
+
 ## What if I pay for proof-of-work and the miner pays me back? 
 
-TL;DR- Energy is still wasted as it pertains to the meme specifically.  Incentives are naturally aligned where the miner’s well being would be affected if they were to pay you back.  
-
-(We are the environment of the meme’s fitness.  The miner paying back becomes part of the meme’s environment.)     
-
-That doesn’t matter because cost was still demonstrated with proof-of-work and that’s all we care about. It is really the meme that is signaling fitness, not you or the miner. The meme is destroying its own environment when it has proof-of-work attached to it because it is bringing its host closer to death. If you pay for proof-of-work then you are the part of the meme’s environment that is being destroyed and if the miner pays you back secretly, which he would not do unless he believed that the meme was fit, then he is the environment that is being destroyed. 
+Then that is the same as if the miner boosted your content. People might be confused about who boosted the content, but we don't care about that very much. 
 
 ## I don’t like the idea of paying to upvote content. 
 
@@ -264,6 +238,10 @@ Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle at
 ## If a meme is fit, does that mean I can accept it without thinking? 
 
 No, you are not absolved from your need to make personal judgements. Remember handicaps are [honest on average], not absolutely. You can use them to collect a sample of information that is likely to be relevant but you cannot use them to think for you.
+
+## What is honesty? 
+
+Honesty in this context means honesty about fitness, which means selecting the correct rank among all content. Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. 
 
 ## What is a fit meme? 
 
