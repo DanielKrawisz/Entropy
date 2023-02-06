@@ -1,8 +1,8 @@
 # POW.co FAQ
 
-*Daniel Krawisz
+*Daniel Krawisz*
 
-Rafael LaVerde*
+*Rafael LaVerde*
 
 ## What is POW.co?
 
