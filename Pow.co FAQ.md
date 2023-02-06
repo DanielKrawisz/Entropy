@@ -126,30 +126,6 @@ Then he is in direct competition with other males who are really stronger than h
 
 Graffen showed that rational females pay no attention to males with no advertisement. This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
 
-## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
-
-TL;DR- No not necessarily, it simply means that with Boost we save time in the evaluation process of fitness, value, and/or honesty.  
-
-In a sense. Unfit memes cannot ultimately win out because they destroy their own environment. Truth tends to win out over deception in the end regardless of whether we use handicaps. When we use handicaps we would expect this to happen a lot more quickly. Remember, handicaps save time. On other social networks we would expect unfit memes that are not symbiotic to overtake fit memes a lot more easily in the short term. 
-
-We save the biggest costs by identifying errors early and correcting them before they cause damage. Thus, although truth tends to win out in general, we greatly improve our situation by ensuring that it wins out quickly rather than slowly. 
-
-
-
-At PoW.co, the design of the page puts you in search of a good idea just as the peahen goes in search of the peacock. Your computer can assess costs, tens of thousands of times a second, and order ideas in terms of the strength of their signal.
-
-Screen space is precious real estate and your personal time is scarce.  You can stop scrolling whenever you get bored. In this way, you have limited the number of ideas down to an amount that you can reasonably assess, whatever your brainpower. If you think that an idea has been poorly assessed, you can take the standpoint of the male and boost it higher.
-
-BoostPoW increases valuable signals as it drowns out noise.  
-
-BoostPoW is superior to, and has the ability to enhance, other social networks because it honestly empowers the best of ideas and data to attain the valuable focus that they deserve. 
-
-Traditional social media provides the appearance of readily accessible relevant information, however we all know that this is highly manipulated by central planners- whose goal is to exploit you.  
-
-At a traditional social network, one would expect less noise at the expense of a lower overall quality. At a given reddit subreddit, for example, you would expect all content to be at least minimally relevant due to moderation. 
-
-At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
-
 ## Do I approach death when I boost content on PoW.co? 
 
 Yes. 
@@ -187,6 +163,30 @@ Then that is the same as if the miner boosted your content. People might be conf
 ## I don’t like the idea of paying to upvote content. 
 
 What's better, a platform that is free to upvote or a platform with good information?
+
+## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
+
+TL;DR- No not necessarily, it simply means that with Boost we save time in the evaluation process of fitness, value, and/or honesty.  
+
+In a sense. Unfit memes cannot ultimately win out because they destroy their own environment. Truth tends to win out over deception in the end regardless of whether we use handicaps. When we use handicaps we would expect this to happen a lot more quickly. Remember, handicaps save time. On other social networks we would expect unfit memes that are not symbiotic to overtake fit memes a lot more easily in the short term. 
+
+We save the biggest costs by identifying errors early and correcting them before they cause damage. Thus, although truth tends to win out in general, we greatly improve our situation by ensuring that it wins out quickly rather than slowly. 
+
+
+
+At PoW.co, the design of the page puts you in search of a good idea just as the peahen goes in search of the peacock. Your computer can assess costs, tens of thousands of times a second, and order ideas in terms of the strength of their signal.
+
+Screen space is precious real estate and your personal time is scarce.  You can stop scrolling whenever you get bored. In this way, you have limited the number of ideas down to an amount that you can reasonably assess, whatever your brainpower. If you think that an idea has been poorly assessed, you can take the standpoint of the male and boost it higher.
+
+BoostPoW increases valuable signals as it drowns out noise.  
+
+BoostPoW is superior to, and has the ability to enhance, other social networks because it honestly empowers the best of ideas and data to attain the valuable focus that they deserve. 
+
+Traditional social media provides the appearance of readily accessible relevant information, however we all know that this is highly manipulated by central planners- whose goal is to exploit you.  
+
+At a traditional social network, one would expect less noise at the expense of a lower overall quality. At a given reddit subreddit, for example, you would expect all content to be at least minimally relevant due to moderation. 
+
+At PoW.co, you would expect to see at least some ideas that are not relevant at all. However you would also expect to find the best idea much more quickly and easily than on reddit or Facebook or another one of those networks where the whole point is to manipulate you. 
 
 ## How do I know how much ⛏ to buy?
 
