@@ -34,7 +34,7 @@ $$ \frac{1}{T} = \frac{d S}{d E} $$
 
 This is how modern physicists think about temperature. Thus, temperature was a fundamental quantity when entropy was first proposed, but now entropy is seen as fundamental. 
 
-This relation makes sense in terms of the concept of entropy given above because if the number of states in one system $B$ is going up more as more energy is provided to it than another system $A$, then one would expect it to be more probable for energy to flow from $A$ to $B$. 
+This relation makes sense in terms of the concept of entropy given above because if the number of states in one system $B$ is going up more as more energy is provided to it than another system $A$, then one would expect it to be more probable for energy to flow from $A$ to $B$ than from $B$ to $A$. 
 
 ## Maxwell's Demon
 
@@ -44,9 +44,7 @@ Yet when that is the case, where is the entropy? It appears to be something in o
 
 Maxwell's Demon was introduced by Maxwell in an offhand way to demonstrate the opposite, ie, that entropy no longer exists without statistical physics. Maxwell proposed a system with two chambers filled with a gas and a small slit connecting them. An entity with the power to observe individual particles of gas would open or close the slit when a gas particle moved near it based on what it observed about the particle. The entity could allow cold particles to pass in one direction and hot particles in the other. In this way the demon could control the flow of heat to be entropically negative. 
 
-## Entropy and Time's Arrow 
-
-Entropy is the fundamental concept in physics that is associated with a direction of time that distinguishes past from future. 
+Physicists after Maxwell have showen that the demon, in fact, *cannot* do this. 
 
 ## Entropy as Negative Information
 
@@ -59,6 +57,10 @@ Entropy in a physical system works the same way, which makes sense because any p
 The concept of the *number of states* needs some clarification. Typically, a physical system will take up a certain volume $V$. This is analagous to thinking of messages in terms of what can be transmitted in a fixed amount of time. There is also a certain energy $E$ in that volume. This is analagous to a channel of communication having a certain maximum frequencey. Under these conditions, the number of states in a quantum mechanical system is finite, so in that case the concepts of entropy and information can be carried over from information theory directly. 
 
 For classical mechanics, the same logic doesn't really work because in a classical system with a finite volume, the number of states is still infinite. In this case, physicists have to define a unit of entropy as a volume of space space so that it gives roughly the same answer as quantum mechanics for weakly interacting systems with large numbers of particles. This is ok because in classical physics only proportions of energy differences matter, so the definition of some unit of entropy always ends up canceling out. 
+
+## Entropy and Time's Arrow 
+
+Entropy is the fundamental concept in physics that is associated with a direction of time that distinguishes past from future. 
 
 ## Measurability of Entropy
 
