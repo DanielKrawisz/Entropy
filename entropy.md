@@ -10,6 +10,30 @@ If our world is indeed random, then it follows that a state with more states tha
 
 A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. That is all that entropy is and all that it implies. 
 
+## The Second Law of Thermodynamics
+
+Entropy is strongly associated with the second law of thermodynamics, which states.  
+
+2. **In a closed system, the entropy never decreases.**
+
+This law follows from the concept of entropy described above. If entropy never decreases then only a processes with constant entropy could be reversible. It would not need to be independently stated except that entropy was introduced by Clausius not as a quantity related to the number of states a system could attain, but as an unknown quantity given in terms of energy and temperature. 
+
+$$ \Delta S = \frac{\Delta E}{T} $$
+
+This quantity and the fact that it could not go down was used to explain the observed maximum efficiency of engines.  
+
+## Maxwell's Demon
+
+Entropy can't go down because we can't stop rolling dice with the universe. Thus, more probable states are inevitable. In quantum physics, probability is conceived as a fundamental property of a physical state, whereas in classical physics it is not. However, a deterministic process that consists of many interacting parts may be indistinguishable from one that is probabilistic. Therefore entropy matters even when quantum mechanics does not. 
+
+Yet when that is the case, where is the entropy? It appears to be something in our minds that exists because of our inability to comprehend the system in its true detail. How can entropy be so powerful if it is not even real? A thought experiment known as Maxwell's Demon has taught physicists that even beingns with an individual knowledge of all particles in an interacting system cannot escape the second law. 
+
+Maxwell's Demon was introduced by Maxwell in an offhand way to demonstrate the opposite, ie, that a creature with individual knowledge of all particles in a gas would be able to reduce the entropy of a system. 
+
+## Entropy and Time's Arrow 
+
+Entropy is the fundamental concept in physics that is associated with a direction of time that distinguishes past from future. 
+
 ## Entropy as Disorder
 
 Entropy is often unhelpfully characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. 
