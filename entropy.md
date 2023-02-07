@@ -12,7 +12,7 @@ A configuration that is similar to fewer other states is considered to be low en
 
 ## Entropy as Disorder
 
-Entropy is often characterized as an expression of the disorder of a system. I think that this analogy is difficult to make sense of and tends to provoke the imagination in unhelpful directions. Furthermore it provokes questions about the nature of order that are not needed to understand entropy. Entropy as irreversibility strikes the heart of the matter. 
+Entropy is often characterized as an expression of the disorder of a system. This unhelpful analogy provokes questions about the nature of order that are not needed to understand entropy. It is certainly true that processes which transition from ordered to disordered are probably irreversable, and therefore characterized by an increase in entropy. However, entropy is not the same thing as disorder because disorder is defined in reference to order, whereas entropy is a function of the number of possible states a system is in. Is a system with fewer possible states more ordered? You could think about a question like that all day without understanding entropy any better, which is the problme with telling poeeple that entropy is disorder. Entropy as irreversibility strikes closer to the the heart of the matter. 
 
 ## The Second Law of Thermodynamics
 
@@ -58,6 +58,16 @@ The concept of the *number of states* needs some clarification. Typically, a phy
 
 For classical mechanics, the same logic doesn't really work because in a classical system with a finite volume, the number of states is still infinite. In this case, physicists have to define a unit of entropy as a volume of space space so that it gives roughly the same answer as quantum mechanics for weakly interacting systems with large numbers of particles. This is ok because in classical physics only proportions of energy differences matter, so the definition of some unit of entropy always ends up canceling out. 
 
+## Entropy and Life 
+
+Creationists sometimes claim that the evolution of life violates the second law of thermodynamics because it goes from disorder to order rather than from order to disorder, but this fallacy is easily exposed by recalling that the second law applies only to a closed system, which means that it is not interacting with anything else. 
+
+Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. Inside its body, there is a decrease in entropy but outside there is a much greater increase as a result of the body's interaction with the rest of the world. 
+
+The entropy of a closed system cannot decrease, but the entropy of a system that is interacting with other systems can decrease, as long as there is a corresponding increase in the systems that it is interacting with. 
+
+Statistical Physics of self-replication
+
 ## Entropy and Time's Arrow 
 
 Entropy is the fundamental concept in physics that is associated with a direction of time that distinguishes past from future. 
@@ -99,16 +109,9 @@ The zeroth law of thermodynamics, which was added later, states
 
 Thus, temperature is measured by allowing a thermometer to come into equilibrium with the substance being tested. At equilibrium, the substance is giving as much energy from its interaction with the thermometer as the thermometer is giving back to it. This information is enough to guess at the relationship between temperature and entropy. 
 
-Two bodies which are at thermal equilibrium with one another should not be able to increase their total entropy by transferring energy from one body to another. Thus the number of states in each body must be increasing with regard to increases in energy at the same rate. If the number of states in one body is increasing faster with regard to increases in energy than the other, than we would expect energy to move into that body from the other and we would say that it has a lower temperature. 
-
-which turns out to be correct. 
-
 
 ## Thermal Equilibrium 
 
-In theoretical physics today, entropy is considered to be a more fundamental idea than temperature. Originally, temperature was defined in terms of thermometers and entropy was defined as in terms of temperature via the integral version of the expression above. 
-
-Nowadays, temperature is defined in terms of entropy. However, there is a big difference between temperature as measured in a thermometer and temperature as a function of entropy. The difference is that a real thermometer will always measure a temperature whereas the theoretical definition only exists in thermal equilibrium. 
 
 The idealization of thermal equilibrium is the reason I say that entropy cannot be measured in real systems. One can measure temperature but one cannot make inferences about entropy without knowing that the measurement is taken at thermal equilibrium. But we cannot know that we are at thermal equilibrium without an exact knowledge of the system in question, which we only have of theoretical systems, not real ones. You can of course watch a system and observe that it has not apparently changed in a while, but there could always be some very slow reaction going on that is not evident over your observational time scale. 
 
@@ -129,16 +132,6 @@ This can be understood by transforming the differential expression above into an
 $$ S = \int \frac{d E}{T} + C $$ 
 
 The constant at the end of the integral expression is necessary to set the entropy at absolute zero, which is different for different materials. Two different systems at absolute zero may have different entropies because a system may have one or more lowest energy states. If there is one lowest state then the entropy at absolute zero ought to be zero because there is no ambiguity about which state it is in, whereas if there are more than one, it ought to be greater than zero. 
-
-## Entropy and Life 
-
-Some processes, an in particular the evolution of life, appear to contradict the idea that there is always a tendency toward more disorder. 
-
-Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. 
-
-If you consider that all life is driven by the fire in the sun, the total entropy being created there is enormous in comparison to anything going on on the Earth. 
-
-Statistical Physics of self-replication
 
 ## Entropy and Quantum Gravity
 
