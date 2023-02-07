@@ -10,39 +10,43 @@ If our world is indeed random, then it follows that a state with more states tha
 
 A configuration that is similar to fewer other states is considered to be low entropy and one that is similar to many others is high entropy. Evolution from low to high entropy is likely, whereas high to low is unlikely, though not impossible. That is all that entropy is and all that it implies. 
 
+## Entropy as Disorder
+
+Entropy is often characterized as an expression of the disorder of a system. I think that this analogy is difficult to make sense of and tends to provoke the imagination in unhelpful directions. Furthermore it provokes questions about the nature of order that are not needed to understand entropy. Entropy as irreversibility strikes the heart of the matter. 
+
 ## The Second Law of Thermodynamics
 
 Entropy is strongly associated with the second law of thermodynamics, which states.  
 
 2. **In a closed system, the entropy never decreases.**
 
-This law follows from the concept of entropy described above. If entropy never decreases then only a processes with constant entropy could be reversible. It would not need to be independently stated except that entropy was introduced by Clausius not as a quantity related to the number of states a system could attain, but as an unknown quantity given in terms of energy and temperature. 
+This law follows from the concept of entropy described above. If entropy never decreases then only a processes with constant entropy could be reversible. It would not need to be independently stated except that entropy was introduced by Clausius not as a quantity related to the number of states a system could attain, but as an unknown quantity $S$ given in terms of energy $E$ and temperature $T$ that was used to explain the observed maximum efficiency of engines. 
 
 $$ \Delta S = \frac{\Delta E}{T} $$
 
-This quantity and the fact that it could not go down was used to explain the observed maximum efficiency of engines.  
+If entropy must always go up, then this expression explains why heat moves from hot places into cold. The $\Delta E$ is interpreted as negative when heat is leaving a system and positive when entering. If a quantity of heat energy moes from a hot system to a cold one, then the negative change in entropy in the hot system has a smaller absolute value than the positive change in entropy of the cold system, due to temperature being in the denominator. Thus, the total change in entropy is positive when heat energy moves from a hot system to a cold one and negative if it moves from cold to hot. 
+
+## Entropy and Temperature 
+
+The relation above can be rearranged into a definition of temperature. 
+
+$$ \frac{1}{T} = \frac{d S}{d E} $$ 
+
+This is how modern physicists think about temperature. Thus, temperature was a fundamental quantity when entropy was first proposed, but now entropy is seen as fundamental. 
+
+This relation makes sense in terms of the concept of entropy given above because if the number of states in one system $B$ is going up more as more energy is provided to it than another system $A$, then one would expect it to be more probable for energy to flow from $A$ to $B$. 
 
 ## Maxwell's Demon
 
 Entropy can't go down because we can't stop rolling dice with the universe. Thus, more probable states are inevitable. In quantum physics, probability is conceived as a fundamental property of a physical state, whereas in classical physics it is not. However, a deterministic process that consists of many interacting parts may be indistinguishable from one that is probabilistic. Therefore entropy matters even when quantum mechanics does not. 
 
-Yet when that is the case, where is the entropy? It appears to be something in our minds that exists because of our inability to comprehend the system in its true detail. How can entropy be so powerful if it is not even real? A thought experiment known as Maxwell's Demon has taught physicists that even beingns with an individual knowledge of all particles in an interacting system cannot escape the second law. 
+Yet when that is the case, where is the entropy? It appears to be something in our minds that exists because of our inability to comprehend the system in its true detail. How can entropy be so powerful if it is not even real? A thought experiment known as Maxwell's Demon has taught physicists that even beingns without the need to look at a complex interacting system as a statistical ensable cannot reverse entropy. 
 
-Maxwell's Demon was introduced by Maxwell in an offhand way to demonstrate the opposite, ie, that a creature with individual knowledge of all particles in a gas would be able to reduce the entropy of a system. 
+Maxwell's Demon was introduced by Maxwell in an offhand way to demonstrate the opposite, ie, that entropy no longer exists without statistical physics. Maxwell proposed a system with two chambers filled with a gas and a small slit connecting them. An entity with the power to observe individual particles of gas would open or close the slit when a gas particle moved near it based on what it observed about the particle. The entity could allow cold particles to pass in one direction and hot particles in the other. In this way the demon could control the flow of heat to be entropically negative. 
 
 ## Entropy and Time's Arrow 
 
 Entropy is the fundamental concept in physics that is associated with a direction of time that distinguishes past from future. 
-
-## Entropy as Disorder
-
-Entropy is often unhelpfully characterized as an expression of the disorder of a system. This analogy certainly raises more questions than it answers. 
-
-While it is true that a disordered state has more entropy than an ordered state, entropy cannot be said to be a measure of disorder because disorder only exists relative to some kind of order. Imagine, for example, that there was no such thing as an unbroken tea cup. Would we then say that broken glass represented a state of disorder? We would not because there would be no other way that it could be. Such a state would still have entropy and its entropy would not be significantly altered by removing all states involving unbroken tea cups because the number of such states would be overwhelmed by the number of other possible configurations of glass.
-
-Thus, if we were to say that a system had a certain amount of entropy, this value could not be said to correspond to some amount of disorder in the system, whatever that means. Rather, the system would be less ordered than some other configuration of the system with less entropy. If you wanted to say that the system was disordered, you ought to show that an ordered state was actually possible. 
-
-Entropy as an explanation for irreversibily makes a lot more sense than entropy as disorder. However, with an accurate understanding of entropy as disorder, we can say that a tendency towards disorder is the explanatiion for irreversibility in physics. 
 
 ## Entropy as Negative Information
 
@@ -82,25 +86,8 @@ The second law of thermodynamics is certainly a deep and important principle tha
 
 ## Entropy as the Foundation of Thermodynamics
 
-### Temperature vs. Heat
-
-Early researches into thermodynammics concerned questions about the nature of hot and cold. Since antiquity, some people had understood that a fluid changes volume in response to heat. This observation was the basis for the first thermomenters. Originally, *degree* referred to an arbitrary line that was drawn on the device because no one knew what temperature was actually measuring, although it was understood that different thermometers could be calibrated with respect to one another and thus were all measuring the same thing. 
-
-But what was that thing? Are hot and cold different substances, or is cold merely the absence of hot? Is heat a substance in its own right or is it a kind of motion? These questions were resolved with an experiment that showed that water could be brought to a boil with friction alone. In other words, an unlimited quantity of heat could be produced from motion, and thus it appeared that heat merely was motion. 
-
-Understanding the connection between heat and motion made it possible to produce heat in specific amounts whose effects could be tested on different kinds of matter. This made it obvious that temperature did not measure heat. Instead, every substance has its own heat capacity, which is an amount of heat required to raise a given mass of the substance one degree of temperature. 
-
 ### Temperature in Terms of Entropy
 
-But if temperature is not a measure of heat, what is it measuring? When entropy was first identified, it was defined in terms of temperature, but now temperature is defined in terms of entropy, at least if you are a theorist. When two bodies are placed in contact so that they can exchange heat, their relative temperature will tell us which direction heat will move. 
-
-If heat is simply a kind of random motion, then a flow of heat could only be explained in terms of the maximization of entropy. If energy that flows from body $A$ to body $B$ then the number of states available in $B$ as energy is being gained must be greater than those that are being lost in $A$ as the energy is lost. We would also say that $A$ must be hotter than $B$, or otherwise the flow of heat would be in the opposite direction. 
-
-Thus, colder bodies have a greater change in entropy in terms of energy than hotter bodies. For entropy $S$, energy $E$, and temperature $T$, 
-
-$$ \frac{1}{T} = \frac{d S}{d E} $$
-
-This relation was originally a definition of entropy, but is now the theoretical definition of temperature. 
 
 Temperature does not measure something that can be easily identified concretely. The relationship between heat energy and entropy is different for every substance. For ideal gasses, temperature is proportional to the average kinetic energy of a particle in the gas. Although real gasses are not ideal, this relation explains why why some gases are stronger greenhouse gasses than others. Gasses with more comlpex molecules store more of their internal energy as potential energy, and hence have higher heat capacities. carbon dioxide is a stronger greenhouse gas than oxygen, and why methane is stronger than carbon dioxide. Stronger greenhouse gasses store more energy at a given temperature than weaker gasses, and are thus at a higher temperature when they radiate the same amount energy into space that they absorb from the sun. 
 
