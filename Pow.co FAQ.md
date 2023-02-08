@@ -78,46 +78,6 @@ Handicaps are honest because they demonstrate cost. At a given level of signal, 
 
 As Graffen showed, costly signals are honest on average but not absolutely. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. Thus, although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
-## Why is provable waste the only honest signal of fitness?
-
-Not because other honest signals of fitness are impossible, but rather because handicaps are competitive with other honest signals due to their ease of evaluation. Thus, over the long term, handicaps would be expected to replace other honest signals of fitness. 
-
-Graffen showed that every honest signal of fitness demonstrates cost. Although he believed he had proven the Handicap Principle, a costly signal 
-
-TL;DR- Yes, because provable waste is the only honest signal that gains by attrition over time. 
-
-Because handicaps are competitive with other possible signals of fitness and win out over them by competition. If a handicap were in competition with some other signal of fitness, evaluators would save more time by using the handicap than using the other signal because provable waste would be easier for them to assess than any alternative. Some competing signal of fitness, while not as good as a handicap, may survive as a second step in an evaluation process that happens after a handicap, but it would not survive on its own. 
-
-An important kind of argument that has been made against the Handicap Principle is that signaling games can be designed which do not involve handicaps but for which the optimal strategy is to be honest. This would seem to contradict the claim that handicaps are the only honest signal of fitness. However, although the Handicap Principle is not true if it is taken as a statement of logical necessity, it is true as a statement about the real world because nothing else is as good. 
-
-Theoretical biologists who have argued against the Handicap Principle have followed Graffen in missing the fact that handicaps save time and therefore have not understood that handicaps win out over alternatives. 
-
-## Why is waste the most easily assessed cost?
-
-Because waste has no benefit. 
-
-## What is cost?
-
-TL;DR- Alternate ways energy and resources could have been spent elsewhere on other content over that which is boosted. Boosted content has meaning to the degree that the energy spent on it could have been spent elsewhere. 
-
-As Graffen has said, “the cost of a signal is the key to its meaning”. In Austrian economics, all costs are opportunity costs. In other words, the true cost of anything is everything else you could have done instead. Thus, cost is both the meaning of the message and the alternative to the message.
-
-Since different kinds of handicaps waste different resources and therefore have different costs, we may well ask which one is the most meaningful as a signal of fitness? 
-
-In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
-
-## Is anything that demonstrates cost an honest signal of fitness? 
-
-TL;DR- Handicaps are preferred and easily identifiable to evaluators because they are both costly and save time.  Evaluators demand that content be clear and time efficient.  
-
-Costly content that is a convoluted waste of time will be easily regarded by evaluators as evasive for some unknown reason, depreciating its ability to be assessed.  
-
-For example, plastic surgery is a costly indicator where the evaluator has to take extra time to see the actual natural qualities of the candidate.  
-
-Although Graffen proved that every honest signal must demonstrate cost, it does not follow that every costly signal is honest. A cost may be difficult or easy to evaluate. A handicap is easy to evaluate because waste is the most easily assessed cost there could be., Abut a cost that is difficult to evaluate can be dishonest because the candidate may be hoping that an evaluator may not look at it closely enough to assess it correctly. 
-
-Remember, handicaps save time! A candidate who does not help evaluators save time is treated like a bad candidate by evaluators regardless of how good he really is. He may demonstrate cost, but they will still treat him like a bad candidate. Why? Because he is more likely to be a bad candidate. Handicaps are a way of rejecting candidates quickly who are likely to be bad. This was understood by Zahavi but missed by Graffen, whose work on costly signals shows that they are honest but not that they save time. 
-
 ## What about someone who lies to look better even though it’s against his own interest? 
 
 Then he is in direct competition with other males who are really stronger than him and either they will beat him up or the females will see that he's making a bad offer. 
@@ -125,6 +85,30 @@ Then he is in direct competition with other males who are really stronger than h
 ## What if a candidate refuses to use a handicap because he doesn’t want to get trapped in an honesty game? 
 
 Graffen showed that rational females pay no attention to males with no advertisement. This is related to an important early objection to the Handicap Principle that was made by Maynard Smith, who developed a model in which only fit males would signal and unfit males would try to conceal their inadequacy. Such a situation is only possible when males have a binary choice to signal or not to signal. When males can signal at any level they all signal in proportion to their own fitness. 
+
+## Why is provable waste the only honest signal of fitness?
+
+Not because other honest signals of fitness are impossible, but rather because handicaps win out in competition with other signals, due to their ease of evaluation. Over the long term, handicaps would be expected to replace other honest signals of fitness. 
+
+An important kind of argument that has been made against the Handicap Principle is that signaling games can be designed which do not involve handicaps but for which the optimal strategy is to be honest. This would seem to contradict the claim that handicaps are the only honest signal of fitness. However, although the Handicap Principle is not true if it is taken as a statement of logical necessity, it is true as a statement about the real world because nothing else is as good. 
+
+Graffen showed that every honest signal of fitness demonstrates cost. Although he believed he had proven the Handicap Principle, his paper did not distinguish betewen cost and waste. Waste is cost, but not all cost is waste. Theoretical biologists who have argued against the Handicap Principle have followed Graffen in missing the fact that handicaps save time and therefore have not understood that handicaps win out over alternatives. 
+
+## Is anything that demonstrates cost an honest signal of fitness? 
+
+Although Graffen proved that every honest signal must demonstrate cost, it does not follow that every costly signal is honest. A cost may be difficult or easy to evaluate. A cost that is difficult to evaluate can be dishonest because the candidate may be hoping that an evaluator may not look at it closely enough to assess it correctly. 
+
+## Why is waste the most easily assessed cost?
+
+Because waste has no benefit. 
+
+## What is cost?
+
+As Graffen has said, “the cost of a signal is the key to its meaning”. 
+
+In Austrian economics, all costs are opportunity costs. In other words, the true cost of anything is everything else you could have done instead. Thus, cost is both the meaning of the message and the alternative to the message. Thus, handicaps are the ultimate case of "the medium is the message".
+
+In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
 
 ## Do I approach death when I boost content on PoW.co? 
 
