@@ -20,13 +20,15 @@ Entropy is strongly associated with the second law of thermodynamics, which stat
 
 2. **In a closed system, the entropy never decreases.**
 
-This law follows from the concept of entropy described above. If entropy never decreases then only a processes with constant entropy could be reversible. It would not need to be independently stated except that entropy was introduced by Clausius not as a quantity related to the number of states a system could attain, but as an unknown quantity $S$ given in terms of energy $E$ and temperature $T$ that was used to explain the observed maximum efficiency of engines. 
+This law follows from the concept of entropy described above. If entropy never decreases then only a processes with constant entropy could be reversible. It would not need to be independently stated except that entropy was introduced by Clausius not as a quantity related to the number of states a system could attain, but as an unknown quantity that was used to explain the observed maximum efficiency of engines.
+
+## Entropy and Temperature 
+
+Clausius introduced entropy $S$ given in terms of energy $E$ and temperature $T$ . 
 
 $$ \Delta S = \frac{\Delta E}{T} $$
 
 If entropy must always go up, then this expression explains why heat moves from hot places into cold. The $\Delta E$ is interpreted as negative when heat is leaving a system and positive when entering. If a quantity of heat energy moes from a hot system to a cold one, then the negative change in entropy in the hot system has a smaller absolute value than the positive change in entropy of the cold system, due to temperature being in the denominator. Thus, the total change in entropy is positive when heat energy moves from a hot system to a cold one and negative if it moves from cold to hot. 
-
-## Entropy and Temperature 
 
 The relation above can be rearranged into a definition of temperature. 
 
@@ -35,6 +37,16 @@ $$ \frac{1}{T} = \frac{d S}{d E} $$
 This is how modern physicists think about temperature. Thus, temperature was a fundamental quantity when entropy was first proposed, but now entropy is seen as fundamental. 
 
 This relation makes sense in terms of the concept of entropy given above because if the number of states in one system $B$ is going up more as more energy is provided to it than another system $A$, then one would expect it to be more probable for energy to flow from $A$ to $B$ than from $B$ to $A$. 
+
+## Entropy and Life 
+
+Creationists sometimes claim that the evolution of life violates the second law of thermodynamics because it goes from disorder to order rather than from order to disorder, but this fallacy is easily exposed by recalling that the second law applies only to a closed system, which means that it is not interacting with anything else. 
+
+Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. Inside its body, there is a decrease in entropy but outside there is a much greater increase as a result of the body's interaction with the rest of the world. 
+
+The entropy of a closed system cannot decrease, but the entropy of a system that is interacting with other systems can decrease, as long as there is a corresponding increase in the systems that it is interacting with. 
+
+Statistical Physics of self-replication
 
 ## Maxwell's Demon
 
@@ -57,16 +69,6 @@ Entropy in a physical system works the same way, which makes sense because any p
 The concept of the *number of states* needs some clarification. Typically, a physical system will take up a certain volume $V$. This is analagous to thinking of messages in terms of what can be transmitted in a fixed amount of time. There is also a certain energy $E$ in that volume. This is analagous to a channel of communication having a certain maximum frequencey. Under these conditions, the number of states in a quantum mechanical system is finite, so in that case the concepts of entropy and information can be carried over from information theory directly. 
 
 For classical mechanics, the same logic doesn't really work because in a classical system with a finite volume, the number of states is still infinite. In this case, physicists have to define a unit of entropy as a volume of space space so that it gives roughly the same answer as quantum mechanics for weakly interacting systems with large numbers of particles. This is ok because in classical physics only proportions of energy differences matter, so the definition of some unit of entropy always ends up canceling out. 
-
-## Entropy and Life 
-
-Creationists sometimes claim that the evolution of life violates the second law of thermodynamics because it goes from disorder to order rather than from order to disorder, but this fallacy is easily exposed by recalling that the second law applies only to a closed system, which means that it is not interacting with anything else. 
-
-Consider a lion. The lion is a very ordered system. Or is it? The whole lion system is not merely the body of the lion but also the zebras that it eats. Without them, the lion system could not stay ordered. Thus, a lion maintains its own order but destroys the order of many zebras. In the net, the lion system maintains order inside its own body by creating a great deal more disorder outside its body. All life works this way. Inside its body, there is a decrease in entropy but outside there is a much greater increase as a result of the body's interaction with the rest of the world. 
-
-The entropy of a closed system cannot decrease, but the entropy of a system that is interacting with other systems can decrease, as long as there is a corresponding increase in the systems that it is interacting with. 
-
-Statistical Physics of self-replication
 
 ## Entropy and Time's Arrow 
 
