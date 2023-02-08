@@ -78,6 +78,10 @@ Handicaps are honest because they demonstrate cost. At a given level of signal, 
 
 As Graffen showed, costly signals are honest on average but not absolutely. Because of mistakes and lies, there is a correlation but not an exact relationship between handicap and fitness. Thus, although handicaps are honest signals of fitness, they are not the final word on fitness. They are useful because they save time. The time that is saved with handicaps can be used to assess fitness even more closely. Among the candidates that pass the handicap test, some may still be truly unfit but at least one is expected to be very fit. Without the use of handicaps, the truly fit candidate may not be discoverable in a reasonable amount of time. 
 
+## What is honesty? 
+
+Honesty in this context means honesty about fitness, which means selecting the correct rank among all content. Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. 
+
 ## What about someone who lies to look better even though it’s against his own interest? 
 
 Then he is in direct competition with other males who are really stronger than him and either they will beat him up or the females will see that he's making a bad offer. 
@@ -110,6 +114,15 @@ In Austrian economics, all costs are opportunity costs. In other words, the true
 
 In evolutionary theory, all cost is fewer viable offspring and more risk of death, which is the opposite of fitness. Thus, if a true signal of fitness must demonstrate cost, then what it is really doing is bringing the bearer closer to death and failure. Thus, the best handicap for any given animal is the one which corresponds to the resources that are the most necessary for its success and whose loss brings it closest to death. 
 
+## What is the cost of proof-of-work?
+
+TL;DR- Energy that could have been used in other things; opportunity cost. 
+The cost is energy, and the opportunity cost of energy is motion in general. Thus one who signals with proof-of-work has the ability to transform energy and sustain motion. It is a machine that won't turn off regardless of the external conditions.
+
+If a costly signal was truly a signal of fitness, therefore, it must have life and growth as its meaning, which means that life and growth must be the alternatives to the signal. In other words, handicaps are always about approaching death.
+
+Since energy is abstract, the machine is not associated with any particular way of storing energy. The fitness to transform energy in general is the ability to transform into whatever is needed. Not just that, but it has optimal intelligence in order to understand how to transform.
+
 ## Do I approach death when I boost content on PoW.co? 
 
 Yes. 
@@ -120,21 +133,7 @@ Because you want to live in a world where people have good ideas rather than bad
 
 ## That answers why I would use PoW.co in general but not why I would boost any specific content. Why is any particular meme worth approaching death for? 
 
-TL;DR- Because truth is the appetite of the human intellect.  We are constantly driven for better information to improve our survival.  
-
-If a meme moves up one rank, more people see it and evaluate it. If the meme is truly fit, then all those people are improved by it and you are improved as well because now your society is better and you get to live in it. 
-
-## Can Handicaps Be Used As a Voting System? 
-
-No, and please don't try to use them that way. You should never commit to anything that happens in a handicap contest. Remember, the top candidate is not necessarily the best. Boost POW is good for figuring out what is worth thinking about, not for selecting an executive officer or passing a bill into law. [Arrow's Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) shows that voting systems do not work. Poof-of-work will not make them work. Proof-of-work is good for collective decision making in a sense, but only if everyone using it retains their autonomy. If people are committed to the top boosted candidate, then it becomes a lot more worthwhile to try to manipulate the result. 
-
-## Why not simply use payments to upvote content. Satoshis cost something, do they not?
-
-TL;DR- Because the waste of energy is innately understood as it pertains to our physical survival. This is energy wasted that we will never get back.
-
-Payments are not an easily assessed cost because it is possible to pay someone back with another transaction that is not known to be connected to the first one. In that case, no real cost has been demonstrated even though apparently it has.
-
-Furthermore, the cost of satoshis is not the same as the cost of energy. The cost of money is everything that is unknown in the economy, whereas the cost of energy is something that is very near to all of us because we all use energy in our own bodies and machines. Even if you burn satoshis, that is not genuine waste because satoshis are non-physical so nothing was really destroyed. The cost of satoshis cannot be understood without reference to the whole economy whereas the cost of energy is innately understood at least to some extent by all living things. 
+Because truth is the appetite of the human intellect. Humans are a social animal. If more people have better ideas, that's a better environment for you to live in. 
 
 ## If I buy proof of work, isn’t it really the miner who is demonstrating fitness?
 
@@ -147,6 +146,14 @@ Then that is the same as if the miner boosted your content. People might be conf
 ## I don’t like the idea of paying to upvote content. 
 
 What's better, a platform that is free to upvote or a platform with good information?
+
+## Why not simply use payments to upvote content. Satoshis cost something, do they not?
+
+TL;DR- Because the waste of energy is innately understood as it pertains to our physical survival. This is energy wasted that we will never get back.
+
+Payments are not an easily assessed cost because it is possible to pay someone back with another transaction that is not known to be connected to the first one. In that case, no real cost has been demonstrated even though apparently it has.
+
+Furthermore, the cost of satoshis is not the same as the cost of energy. The cost of money is everything that is unknown in the economy, whereas the cost of energy is something that is very near to all of us because we all use energy in our own bodies and machines. Even if you burn satoshis, that is not genuine waste because satoshis are non-physical so nothing was really destroyed. The cost of satoshis cannot be understood without reference to the whole economy whereas the cost of energy is innately understood at least to some extent by all living things. 
 
 ## If handicaps are the only honest signal of fitness, does that mean that other social networks are dishonest because they don’t use handicaps?
 
@@ -182,15 +189,6 @@ Thus, controlling the system for your own benefit costs a lot more than benefiti
 
 Furthermore, he would not be able to prevent those who didn't fall for his lies from communicating with one another, as happens with moderation on other platforms. Those who weren't fooled would just scroll down further in order to get to the good content. Eventually, his waste of resources would get the better of him and those who were better at conserving energy would again be able to boost their content to the top position.
 
-## What is the cost of proof-of-work?
-
-TL;DR- Energy that could have been used in other things; opportunity cost. 
-The cost is energy, and the opportunity cost of energy is motion in general. Thus one who signals with proof-of-work has the ability to transform energy and sustain motion. It is a machine that won't turn off regardless of the external conditions.
-
-If a costly signal was truly a signal of fitness, therefore, it must have life and growth as its meaning, which means that life and growth must be the alternatives to the signal. In other words, handicaps are always about approaching death.
-
-Since energy is abstract, the machine is not associated with any particular way of storing energy. The fitness to transform energy in general is the ability to transform into whatever is needed. Not just that, but it has optimal intelligence in order to understand how to transform.
-
 ## So on PoW.co, you would expect people to be talking about how to continue to transform energy no matter what happens? 
 
 Exactly, and that is another word for survival. 
@@ -203,13 +201,13 @@ The ultimate predator is scarcity of energy and time in regards to content. It i
 
 Is a degeree or patent proof-of-work or is proof-of-work a solved hash puzzle attached to a broadcasted message? The problem with menaphorical uses of "proof-of-work" is that they are not economically similar enough to real proof-of-work to be a good comparison. Degrees and patents may be literal proofs of work but they are not honest signals of fitness because they are not [handicaps](#what-is-a-handicap). A handicap are easy to evaluate, whereas degrees and patents are not. Contextual information and expertise would be require to evaluate them properly. Proof-of-work provides a number that can be evaluated instantly in a computer, and the number cannot be manipulated with any known trickery. A patent or degree is more like something that you would look at *after* you had evaluated the proof-of-work. 
 
+## Can Handicaps Be Used As a Voting System? 
+
+No, and please don't try to use them that way. You should never commit to anything that happens in a handicap contest. Remember, the top candidate is not necessarily the best. Boost POW is good for figuring out what is worth thinking about, not for selecting an executive officer or passing a bill into law. [Arrow's Theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem) shows that voting systems do not work. Poof-of-work will not make them work. Proof-of-work is good for collective decision making in a sense, but only if everyone using it retains their autonomy. If people are committed to the top boosted candidate, then it becomes a lot more worthwhile to try to manipulate the result. 
+
 ## If a meme is fit, does that mean I can accept it without thinking? 
 
 No, you are not absolved from your need to make personal judgements. Remember handicaps are [honest on average], not absolutely. You can use them to collect a sample of information that is likely to be relevant but you cannot use them to think for you.
-
-## What is honesty? 
-
-Honesty in this context means honesty about fitness, which means selecting the correct rank among all content. Handicaps change the game from one in which everyone is trying to reach the top to one in which everyone is trying to select their own best rank. 
 
 ## What is a fit meme? 
 
