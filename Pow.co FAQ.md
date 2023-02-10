@@ -149,9 +149,7 @@ What's better, a platform that is free to upvote or a platform with good informa
 
 ## Why not simply use payments to upvote content. Satoshis cost something, do they not?
 
-TL;DR- Because the waste of energy is innately understood as it pertains to our physical survival. This is energy wasted that we will never get back.
-
-Payments are not an easily assessed cost because it is possible to pay someone back with another transaction that is not known to be connected to the first one. In that case, no real cost has been demonstrated even though apparently it has.
+It is possible to pay someone back in private, so you don't really know if a payment represents a real cost. 
 
 Furthermore, the cost of satoshis is not the same as the cost of energy. The cost of money is everything that is unknown in the economy, whereas the cost of energy is something that is very near to all of us because we all use energy in our own bodies and machines. Even if you burn satoshis, that is not genuine waste because satoshis are non-physical so nothing was really destroyed. The cost of satoshis cannot be understood without reference to the whole economy whereas the cost of energy is innately understood at least to some extent by all living things. 
 
@@ -165,29 +163,15 @@ We save the biggest costs by identifying errors early and correcting them before
 
 ## How do I know how much ⛏ to buy?
 
-TL;DR- If you are a specialist on the topic of a specific piece of content, you may find it imperative to help in the ⛏of content; either by buying more ⛏or by promoting the content amongst your peers.  
-
-As discussed above, honest signallers must understand themselves in relation to everything else. The meme cannot do this on its own so you must help it approach its correct rank. Other people will help, so you don’t necessarily need to move it all the way there. However, if it concerns something that you know especially better than everyone else you may need to help a lot. It’s ultimately about understanding your own knowledge in relation to everyone else’s. 
+It it about understanding the value of your own knowledge in relation to everyone else’s. 
 
 ## It sounds easy to break this system. There is nothing stopping a person from boosting fake news.
 
-TL;DR- We welcome you to try.  Incentives are naturally aligned so that such actions are suicidal.  Eventually, the market will learn that it will be more profitable to simply be honest. 
-
-See above. We invite you to try boosting irrelevant information and see where it gets you.
-
-Honest actors benefit from boosting good information because they improve the world around them. Thus, they do not lose as much as someone who is boosting fake news and you will never gain as much from subverting the system as they will from upholding it. The difficulty can go as high as it needs to and dishonest actors will be priced out faster than honest actors.
-
-There _is_ something stopping you from boosting fake news, and that is the opportunity cost of boosting something good and gaining the benefit. Manipulative ideas that serve parasites are incapable of winning at PoW.co. If you try being a troll, all that will happen is that you will either run out of money or get bored and turn good.
+We welcome you to try. Incentives are naturally aligned so that such actions are suicidal. Eventually, the market will learn that it will be more profitable to simply be honest. 
 
 ## Can't some billionaire manipulate the system by boosting any propaganda he wants to the top?
 
-TL;DR- The billionaire can try if he/she wants to waste a lot of resources up until the time the market catches up to his/her deception.  
-
-Yes and no. As can be seen from the previous answer, Boost does not mean that the top idea is automatically better than the next highest idea. Rather, it is a cut-off that is used to limit the number of ideas that users engage with, however many they can handle. In order to control the conversation, a manipulator would have to control the top several upvoted memes, however many the audience he wants to manipulate would typically read.
-
-Thus, controlling the system for your own benefit costs a lot more than benefiting everyone with it. A billionaire might attempt this, but it would be a lot worse than trying the same thing with the mainstream media, which is entirely based on cheap talk.
-
-Furthermore, he would not be able to prevent those who didn't fall for his lies from communicating with one another, as happens with moderation on other platforms. Those who weren't fooled would just scroll down further in order to get to the good content. Eventually, his waste of resources would get the better of him and those who were better at conserving energy would again be able to boost their content to the top position.
+That is not a good idea because he can't prevent other content from being upvoted. Manipulation depends on keeping the audience away from alternative ideas. 
 
 ## So on PoW.co, you would expect people to be talking about how to continue to transform energy no matter what happens? 
 
