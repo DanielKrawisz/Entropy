@@ -195,13 +195,9 @@ No, you are not absolved from your need to make personal judgements. Remember ha
 
 ## What is a fit meme? 
 
-TL;DR- This is evaluated over time via BoostPoW.  Truly fit memes will grow in acceptance and costly signaling over time.  
+Fitness is about avoiding death, so a fit meme is one that will continue to reproduce in people’s brains. Over the long term, a meme can destroy its own environment by leading people to their deaths or mental degeneration. This is the kind of unfit meme that we can stop at PoW.co. A fit meme will enhance its own environment so that there will always be lots of brains. It will be something that tells us how to survive. 
 
-Fitness is about avoiding death, so a fit meme is one that will continue to reproduce in people’s brains for a long time. Over the long term, a meme can destroy its own environment by leading people to their deaths or mental degeneration. This is the kind of unfit meme that we can stop at PoW.co. A fit meme will enhance its own environment so that there will always be lots of brains. It will be something that tells us how to survive. 
-
-A meme’s environment is all the other memes, not just people. Fit memes are symbiotic with other fit memes as well. Hence a fit meme will fit into a larger whole that tells us how to survive and thrive in general. 
-
-Of course, circumstances change. A fit meme one day may not be fit anymore the next day. The conditions of survival change and hence the relevance of information changes over time. Ultimately, the question of which memes are fit is a big collective puzzle that we all contribute to by using PoW.co. 
+A meme’s environment is also all the other memes, not just people. Fit memes are symbiotic with other fit memes as well. Hence a fit meme will fit into a larger whole that tells us how to survive and thrive in general. 
 
 ## What is relevance?
 
