@@ -6,13 +6,31 @@ Newton proposed that all matter is attracted to all other matter via a force tha
 
 His proposal was controversial because it violated the principle of *localism*, which requires that objects cannot interact without being nearby to one another. People had always understood that objects have weight that causes them to fall towards the Earth from any height that anyone had experienced, people did not imagine that this force extended far outwards into the heavens. Although Newton's gravity fell off with distance, in theory it extended to the stars without limit. 
 
-By contrast, Descartes had attempted to explain the orbits of the planets by vorticies that spun around the sun and pushed on the planets like a kind of wind and he criticized Newton's theory as a kind of mathematical abstraction which did not necessarily pertain to the fundamental nature of the univrse.  Privately, Newton agreed with Descartes that a fundamental theory ought to be local. 
+By contrast, Descartes had attempted to explain the orbits of the planets by vorticies that spun around the sun and pushed on the planets like a kind of wind and he criticized Newton's theory as a kind of mathematical abstraction which did not necessarily pertain to the fundamental nature of the univrse.  Newton's famous statement "I frame no hypothesis" was already a response to this objection. His laws were derived empirically from what had been observed in planetary motion and were not claimed to be statements about fundamental causes. Privately, however, Newton agreed with Descartes that a fundamental theory ought to be local. 
 
 As time went on, other long-range forces came to be understood. The electric force appears very similar to gravity but has a key difference: it is proportional to charge rather than mass. This has two important implications. First, the electric force can be either attractive or repulsive. Second, that an electric interaction with a distant charged body can be detected without a telescope because two bodies with a different ratio of charge to mass can be observed to accelerate differently. 
 
 The magnetic force also obeys an inverse-square law, but unlike the electric and gravitation forces is proportional to current, which means that two charged bodies do not have a magnetic interaction unless they are both moving. 
 
-Ultimately, these forces were found to obey local principles as Newton and Descartes had long ago expected. These principles are called Einstein's special and general relativity. Einstein's special relativity was abstracted from Maxwell's equations of electromagnetism, a theory that unified the electric and magnetic forces with light. Einstein's general relativity was discovered by Einstein in his attempt to discover a set of equations that described gravity in analogy to those of Maxwell. 
+Despite Newton, it appears that these laws are quite fundamental. They are still a part of the best currently known laws of physics, even while other qualities of matter that were unexplained in Newton's day, such as heat, have long since been explained in more fundamental terms. However, with Einstein's special and general theories, localism was resored and found not to be incompatible with long-range forces. 
+
+How is such a thing possible? At the very least, a local theory of long-range forces must admit waves. Imagine two bodies that interact via long-range force. If one of the bodies starts to oscillate, the other body must start oscillating as well because the force on it from the first body is changing with its positoin. However, it cannot start oscillating right away because that would be instantaneous communication with the distant other body. The second body must oscillate, but after a time delay. During this time delay, where are the oscillations? They must be travelling through space, between the two bodies. 
+
+Einsteinian theories, those compatible with the special or general theory, all work like this. The force is no longer a true interaction between distant bodies. It is a local interaction with a force field that fills all of space and admits waves. This revised understanding of long-range forces began with the discovery of Maxwell's equations of electromagnetism, a theory that unified the electric and magnetic forces with light, which turned out to be electromagnetic waves. Newton had, of course, studied light but had never imagined that it was so closely connected with his idea of force. 
+
+Einstein's special relativity was abstracted from Maxwell's equations and his general relativity was discovered by Einstein in his attempt to discover a set of equations that described gravity in analogy to those of Maxwell. Although Einstein's special and general theories are usually and were originally described as theories of *relativity*, it is only the general theory that was an innovation in relativity. The innovation of the special theory was localism. 
+
+Before Einstein's general theory, the principle of relativity was understood to mean that the laws of physics are the same in any inertial reference frame, meaning that two scientists can pass each other and both think that they are standing still and that the other scientist is moving fast. No experiment they could do would elevate one perspective over the other, as long as neither was accelerating. Relativity had been a part of physics since the time of Galileo and Einstein did not change this with his special theory. The general theory expanded the principle of relativity to include accelerated motion. In the general theory, two scientists could accelerate relative to one another and disagree on who was doing the acceleration. They could each see themselves as standing still and resisting a gravitational force. 
+
+With the special theory, Einstein emphasized relativity because the principle of relativity had been temporarily disturbed due to an incompatability between Maxwell's equations and earlier mechanics. Both of these theories obeyed the principle of relativity on their own, but had different ways of changing perspectives which, when put together, destroyed relativity. For mechanics, a change in persective was called the Galilean transformation, and for Maxwell's equations it was called the Lorentz transformation. These two theories put together were not relativistic and they implied that some scientist could detect his velocity relative to the speed of light, which was absolute. 
+
+Einstein argued, however, that physics really *is* relativistic by noting that the Lorentz transform can be understood in terms of the principle of relativity, and that all mechanics could be reformulated to be compatible with the Lorentz transform. This argument not only restored relativity to physics but restored localism as well, which had been missing for a much longer time. Einstein emphasized relativity because because that was the current crisis in physics in his day, but vindicating Descartes was a more important legacy of the special theory. 
+
+The compatibility of long-range forces with localism is, in large part, the story of modern physics. The theories which have made this possible are called gauge theories. Gauge theories describe not just electromagnetism and gravity, but the strong and electroweak forces as well. The gauge theory idea is so big that it bridges classical and quantum physics, all the way to gravitation and curved space. Ideas that go beyond known physics, such as grand unified theories and string theory are also gauge theories. Physics has yet to really move past the gauge theory idea, and it all begins with Maxwell. It is arguably the biggest idea in physics and if not it is certainly one of the two biggest ideas in physics, the other being quantum mechanics. 
+
+It is hard to explain what a gauge theory is without a lot of mathematical preparation, but physicists like to describe the world in terms of quantities that are physically real only in the way that they change but not in their absolute value. These quantities are integrals, which means that there is an arbitray additive constant to them, as anyone would have got used to seeing in a calculus class. Energy is an example of such a quantity. The potential energy is a spacial integral, and any additive constant can be added to it to produce identical physics. Physicists typically define the potential energy to ensure that bound states correspond to negative values of potential energy and unbound states to positive values, but this is done for convenience, not because it is required physically. 
+
+To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always share a long-range force with one another.  
 
 ### Galilean Physics
 
@@ -44,7 +62,14 @@ Galileo attempted to imagine the motion of a body isolated from all interactions
 
 $$a(t) = 0$$
 
-This principle is called the *law of inertia*. Newton included it as his first law of motion. 
+or in other words $f(x, v) == 0$ for an isolated body. Accelerations evidently result from some kind of interaction. 
+
+The *law of inertia* is a vague way of describing the interaction of bodies, which says that objects resist changes to their velocity. It implies that the acceleration of bodies should result from something that describes an interaction and a resistance to that interaction, such that when there is no interaction, there is no acceleration. 
+
+$$a(t) = resistance(interaction(x(t), v(t)))$$
+
+Newton included it as his first law of motion. 
+
 
 Interactions evidently result in some acceleration, but an acceleration is not the same as an interaction. 
 
@@ -68,17 +93,17 @@ We define a space
 
 ## Force Laws
 
+## Waves
+
+## Optics
+
 ## Special Relativity
 
 ## Gauss's Law
 
-## Conservation of Energy
-
 ## Maxwell's Equations
 
-## Waves
-
-## Optics
+## Conservation Laws
 
 ## Stress-Energy Tensor
 
