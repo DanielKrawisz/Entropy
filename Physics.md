@@ -30,7 +30,7 @@ The compatibility of long-range forces with localism is, in large part, the stor
 
 It is hard to explain what a gauge theory is without a lot of mathematical preparation, but physicists like to describe the world in terms of quantities that are physically real only in the way that they change but not in their absolute value. These quantities are integrals, which means that there is an arbitray additive constant to them, as anyone would have got used to seeing in a calculus class. Energy is an example of such a quantity. The potential energy is a spacial integral, and any additive constant can be added to it to produce identical physics. Physicists typically define the potential energy to ensure that bound states correspond to negative values of potential energy and unbound states to positive values, but this is done for convenience, not because it is required physically. 
 
-To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always share a long-range force with one another.  
+To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always share a long-range force with one another. 
 
 ### Galilean Physics
 
@@ -56,30 +56,77 @@ If $a(t)$ is determined but not $x(t)$, each integral will involve an additive c
 
 This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk about them very much. 
 
-### Inertia
+### Uniform Motion
 
-Galileo attempted to imagine the motion of a body isolated from all interactions with other bodies and to approximate it as best he could experimentally and concluded that it would be absolutely uniform. In other words, an isolated body would move along a straight line at constant velocity, which is described by the law 
+Galileo imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever, which means that it would be described by the law 
 
 $$a(t) = 0$$
 
-or in other words $f(x, v) == 0$ for an isolated body. Accelerations evidently result from some kind of interaction. 
+Newton later used this principle as his first law of motion. Evidently, there is a connection between acceleration and interaction, so if we want something interesting to happen, we need more than one body. 
 
-The *law of inertia* is a vague way of describing the interaction of bodies, which says that objects resist changes to their velocity. It implies that the acceleration of bodies should result from something that describes an interaction and a resistance to that interaction, such that when there is no interaction, there is no acceleration. 
+Let $x_i(t)$ be a list of positions indexed by $i$. These are the bodies in our universe. We can now write our law as 
 
-$$a(t) = resistance(interaction(x(t), v(t)))$$
+$$a_i(t) = \sum_{j} f_{i j}(x_j(t), v_j(t))$$
 
-Newton included it as his first law of motion. 
+where $f_{i j}$ is the interaction of body $i$ with body $j$, which must satisfy $f_{i i} = 0$. 
 
+### Inertia
 
-Interactions evidently result in some acceleration, but an acceleration is not the same as an interaction. 
+The first law of motion is often said to be equivalant to the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in velocity. Thus, the principle of inertia implies that acceleration is a product of the opposition of something that promotes a change in velocity (which we will call a force), and something that resists it. It implies that there is no acceleration if there is no force, but it does not imply that force has anything to do with an interaction with some other body, which is what the first law implies. 
 
-Inertia was thought of as something that resists a change in velocity. 
+The law of inertia might be written as 
 
-But what is doing the resisting and what is it resisting? Newton's second law provides an answer. 
+$$a(t) = resistance(F(x(t), v(t)))$$
 
-$$a(t) = \frac{F (v(t), x(t))}{m}$$
+where $F$ is the force and 
 
-### Linear Momenta 
+$$resistance(0) = 0$$
+
+The law of inertia can be combined with the first law as 
+
+$$a_i(t) = resistance(\sum_{j} F_{i j}(x_j(t), v_j(t)))$$
+
+where $F_{i i} = 0$. 
+
+## Newton's Second and Third Laws
+
+Newton's second law is a more concrete version of the law of inertia. It says 
+
+$$a(t) = \frac{F (v (t), x (t))}{m}$$
+
+where $m$ is the mass of the body. More massive bodies resist changes in velocity more than less massive bodies. Thus, according to the second law, mass in the resistance described in the principle of inertia. 
+
+$$resistance(z) = \frac{z}{m}$$
+
+Of course, the second law is more commonly written as 
+
+$$F (x(t), v(t)) = m a(t)$$
+
+We can combine this law with the first law with 
+
+$$F_{i j} (x_j(t), v_j(t)) = m_i a_i(t)$$
+
+where $F_{i i} = 0$.
+
+Newton's third law establishes the connection between a force and an interaction. It says that every interaction between two bodies $i$ and $j$ is characterized by two equal and opposite forces. This means that we can write the force as 
+
+$$F_{i j} (x_i(t), v_j(t), x_j(t), v_j(t))$
+
+where $F_{i j} = -F_{i j}$, which implies $F_{i i} = 0$.
+
+### Linear Momentum 
+
+Momentum was originally conceived as a quantity of motion that would be conserved in all interactions. It is usually written as the letter $p$. It must be proportional to velocity or else it would violate Newton's first law. If it satisfied  
+
+$$F = \frac{d p}{d t}$$
+
+then it would always be conserved because every force would be cancelled out by an equal and opposite force on another body, implying that the sum of all changes to momentum would be zero. Therefore, momentum must be 
+
+$$p = \int dt \frac{d p}{d t} = \int dt F = \int dt m a(t) = m v + C = m v$$
+
+This quantity we call linear momentum because, as we will see, later on in physics the word *momentum* was used in a generalized sense to include other quantities that are not necessarily conserved. 
+
+We will see that the law of inertia is more correct than Newton's second law. When Einstein's special theory is introduced, the principle of inertia will remain and 
 
 ### The Principle of Relativity
 
