@@ -4,7 +4,7 @@
 
 Newton proposed that all matter is attracted to all other matter via a force that is proportional to the mass of both bodies and which diminishes with the inverse square of the distance. He called this force *gravity* and used it to explain both the cohesion of the Earth and all Earthbound matter and the motion of the orbits of the planets, which obeyed Kepler's laws. 
 
-His proposal was controversial because it violated the principle of *localism*, which requires that objects cannot interact without being nearby to one another. People had always understood that objects have weight that causes them to fall towards the Earth from any height that anyone had experienced, people did not imagine that this force extended far outwards into the heaven's. Although Newton's gravity fell off with distance, in theory it extended to the stars without limit. 
+His proposal was controversial because it violated the principle of *localism*, which requires that objects cannot interact without being nearby to one another. People had always understood that objects have weight that causes them to fall towards the Earth from any height that anyone had experienced, people did not imagine that this force extended far outwards into the heavens. Although Newton's gravity fell off with distance, in theory it extended to the stars without limit. 
 
 By contrast, Descartes had attempted to explain the orbits of the planets by vorticies that spun around the sun and pushed on the planets like a kind of wind and he criticized Newton's theory as a kind of mathematical abstraction which did not necessarily pertain to the fundamental nature of the univrse.  Privately, Newton agreed with Descartes that a fundamental theory ought to be local. 
 
