@@ -26,7 +26,7 @@ Before Einstein's general theory, the principle of relativity was understood to 
 
 With the special theory, Einstein emphasized relativity because the principle of relativity had been temporarily disturbed due to an incompatability between Maxwell's equations and earlier mechanics. Both of these theories obeyed the principle of relativity on their own, but had different ways of changing perspectives which, when put together, destroyed relativity. For mechanics, a change in persective was called the Galilean transformation, and for Maxwell's equations it was called the Lorentz transformation. These two theories put together were not relativistic and they implied that some scientist could detect his velocity relative to the speed of light, which was absolute. 
 
-Einstein argued, however, that physics really *is* relativistic by noting that the Lorentz transform can be understood in terms of the principle of relativity, and that all mechanics could be reformulated to be compatible with the Lorentz transform. This argument not only restored relativity to physics but restored localism as well, which had been missing for a much longer time. Einstein emphasized relativity because because that was the current crisis in physics in his day, but vindicating Descartes was a more important legacy of the special theory. 
+Einstein argued, however, that physics really *is* relativistic by noting that the Lorentz transform can be understood in terms of the principle of relativity, and that all mechanics could be reformulated to be compatible with the Lorentz transform. This argument not only restored relativity to physics but restored localism as well, which had been missing for a much longer time. Einstein emphasized relativity because that was the current crisis in physics in his day, but vindicating Descartes was a more important legacy of the special theory. 
 
 The compatibility of long-range forces with localism is, in large part, the story of modern physics. The theories which have made this possible are called gauge theories. Gauge theories describe not just electromagnetism and gravity, but the strong and electroweak forces as well. The gauge theory idea is so big that it bridges classical and quantum physics, all the way to gravitation and curved space. Ideas that go beyond known physics, such as grand unified theories and string theory are also gauge theories. Physics has yet to really move past the gauge theory idea, and it all begins with Maxwell. It is arguably the biggest idea in physics and if not it is certainly one of the two biggest ideas in physics, the other being quantum mechanics. 
 
@@ -48,23 +48,29 @@ $$v(t) = x'(t)$$
 
 $$a(t) = x''(t) = v'(t)$$
 
-Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For example, Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance which might have been missed by a geometer that prefigures the later notion of a force vector. 
+Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
 
-Since Galileo, the most fundamental laws of physics have all been of the form 
+Since Galileo, the most fundamental known laws of physics have had the form  
 
 $$a(t) = f(x(t), v(t))$$
 
-where $f$ is some function. Differential equations of form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. At some time $t_0$, both $x(t_0)$ and $v(t_0)$ can be thought of as free parameters. Once they are given, then the entire function is determined for all time, both backwards and forwards. This is true because 
+where $f$ is some function. Differential equations of this form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk much about them. 
+
+If a function like $f$ can be determined from observations of moving bodies, then it can be used to predict the motion of a body given an initial position $x_0$ and velocity $v_0$ at a given time $t_0$. Since 
 
 $$x(t) = \iint dt^2 a(t)$$
 
-If $a(t)$ is determined but not $x(t)$, each integral will involve an additive constant that one is free to select as desired. These can be selected to set the values of $v(t_0)$ and $v(t_0)$. Once given, no other free parameters are available. 
+the position is determined from the acceleration up to two arbitrary additive constants of integration. 
 
-This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk about them very much. 
+$$\iint dt^2 a(t) = \int dt \bar{v}(t) + C_v = \bar{x}(t) + C_v t + C_x$$
+
+Here $\bar{v}$ and $\bar{x}$ are indefinite integrals that result from integrating $a$. The constants of integration $C_v$ and $C_x$ can be selected to set the values of $v(t_0)$ and $v(t_0)$. Once given, no other free parameters are available. 
+
+Of course, the integral cannot be performed because initially we do not know acceleration as a function of time, other than at $t_0$ when it can be determined from $f(x_0, t_0)$. However, implicitly there is still some function $a(t)$ which could be integrated if it were known. 
 
 ### Uniform Motion
 
-Sciency typically proceeds by separating things into smaller pieces so that they can be examined in isolation and controlled experiments can be designed with them. Thus Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
+Science typically proceeds by separating things into smaller pieces so that they can be examined in isolation and controlled experiments can be designed with them. Thus Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
 
 Such a body would be described by the law 
 
@@ -72,11 +78,28 @@ $$a(t) = 0$$
 
 Evidently, if there is no interaction then there is no acceleration, so if we want something interesting to happen, we need more than one body. 
 
-Newton later used Galileo's conclusion has his first law of motion. The first law of motion is often conflated with the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in their state of motion, so it has more to do with mass and how a massive body's velocity changes very little when a force acts on it and less with an object that is isolated from interaction.  
+
+
+### Principle of Relativity
+
+The principle of relativity states that there is no such thing as an absolute velocity in physics, only relative velocities. Galileo discovered it and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. If the principle of relativity is true, two observers who passed each other at constant velocity could both imagine that they are standing still and that the other observer is moving. 
+
+Mathematically, the principle of relativity could be expressed as 
+
+$$f(x(t), v(t)) = f(x(t) + \bar{v} t, v(t) + \bar{v})$$
+
+
+
+There are two versions of the principle of relativity: Galilean relativity and Einsteinian special relativity. Einstein's general relativity includes the special theeory, but it also says that the laws of physics are the same in accelerated reference frames as well. Often, pre-Einsteinian physics is called *nonrelativistic*, which is inaccurate. 
+
+
+The principle of relativity is made concrete with some transformation that explains how to look at the world from the perspective of any inertial observer. If the principle of relativity is true, then this transformation will leave the laws of physics unchanged. In Galilean relativity, this is called the Galilean transform. In Einstein's special relativity, it is called the Lorentz transform. The Galilean transform is simply the addition of a velocity to everything. 
+
+$$\bar{x}(t) = x(t) + v t$$
 
 ### Linear Momentum 
 
-The concept of linear momentum provides us with an idea of what an interaction is like. 
+Now that we know what non-interaction is like, what is interaction like? 
 
 Linear momentum was originally conceived by Descartes as a quantity of motion that would be conserved in all interactions. He observed that a moving ball that strikes a stationary ball will be slower after the collision whereas the ball that was struck will be faster. He proposed that some quantity of motion must have been transferred from one ball to another. 
 
@@ -86,11 +109,9 @@ Linear momentum is usually written with the letter $p$. If it is conserved, then
 
 $$\frac{d p}{d t} = 0$$
 
+It must be proportional to velocity, at least . 
 
-
-It must be proportional to velocity or else it would violate Newton's first law. 
-
-$$p \propto v$$
+$$p = m v$$
 
 If this is so, then any change in velocity of a body must correspond to a change in momentum. Since changes in velocity correspond to interactions and since momentum is conserved, all interactions can be understood as transfers of momentum from one body to another. The constant of proportionality is called the mass, and it can be measured by testing how easy it is to change the velocity of an object. 
 
@@ -99,6 +120,10 @@ Is it also the case that no acceleration implies no interaction? No, because the
 In Einstein physics, this is not true because a body that moves at the speed of light can interact with something else without accelerating. In that case, it would not be much like a body but more like a wave packet, and the result of such an interaction would be a change in the wavelength rather than in the velocty. A packet that moves at the speed of light could not accelerate along its own direction of motion, though it can accelerate perpendicular to itself. 
 
 In Galilean physics, it is also true that no acceleration implies no interaction, but this is not the case in Einsteinian physics. 
+
+
+
+Newton later used Galileo's conclusion has his first law of motion. The first law of motion is often conflated with the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in their state of motion, so it has more to do with mass and how a massive body's velocity changes very little when a force acts on it and less with an object that is isolated from interaction.  
 
 
 If it satisfied  
@@ -140,13 +165,7 @@ $$F_{i j} (x_i(t), v_j(t), x_j(t), v_j(t))$
 
 where $F_{i j} = -F_{i j}$, which implies $F_{i i} = 0$.
 
-### The Principle of Relativity
 
-The principle of relativity states that the laws of physics are the same in all inertial reference frames. There are two versions of the principle of relativity: Galilean relativity and Einsteinian special relativity. Einstein's general relativity includes the special relativity, but it also says that the laws of physics are the same in non-inertial reference frames as well. Often, pre-Einsteinian physics is called *nonrelativistic*, which is not true. Galilean relativity has this name not because Galileo discovered it, but because it was always implicit in Galilean physics. 
-
-The principle of relativity is made concrete with some transformation that explains how to look at the world from the perspective of any inertial observer. If the principle of relativity is true, then this transformation will leave the laws of physics unchanged. In Galilean relativity, this is called the Galilean transform. In Einstein's special relativity, it is called the Lorentz transform. The Galilean transform is simply the addition of a velocity to everything. 
-
-$$\bar{x}(t) = x(t) + v t$$
 
 We define a space 
 
