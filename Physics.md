@@ -1,4 +1,6 @@
-## Long-Range Forces
+# Long-Range Forces
+
+## Conceptual Introduction
 
 ### Localism
 
@@ -30,9 +32,13 @@ The compatibility of long-range forces with localism is, in large part, the stor
 
 It is hard to explain what a gauge theory is without a lot of mathematical preparation, but physicists like to describe the world in terms of quantities that are physically real only in the way that they change but not in their absolute value. These quantities are integrals, which means that there is an arbitray additive constant to them, as anyone would have got used to seeing in a calculus class. Energy is an example of such a quantity. The potential energy is a spacial integral, and any additive constant can be added to it to produce identical physics. Physicists typically define the potential energy to ensure that bound states correspond to negative values of potential energy and unbound states to positive values, but this is done for convenience, not because it is required physically. 
 
-To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always share a long-range force with one another. 
+To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always remain connected by a long-range force. 
 
-### Galilean Physics
+An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
+
+## Galilean Physics
+
+### Differential Equations in Terms of Time
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
@@ -58,35 +64,55 @@ This is why higher derivatives of the position do not have their own name. They 
 
 ### Uniform Motion
 
-Galileo imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever, which means that it would be described by the law 
+Sciency typically proceeds by separating things into smaller pieces so that they can be examined in isolation and controlled experiments can be designed with them. Thus Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
+
+Such a body would be described by the law 
 
 $$a(t) = 0$$
 
-Newton later used this principle as his first law of motion. Evidently, there is a connection between acceleration and interaction, so if we want something interesting to happen, we need more than one body. 
+Evidently, if there is no interaction then there is no acceleration, so if we want something interesting to happen, we need more than one body. 
 
-Let $x_i(t)$ be a list of positions indexed by $i$. These are the bodies in our universe. We can now write our law as 
+Newton later used Galileo's conclusion has his first law of motion. The first law of motion is often conflated with the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in their state of motion, so it has more to do with mass and how a massive body's velocity changes very little when a force acts on it and less with an object that is isolated from interaction.  
 
-$$a_i(t) = \sum_{j} f_{i j}(x_j(t), v_j(t))$$
+### Linear Momentum 
 
-where $f_{i j}$ is the interaction of body $i$ with body $j$, which must satisfy $f_{i i} = 0$. 
+The concept of linear momentum provides us with an idea of what an interaction is like. 
 
-### Inertia
+Linear momentum was originally conceived by Descartes as a quantity of motion that would be conserved in all interactions. He observed that a moving ball that strikes a stationary ball will be slower after the collision whereas the ball that was struck will be faster. He proposed that some quantity of motion must have been transferred from one ball to another. 
 
-The first law of motion is often said to be equivalant to the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in velocity. Thus, the principle of inertia implies that acceleration is a product of the opposition of something that promotes a change in velocity (which we will call a force), and something that resists it. It implies that there is no acceleration if there is no force, but it does not imply that force has anything to do with an interaction with some other body, which is what the first law implies. 
+We call this quantity *linear momentum* because, as we will see, later physicists generalized the concept of momentum to something that is not always conserved and that is quite different from the original idea. 
 
-The law of inertia might be written as 
+Linear momentum is usually written with the letter $p$. If it is conserved, then 
 
-$$a(t) = resistance(F(x(t), v(t)))$$
+$$\frac{d p}{d t} = 0$$
 
-where $F$ is the force and 
 
-$$resistance(0) = 0$$
 
-The law of inertia can be combined with the first law as 
+It must be proportional to velocity or else it would violate Newton's first law. 
 
-$$a_i(t) = resistance(\sum_{j} F_{i j}(x_j(t), v_j(t)))$$
+$$p \propto v$$
 
-where $F_{i i} = 0$. 
+If this is so, then any change in velocity of a body must correspond to a change in momentum. Since changes in velocity correspond to interactions and since momentum is conserved, all interactions can be understood as transfers of momentum from one body to another. The constant of proportionality is called the mass, and it can be measured by testing how easy it is to change the velocity of an object. 
+
+Is it also the case that no acceleration implies no interaction? No, because there can be two interactions that cancel each other out. 
+
+In Einstein physics, this is not true because a body that moves at the speed of light can interact with something else without accelerating. In that case, it would not be much like a body but more like a wave packet, and the result of such an interaction would be a change in the wavelength rather than in the velocty. A packet that moves at the speed of light could not accelerate along its own direction of motion, though it can accelerate perpendicular to itself. 
+
+In Galilean physics, it is also true that no acceleration implies no interaction, but this is not the case in Einsteinian physics. 
+
+
+If it satisfied  
+
+$$F = \frac{d p}{d t}$$
+
+then it would always be conserved because every force would be cancelled out by an equal and opposite force on another body, implying that the sum of all changes to momentum would be zero. Therefore, momentum must be 
+
+$$p = \int dt \frac{d p}{d t} = \int dt F = \int dt m a(t) = m v + C = m v$$
+
+This quantity we call linear momentum because, as we will see, later on in physics the word *momentum* was used in a generalized sense to include other quantities that are not necessarily conserved. 
+
+We will see that the law of inertia is more correct than Newton's second law. When Einstein's special theory is introduced, the principle of inertia will remain and 
+
 
 ## Newton's Second and Third Laws
 
@@ -114,20 +140,6 @@ $$F_{i j} (x_i(t), v_j(t), x_j(t), v_j(t))$
 
 where $F_{i j} = -F_{i j}$, which implies $F_{i i} = 0$.
 
-### Linear Momentum 
-
-Momentum was originally conceived as a quantity of motion that would be conserved in all interactions. It is usually written as the letter $p$. It must be proportional to velocity or else it would violate Newton's first law. If it satisfied  
-
-$$F = \frac{d p}{d t}$$
-
-then it would always be conserved because every force would be cancelled out by an equal and opposite force on another body, implying that the sum of all changes to momentum would be zero. Therefore, momentum must be 
-
-$$p = \int dt \frac{d p}{d t} = \int dt F = \int dt m a(t) = m v + C = m v$$
-
-This quantity we call linear momentum because, as we will see, later on in physics the word *momentum* was used in a generalized sense to include other quantities that are not necessarily conserved. 
-
-We will see that the law of inertia is more correct than Newton's second law. When Einstein's special theory is introduced, the principle of inertia will remain and 
-
 ### The Principle of Relativity
 
 The principle of relativity states that the laws of physics are the same in all inertial reference frames. There are two versions of the principle of relativity: Galilean relativity and Einsteinian special relativity. Einstein's general relativity includes the special relativity, but it also says that the laws of physics are the same in non-inertial reference frames as well. Often, pre-Einsteinian physics is called *nonrelativistic*, which is not true. Galilean relativity has this name not because Galileo discovered it, but because it was always implicit in Galilean physics. 
@@ -142,9 +154,9 @@ We define a space
 
 ## Waves
 
-## Optics
-
 ## Special Relativity
+
+## Optics
 
 ## Gauss's Law
 
