@@ -20,9 +20,9 @@ How is such a thing possible? At the very least, a local theory of long-range fo
 
 Einsteinian theories, those compatible with the special or general theory, all work like this. The force is no longer a true interaction between distant bodies. It is a local interaction with a force field that fills all of space and admits waves. This revised understanding of long-range forces began with the discovery of Maxwell's equations of electromagnetism, a theory that unified the electric and magnetic forces with light, which turned out to be electromagnetic waves. Newton had, of course, studied light but had never imagined that it was so closely connected with his idea of force. 
 
-Einstein's special relativity was abstracted from Maxwell's equations and his general relativity was discovered by Einstein in his attempt to discover a set of equations that described gravity in analogy to those of Maxwell. Although Einstein's special and general theories are usually and were originally described as theories of *relativity*, it is only the general theory that was an innovation in relativity. The innovation of the special theory was localism. 
+Einstein's special relativity was abstracted from Maxwell's equations and his general relativity was discovered by Einstein in his attempt to discover a set of equations that described gravity in analogy to those of Maxwell. Although Einstein's special and general theories are usually and were originally described as theories of *relativity*, relativity has been a part of physics since the time of Galileo. Before Einstein's general theory, the principle of relativity was understood to mean that the laws of physics are the same in any inertial reference frame, meaning that two scientists can pass each other and both think that they are standing still and that the other scientist is moving fast. No experiment they could do would elevate one perspective over the other, as long as neither was accelerating. 
 
-Before Einstein's general theory, the principle of relativity was understood to mean that the laws of physics are the same in any inertial reference frame, meaning that two scientists can pass each other and both think that they are standing still and that the other scientist is moving fast. No experiment they could do would elevate one perspective over the other, as long as neither was accelerating. Relativity had been a part of physics since the time of Galileo and Einstein did not change this with his special theory. The general theory expanded the principle of relativity to include accelerated motion. In the general theory, two scientists could accelerate relative to one another and disagree on who was doing the acceleration. They could each see themselves as standing still and resisting a gravitational force. 
+Einstein's special theory did not change the general idea but it did propose that the speed of light was an *exception* to the principle of relativity. Thus despite the fact that theories which incorporate Einstein's relativity are called "relativitstic", the special theory was actually *less* relativistic than the physics of Galileo. Einstein's general theory greatly expanded the principle of relativity to include accelerated reference frames, which could be understood as stationary motion with resistance to a gravitational field. 
 
 With the special theory, Einstein emphasized relativity because the principle of relativity had been temporarily disturbed due to an incompatability between Maxwell's equations and earlier mechanics. Both of these theories obeyed the principle of relativity on their own, but had different ways of changing perspectives which, when put together, destroyed relativity. For mechanics, a change in persective was called the Galilean transformation, and for Maxwell's equations it was called the Lorentz transformation. These two theories put together were not relativistic and they implied that some scientist could detect his velocity relative to the speed of light, which was absolute. 
 
@@ -34,11 +34,11 @@ It is hard to explain what a gauge theory is without a lot of mathematical prepa
 
 To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that can be changed not just by a total constant but by an abstract rotation function defined over all of space. This is called a gauge transformation. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always remain connected by a long-range force. 
 
-An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
+An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
-## Galilean Physics
+## Inertial Motion
 
-### Differential Equations in Terms of Time
+### Galilean Physics
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
@@ -76,26 +76,39 @@ Such a body would be described by the law
 
 $$a(t) = 0$$
 
-Evidently, if there is no interaction then there is no acceleration, so if we want something interesting to happen, we need more than one body. 
+Evidently, if there is no interaction then there is no acceleration, so if we want something interesting to happen, we need more than one body. We will do this with an index that represents many bodies. 
 
+$$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t))$$
 
+Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$. 
+
+### Inertia and Newton's First Law
+
+Motion at constant velocity is called *inertial motion* and the perspective of someone whose motion is inertial is an *inertial reference frame*. It is getting ahead of ourselves to introduce the concept of inertia, which was defined by Newton as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". This principle is often conflated with Newton's first law, but it is not quite the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". The first law does not say that a body resists change. If no external force is acting on it, then there would be nothing for it to resist. 
+
+The first law is much closer to what has been discused in the previous section, except that we don't even know what a force is yet. The first law establishes that the natural motion of an isolated body is constant velocity. The principle of inertia says that if there is some kind of outside influence, the body will resist that influence. The principle of inertia is much more like Newton's second law, which establishes the nature of that resistance as the mass of the object. 
+
+Why do physicists today still say "inertia" instead of "mass"? There is no need in modern physics for a concept of inertia but it is still part of the jargon. The word *inertia* should be read as referring to motion at constant velocity but having no particular meaning other than that. An inertial body is not moving at constant velocity because it is resisting something or because it has a power of resisting an external force. 
 
 ### Principle of Relativity
 
-The principle of relativity states that there is no such thing as an absolute velocity in physics, only relative velocities. Galileo discovered it and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. If the principle of relativity is true, two observers who passed each other at constant velocity could both imagine that they are standing still and that the other observer is moving. 
+There is a very natural explanation for inertial motion and there is no need to introduce any concept of inertia or force other than because of the way that physicists refer to motion at constant velocity. The explanation is the symmetries of space and time. 
 
-Mathematically, the principle of relativity could be expressed as 
+The first of these is translation invariance. This means that there is no special point in space. We could look at our current position or someone else as being the center of the universe and no experiment would establish either viewpoint as more correct than another. An isolated body, therefore, could not pick out some external point to accelerate towards. 
 
-$$f(x(t), v(t)) = f(x(t) + \bar{v} t, v(t) + \bar{v})$$
+The second is rotational invariance. If the universe is invariant under rotations, then an isolated body could not pick out any special direction to accelerate, other than the direction it is already moving. If the universe is invariant under rotations about *any* point, then translation invariance is a consequence of rotation invariance because we can construct any translation from a product of two rotations about different points. 
+
+The third symmetry is one that mixes space and time and is implied by *principle of relativity*, which states that there is no special inertial reference frame. Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. If the principle of relativity is true, two observers who passed each other at constant velocity could both imagine that they are standing still and that the other observer is moving. 
+
+If no inertial reference frame is special, then an isolated body does not even know its own direction of motion. From its own perspective, it is standing still. Thus, an isolated body could not pick out any direction in which to accelerate. The principle of relativity implies translation invariance. 
+
+Mathematically, the principle of relativity would be expressed by a transformation of space over time to take the perspective of someone moving at velocity $\bar{v}$ from our perspective. In the new perspective, this velocity would be zero. 
 
 
 
-There are two versions of the principle of relativity: Galilean relativity and Einsteinian special relativity. Einstein's general relativity includes the special theeory, but it also says that the laws of physics are the same in accelerated reference frames as well. Often, pre-Einsteinian physics is called *nonrelativistic*, which is inaccurate. 
+Later, Einstein proposed a different principle of relativity which proposes that the speed of light is special but other velocities are not. This version of relativity allows for any inertial reference frame to be mapped onto any other as long as it is slower than the speed of light, but it also changes the observer's perception of time and distance. 
 
-
-The principle of relativity is made concrete with some transformation that explains how to look at the world from the perspective of any inertial observer. If the principle of relativity is true, then this transformation will leave the laws of physics unchanged. In Galilean relativity, this is called the Galilean transform. In Einstein's special relativity, it is called the Lorentz transform. The Galilean transform is simply the addition of a velocity to everything. 
-
-$$\bar{x}(t) = x(t) + v t$$
+## Conservation of Momentum
 
 ### Linear Momentum 
 
@@ -139,7 +152,7 @@ This quantity we call linear momentum because, as we will see, later on in physi
 We will see that the law of inertia is more correct than Newton's second law. When Einstein's special theory is introduced, the principle of inertia will remain and 
 
 
-## Newton's Second and Third Laws
+### Newton's Second and Third Laws
 
 Newton's second law is a more concrete version of the law of inertia. It says 
 
@@ -169,15 +182,37 @@ where $F_{i j} = -F_{i j}$, which implies $F_{i i} = 0$.
 
 We define a space 
 
-## Force Laws
+## Newtonian Physics
 
-## Waves
+### Euclidian Space
 
-## Special Relativity
+There are two kinds of Euclidian space. One of them is the space that was actually studied by Euclid and the other is what modern mathematicians call Euclidian space, which is quite different although superficially similar. We will use the later but explain the differences with the former. The essentials of Euclidian space, from the modern perspective, are that it comes with notions of distance and angle and that it is flat. Euclid's original space had these properties but it also was two-dimensional and relied entirely on compass and straightedge constructions. A compass is a device for drawing circles and a straightedge is for drawing straight lines. It is through the use of these devices that consistent notions of distance and angle emerged in Euclid. However, they also resulted in a different notion of magnetude than we use today. Euclid did not have a concept of the real numbers, which are foundational in modern treatments. All magnetudes in Euclid are what we would now call algebraic numbers, which means that they correspond to solutions of rational polynomials. And not just any polynomial either. The intersections of straight lines with straight lines, straight lines with circles, and circles with circles correspond to basic polynomials that can be combined with one another to produce more polynomials via methods that correspond to geometric constructions. The set of polynomials that can be constructed in this manner is not the full set of rational polynomials. Consequently there are many numbers that seem quite natural to us that Euclid could not construct, for example $\sqrt{7}$ was completely beyond Euclid. 
 
-## Optics
+Modern mathematicians use the real numbers, which are defined in terms of limits of rational numbers. Any sequence of rational numbers with a limit is a real number. Real numbers turn out to be quite bizarre when you bring them into set theory, but we do not have to imagine that we ever have a set of all real numbers so that is not a problem. However, there is a potential problem due to a consequence of Godel's theorems, which is that it is not necessarily the case that two convergent sequences of rational numbers can be proven to be either equal or unequal. 
+
+Real numbers turn into a big problem in physics later when we do quantum field theory. 
+
+Thus, the modern notion of space as continuous needs to be viewed as an idealization that we cannot currently avoid, not knowing enough about what it is *really* like on a small scale. 
+
+As to Euclidian space being flat, that is intuitive for two-dimensional space, but what does it mean to be flat in higher dimensions? For our purposes, flatness can be understood in terms that are intuitive to imagine. One is that all triangles have $180^\circ$ in them, just as in the two-dimensional version of Euclid. The other is that two figures of different sizes can be congruent. In other words, a big triangle with the same angles at its corners as a small triangle can be uniformly scaled down to fit on top of the little triangle. A flat space in higher dimensions will retain these properties. In curved space this does not work because there is a relationship between the area of a triangle and the sum of its angles. 
+
+### Vectors
+
+### Mechanics
+
+### Rotation
+
+## Einstein's Special Relativity
+
+### Minkowski Space
+
+### World Lines
+
+### 
 
 ## Gauss's Law
+
+## Waves
 
 ## Maxwell's Equations
 
