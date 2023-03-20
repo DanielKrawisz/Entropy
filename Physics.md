@@ -88,23 +88,23 @@ Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$.
 
 Here, *inertia* refers only to motion at a constant velocity and has no other meaning. Newton originally defined *inertia* as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". This principle is often conflated with Newton's first law, but it is not the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". The first law does not say that a body resists change. It says that a body moves at constant velocity unless a force acts on it. It does not say what happens when the force acts on it, whereas the principle of inertia does: the body resists. Thus, the principle of inertia is much more like Newton's second law, which is about how a body responds to a force. 
 
+If you were to do experiments to attempt to approximate an isolated body, perhaps by rolling balls on flat surfaces, you would notice that the balls rolled father as they stopped as you reduced friction or sources of interactions with the ball. You might also notice that you need to push the ball more to make it move at higher speeds. This is how you might come up with something like inertia, if you didn't have a clear concept of force. 
+
+The term *inertial motion* doesn't make sense on its own terms because an isolated body is not interacting with anything and therefore has nothing to resist. The emphasis on a power of resisting in reference to uniform motion only makes sense in the context of the old argument with the followers of Aristotle about whether bodies naturally slow down without an external force. It does not because it is resisting! 
+
+The point of all this is that inertia is simply a word that is a vestage of idea that has no place in modern phsyics. 
+
 ### Principle of Relativity
 
-There is a very natural explanation for inertial motion and there is no need to introduce any concept of inertia or force other than because of the way that physicists refer to motion at constant velocity. The explanation is the symmetries of space and time. 
+The *Principle of Relativity* is an explanation for inertial motion that does not require the introduction of concepts like inertia or force. It states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies, from their perspective, behave as if they are standing still. A body that spontaneously slowed down in one perspective would be, from another perspective, a body that spontaneously started moving! Why would it do such a thing? It absolutely could not because it would have no way of picking out any direction to start moving. If it is standing still, then all directions around it are the same. 
 
-The first of these is translation invariance. This means that there is no special point in space. We could look at our current position or someone else as being the center of the universe and no experiment would establish either viewpoint as more correct than another. An isolated body, therefore, could not pick out some external point to accelerate towards. 
+Symmetry arguments like this have taken a central position in physics. Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
 
-The second is rotational invariance. If the universe is invariant under rotations, then an isolated body could not pick out any special direction to accelerate, other than the direction it is already moving. If the universe is invariant under rotations about *any* point, then translation invariance is a consequence of rotation invariance because we can construct any translation from a product of two rotations about different points. 
+*Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
 
-The third symmetry is one that mixes space and time and is implied by *principle of relativity*, which states that there is no special inertial reference frame. Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. If the principle of relativity is true, two observers who passed each other at constant velocity could both imagine that they are standing still and that the other observer is moving. 
-
-If no inertial reference frame is special, then an isolated body does not even know its own direction of motion. From its own perspective, it is standing still. Thus, an isolated body could not pick out any direction in which to accelerate. The principle of relativity implies translation invariance. 
-
-Mathematically, the principle of relativity would be expressed by a transformation of space over time to take the perspective of someone moving at velocity $\bar{v}$ from our perspective. In the new perspective, this velocity would be zero. 
+### Lorentz Transformations
 
 
-
-Later, Einstein proposed a different principle of relativity which proposes that the speed of light is special but other velocities are not. This version of relativity allows for any inertial reference frame to be mapped onto any other as long as it is slower than the speed of light, but it also changes the observer's perception of time and distance. 
 
 ## Conservation of Momentum
 
@@ -184,11 +184,15 @@ We define a space
 
 ### Euclidian Space
 
-There are two kinds of Euclidian space. One of them is the space that was actually studied by Euclid and the other is what modern mathematicians call Euclidian space, which is quite different although superficially similar. We will use the later but explain the differences with the former. The essentials of Euclidian space, from the modern perspective, are that it comes with notions of distance and angle and that it is flat. Euclid's original space had these properties but it also was two-dimensional and relied entirely on compass and straightedge constructions. A compass is a device for drawing circles and a straightedge is for drawing straight lines. It is through the use of these devices that consistent notions of distance and angle emerged in Euclid. However, they also resulted in a different notion of magnetude than we use today. Euclid did not have a concept of the real numbers, which are foundational in modern treatments. All magnetudes in Euclid are what we would now call algebraic numbers, which means that they correspond to solutions of rational polynomials. And not just any polynomial either. The intersections of straight lines with straight lines, straight lines with circles, and circles with circles correspond to basic polynomials that can be combined with one another to produce more polynomials via methods that correspond to geometric constructions. The set of polynomials that can be constructed in this manner is not the full set of rational polynomials. Consequently there are many numbers that seem quite natural to us that Euclid could not construct, for example $\sqrt{7}$ was completely beyond Euclid. 
+There are two kinds of Euclidian space. One of them is the space that was actually studied by Euclid and the other is what modern mathematicians call Euclidian space, which is quite different although superficially similar. We will use the later but explain the differences with the former. The essentials of Euclidian space, from the modern perspective, are that it comes with notions of distance and angle and that it is flat. Euclid's original space had these properties but it also was two-dimensional and relied entirely on compass and straightedge constructions. A compass is a device for drawing circles and a straightedge is for drawing straight lines. It is through the use of these devices that consistent notions of distance and angle emerged in Euclid. However, they also resulted in a different notion of magnetude than we use today. Euclid did not have a concept of the real numbers, which are foundational in modern treatments. All magnetudes in Euclid are what we would now call algebraic numbers, which means that they correspond to solutions of rational polynomials. And not just any polynomial either. The intersections of straight lines with straight lines, straight lines with circles, and circles with circles correspond to basic polynomials that can be combined with one another to produce more polynomials via methods that correspond to geometric constructions. The set of polynomials that can be constructed in this manner is not the full set of rational polynomials. Consequently there are many numbers that seem quite natural to us that Euclid could not construct, for example $\sqrt{7}$ was entirely beyond Euclid. 
 
-Modern mathematicians use the real numbers, which are defined in terms of limits of rational numbers. Any sequence of rational numbers with a limit is a real number. Real numbers turn out to be quite bizarre when you bring them into set theory, but we do not have to imagine that we ever have a set of all real numbers so that is not a problem. However, there is a potential problem due to a consequence of Godel's theorems, which is that it is not necessarily the case that two convergent sequences of rational numbers can be proven to be either equal or unequal. 
+The limitations of compass and straight edge constructions were understood by ancient mathematicians in terms of three famous problems that they could not solve: the trisection of an angle, the doubling of the cube, and the construction of a circle with the same area as a given square. Much of modern mathematics was founded through investigations into what made these problems unsolvable by Euclid. 
 
-Real numbers turn into a big problem in physics later when we do quantum field theory. 
+However, physicists don't care about any of that and don't know anything about compass and straight edge constructions. Modern physicists use the real numbers, which are defined in terms of limits of rational numbers. They have no touble trisecting an angle if they feel like it. 
+
+Any sequence of rational numbers with a limit is a real number. Real numbers turn out to be quite bizarre when you bring them into set theory, but we do not have to imagine that we ever have a set of all real numbers so that is not a problem. However, there is a potential problem due to a consequence of Godel's theorems, which is that it is not necessarily the case that two convergent sequences of rational numbers can be proven to be either equal or unequal. 
+
+Real numbers turn into a big problem in physics later when we get to quantum field theory. 
 
 Thus, the modern notion of space as continuous needs to be viewed as an idealization that we cannot currently avoid, not knowing enough about what it is *really* like on a small scale. 
 
@@ -196,9 +200,25 @@ As to Euclidian space being flat, that is intuitive for two-dimensional space, b
 
 ### Vectors
 
+Given that we have already discussed Newton's three laws, what is left to put in this chapter on Newtonian physics? In addition to establishing a clear concept of force, Newton also formulated physics in a way that was suitable for bodies moving freely in three dimensional space. The physics of the last chapter was one dimensional. 
+
+
+
+The word vector means something different to physicists as to mathematicans. To mathematicians, a vector is an element of a vector space, whereas to physicists a vector is something that transforms as the vector representation of the rotation group. 
+
 ### Mechanics
 
+
+
 ### Rotation
+
+### The Two-Body Problem
+
+### Kepler's Laws
+
+## Gauss's Law
+
+## The Conservation of Energy
 
 ## Einstein's Special Relativity
 
@@ -206,45 +226,41 @@ As to Euclidian space being flat, that is intuitive for two-dimensional space, b
 
 ### World Lines
 
-### 
+### 4-vectors
 
-## Gauss's Law
+### Force Fields
+
+### Maxwell's Equations
 
 ## Waves
 
-## Maxwell's Equations
-
 ## Conservation Laws
 
-## Stress-Energy Tensor
+### Stress-Energy Tensor
+
+## Gauge Theories
+
+## Curved Space
+
+### Pseudoforces
 
 ## Point Particles
 
-## Elastics
+## Extended Matter
 
 ## Thermodynamics
 
-## Fluid Mechanics
-
-## Probability Distributions
-
 ## Statistical Mechanics
 
-## The Ultraviolet Catastrophe
+### Probability Distributions
 
-## Quantum Mechanics
+### The Ultraviolet Catastrophe
 
 ## Action
 
 ## Symmetry
 
 ## Constraints
-
-## Differential Forms
-
-## Gauge Theories
-
-## Curved Space
 
 ## General Relativity
 
