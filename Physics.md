@@ -48,6 +48,8 @@ $$v(t) = x'(t)$$
 
 $$a(t) = x''(t) = v'(t)$$
 
+Velocity is not the same thing as speed. Velocity is speed together with direction. There can be negative velocities. Speed is the absolute value of velocity. 
+
 Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
 
 Since Galileo, the most fundamental known laws of physics have had the form  
@@ -68,15 +70,15 @@ Here $\bar{v}$ and $\bar{x}$ are indefinite integrals that result from integrati
 
 Of course, the integral cannot be performed because initially we do not know acceleration as a function of time, other than at $t_0$ when it can be determined from $f(x_0, t_0)$. However, implicitly there is still some function $a(t)$ which could be integrated if it were known. 
 
-### Uniform Motion
+### Inertial Motion
 
 Science typically proceeds by separating things into smaller pieces so that they can be examined in isolation and controlled experiments can be designed with them. Thus Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
 
-Such a body would be described by the law 
+Motion at constant velocity is called *inertial* and is described by the law 
 
 $$a(t) = 0$$
 
-Evidently, if there is no interaction then there is no acceleration, so if we want something interesting to happen, we need more than one body. We will do this with an index that represents many bodies. 
+Evidently, if there is no interaction then there is no acceleration. If we want something interesting to happen, we need more than one body. We will do this with an index on $x$ to make it a sequence rather than a single value. 
 
 $$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t))$$
 
@@ -84,11 +86,7 @@ Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$.
 
 ### Inertia and Newton's First Law
 
-Motion at constant velocity is called *inertial motion* and the perspective of someone whose motion is inertial is an *inertial reference frame*. It is getting ahead of ourselves to introduce the concept of inertia, which was defined by Newton as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". This principle is often conflated with Newton's first law, but it is not quite the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". The first law does not say that a body resists change. If no external force is acting on it, then there would be nothing for it to resist. 
-
-The first law is much closer to what has been discused in the previous section, except that we don't even know what a force is yet. The first law establishes that the natural motion of an isolated body is constant velocity. The principle of inertia says that if there is some kind of outside influence, the body will resist that influence. The principle of inertia is much more like Newton's second law, which establishes the nature of that resistance as the mass of the object. 
-
-Why do physicists today still say "inertia" instead of "mass"? There is no need in modern physics for a concept of inertia but it is still part of the jargon. The word *inertia* should be read as referring to motion at constant velocity but having no particular meaning other than that. An inertial body is not moving at constant velocity because it is resisting something or because it has a power of resisting an external force. 
+Here, *inertia* refers only to motion at a constant velocity and has no other meaning. Newton originally defined *inertia* as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". This principle is often conflated with Newton's first law, but it is not the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". The first law does not say that a body resists change. It says that a body moves at constant velocity unless a force acts on it. It does not say what happens when the force acts on it, whereas the principle of inertia does: the body resists. Thus, the principle of inertia is much more like Newton's second law, which is about how a body responds to a force. 
 
 ### Principle of Relativity
 
