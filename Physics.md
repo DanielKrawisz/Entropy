@@ -1,6 +1,6 @@
-# Long-Range Forces
+# Matter and Motion
 
-## Conceptual Introduction
+## Long-Range Forces
 
 ### Localism
 
@@ -36,7 +36,7 @@ To put it vaguely, when the geometry of a theory works out just right, there can
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
-## Inertial Motion
+## Inertia
 
 ### Galilean Physics
 
@@ -86,25 +86,41 @@ Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$.
 
 ### Inertia and Newton's First Law
 
-Here, *inertia* refers only to motion at a constant velocity and has no other meaning. Newton originally defined *inertia* as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". This principle is often conflated with Newton's first law, but it is not the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". The first law does not say that a body resists change. It says that a body moves at constant velocity unless a force acts on it. It does not say what happens when the force acts on it, whereas the principle of inertia does: the body resists. Thus, the principle of inertia is much more like Newton's second law, which is about how a body responds to a force. 
+*Inertia* is an archaic concept that has no place in modern physics but which has been frozen into the jargon because of the influence of Kepler, the one who first proposed it. 
 
-If you were to do experiments to attempt to approximate an isolated body, perhaps by rolling balls on flat surfaces, you would notice that the balls rolled father as they stopped as you reduced friction or sources of interactions with the ball. You might also notice that you need to push the ball more to make it move at higher speeds. This is how you might come up with something like inertia, if you didn't have a clear concept of force. 
+Newton's overriding influence. Inertia was defined by him as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". However, in the present discussion, inertia should be understood as a word that refers to motion at constant velocity and has no other connotation. 
 
-The term *inertial motion* doesn't make sense on its own terms because an isolated body is not interacting with anything and therefore has nothing to resist. The emphasis on a power of resisting in reference to uniform motion only makes sense in the context of the old argument with the followers of Aristotle about whether bodies naturally slow down without an external force. It does not because it is resisting! 
+In my reading of Newton, it appears that his discussion of inertia engages with earlier work on physics but is made obsolete later by the introduction of Newton's three laws of motion and after that is no longer relevant. If you were to do experiments to attempt to approximate an isolated body, perhaps by rolling balls on flat surfaces, you would notice that the balls rolled father as they stopped as you reduced friction or sources of interactions with the ball. You might also notice that you need to push the ball more to make it move at higher speeds. This is how you might come up with something like inertia, if you didn't have a clear concept of force. 
 
-The point of all this is that inertia is simply a word that is a vestage of idea that has no place in modern phsyics. 
+The principle of inertia is often conflated with Newton's first law, but it is not the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". Thus, the first law establishes that motion at constant velocity is the natural motion of an isolated body, which is what the previous section was about. The first law does not say that a body resists change or what happens when the force acts on it, whereas the principle of inertia does. According to the principle of inertia, if a force acts on a body, the body will resist changing its velocity in reaction to that force. Thus, the principle of inertia is much more like Newton's second law, except that the second law is a lot better because it establishes *how* the body resists the force, which is in proprtion to its mass. In fact, I would say that Newton's second law emplies that inertia cannot be anything *other* than mass. 
+
+You would only say that Newton's first law and the principle of inertia are equivalent if you were imagining that some power of resistance is required to keep a body at a constant velocity, as if some internal force always exists to degrade its motion, something you would only think inertial motion rather than slowing down and standing still, which is what you would think if you still believed with Aristotle that a body's natural motion was to approach a state of rest, a notion that had been refuted not just by Galileo but by Jean Buridan long before. Indeed, this concept of inertia is much closer to how it was originally defined by Kepler, who described inertia as a force that prevents a moving body from slowing down. 
+
+Thus, the principle of inertia is *not* the same as Newton's first law and inertia is not an explanation for inertial motion. Ineria is simply a confusing vestage in modern physics. We have a much better explanation for inertial motion and that is the principle of relativity, to be discussed in the next sectoin. 
+
+Having established that no interaction implies no acceleration, is it also the case that no acceleration implies no interaction? No, for two reasons. The first is that two opposite forces can cancel each other out. This is why modern textbooks often change Newton's first law to say that a body does not divert from inertial motion unless there is a *net* force. Second, a body can have internal motions that that change without affecting its net motion. For example, a body could grow hotter or colder. As we will see, light and other things that move at the speed of light cannot change their speed, but they can still react to forces along their direction of motion. They all have a wavelength which can widen or shrink. 
 
 ### Principle of Relativity
 
-The *Principle of Relativity* is an explanation for inertial motion that does not require the introduction of concepts like inertia or force. It states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies, from their perspective, behave as if they are standing still. A body that spontaneously slowed down in one perspective would be, from another perspective, a body that spontaneously started moving! Why would it do such a thing? It absolutely could not because it would have no way of picking out any direction to start moving. If it is standing still, then all directions around it are the same. 
+The *Principle of Relativity* is an explanation for inertial motion that does not require the introduction of concepts like inertia or force. It states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies could take the perspective of themselves as standing still and this would be a valid way of looking at their own physical system. 
 
-Symmetry arguments like this have taken a central position in physics. Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
+We all know that a body that is initially standing still will not spontaneously start moving. If the principle of relativity is true, then an inertial body also could not spontaneously slow down. If it did, then from its own perspective it would appear to start moving spontaneously. 
+
+Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
 
 *Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
 
+### Symmetry
+
+The principle of relativity is an example of a symmetry principle, which are of central importance in modern physics. Something that is *symmetric* can be transformed in some way that leaves it unchanged. The known laws of physics have quite a complex set of symmetries. One of these is translational symmetry. This means that no position in space is special, in the same sense that the principle of relativity says that no velocity is special. We can regard any point in space as being at the center of the universe and The principle of relativity implies translational symmetry because if we look at the world from the perspective of different velocities, we would perceive events as taking place at different positions in space. 
+
+Another important symmetry is rotatational symmetry. If the universe is rotationally symmetric, then there is no special direction. If there were some special direction, you could say that resting bodies accelerate in that direction, so we actually needed rotational symmetry before. 
+
+Symmetry arguments like this have taken a central position in physics. Noether's theorem shows that symmetries are all connected with a conserved quantity. 
+
+### Einstein's Special Relativity
+
 ### Lorentz Transformations
-
-
 
 ## Conservation of Momentum
 
@@ -120,21 +136,11 @@ Linear momentum is usually written with the letter $p$. If it is conserved, then
 
 $$\frac{d p}{d t} = 0$$
 
-It must be proportional to velocity, at least . 
+It must be proportional to velocity, by the principle of relativity. 
 
 $$p = m v$$
 
 If this is so, then any change in velocity of a body must correspond to a change in momentum. Since changes in velocity correspond to interactions and since momentum is conserved, all interactions can be understood as transfers of momentum from one body to another. The constant of proportionality is called the mass, and it can be measured by testing how easy it is to change the velocity of an object. 
-
-Is it also the case that no acceleration implies no interaction? No, because there can be two interactions that cancel each other out. 
-
-In Einstein physics, this is not true because a body that moves at the speed of light can interact with something else without accelerating. In that case, it would not be much like a body but more like a wave packet, and the result of such an interaction would be a change in the wavelength rather than in the velocty. A packet that moves at the speed of light could not accelerate along its own direction of motion, though it can accelerate perpendicular to itself. 
-
-In Galilean physics, it is also true that no acceleration implies no interaction, but this is not the case in Einsteinian physics. 
-
-
-
-Newton later used Galileo's conclusion has his first law of motion. The first law of motion is often conflated with the principle of inertia, but it is not the same. *Inertia* was described by Newton as the tendancy of bodies to resist changes in their state of motion, so it has more to do with mass and how a massive body's velocity changes very little when a force acts on it and less with an object that is isolated from interaction.  
 
 
 If it satisfied  
