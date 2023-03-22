@@ -269,15 +269,15 @@ I lied above when I said a three-dimensional rotation is a vector. It is actuall
 
 ## Gauss's Law
 
-### Maxwell's Equations
+This chapter has to do with the elliptic partial differential equations that are obeyed by gravitational, electric, and magnetic forces. 
+
+## Maxwell's Equations
 
 ## Waves
 
-## Conservation Laws
+## Conservation of Energy
 
 ### Stress-Energy Tensor
-
-## Gauge Theories
 
 ## Curved Space
 
@@ -285,7 +285,9 @@ I lied above when I said a three-dimensional rotation is a vector. It is actuall
 
 ## Point Particles
 
-## Extended Matter
+## Action
+
+## Gauge Theories
 
 ## Thermodynamics
 
