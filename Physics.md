@@ -42,7 +42,7 @@ An implication of gauge theories is that all long-range forces in three special 
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
-In other words, Galileo conceptualized the motion of a body as a position function $x:time->space$ and attempted to explain it by relating physical concepts to the derivatives of the function $x'(t)$, $x''(t)$, and so on. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
+In other words, Galileo conceptualized the motion of a body as a position function $x:time->space$ and attempted to explain it by relating physical concepts to the derivatives, $x'(t)$, $x''(t)$, and so on, of position. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
 
 $$v(t) = x'(t)$$
 
@@ -106,9 +106,11 @@ The *Principle of Relativity* is an explanation for inertial motion that does no
 
 We all know that a body that is initially standing still will not spontaneously start moving. If the principle of relativity is true, then an inertial body also could not spontaneously slow down. If it did, then from its own perspective it would appear to start moving spontaneously. 
 
-Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
+Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
 
 *Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
+
+
 
 ### Symmetry
 
@@ -116,7 +118,7 @@ The principle of relativity is an example of a symmetry principle, which are of 
 
 Another important symmetry is rotatational symmetry. If the universe is rotationally symmetric, then there is no special direction. If there were some special direction, you could say that resting bodies accelerate in that direction, so we actually needed rotational symmetry before. 
 
-Symmetry arguments like this have taken a central position in physics. Noether's theorem shows that symmetries are all connected with a conserved quantity. 
+Symmetry arguments like this have taken a central position in physics because they accomplish much for little effort. 
 
 ### Einstein's Special Relativity
 
@@ -190,41 +192,70 @@ We define a space
 
 ### Euclidian Space
 
-There are two kinds of Euclidian space. One of them is the space that was actually studied by Euclid and the other is what modern mathematicians call Euclidian space, which is quite different although superficially similar. We will use the later but explain the differences with the former. The essentials of Euclidian space, from the modern perspective, are that it comes with notions of distance and angle and that it is flat. Euclid's original space had these properties but it also was two-dimensional and relied entirely on compass and straightedge constructions. A compass is a device for drawing circles and a straightedge is for drawing straight lines. It is through the use of these devices that consistent notions of distance and angle emerged in Euclid. However, they also resulted in a different notion of magnetude than we use today. Euclid did not have a concept of the real numbers, which are foundational in modern treatments. All magnetudes in Euclid are what we would now call algebraic numbers, which means that they correspond to solutions of rational polynomials. And not just any polynomial either. The intersections of straight lines with straight lines, straight lines with circles, and circles with circles correspond to basic polynomials that can be combined with one another to produce more polynomials via methods that correspond to geometric constructions. The set of polynomials that can be constructed in this manner is not the full set of rational polynomials. Consequently there are many numbers that seem quite natural to us that Euclid could not construct, for example $\sqrt{7}$ was entirely beyond Euclid. 
+There are two kinds of Euclidian space. One of them is the space that was actually studied by Euclid and the other is what modern mathematicians call Euclidian space, which is quite different although superficially similar. We will use the later but explain the differences with the former. The essentials of Euclidian space, from the modern perspective, are that it comes with notions of distance and angle and that it is flat, like the tables on which geometric constructions were originally performed. 
 
-The limitations of compass and straight edge constructions were understood by ancient mathematicians in terms of three famous problems that they could not solve: the trisection of an angle, the doubling of the cube, and the construction of a circle with the same area as a given square. Much of modern mathematics was founded through investigations into what made these problems unsolvable by Euclid. 
+Euclid's original space had these properties but it also was two-dimensional and relied entirely on compass and straightedge constructions. A compass is a device for drawing circles and a straightedge is for drawing straight lines. It is through the use of these devices that consistent notions of distance and angle emerged in Euclid. However, they also resulted in a different notion of magnetude than we use today. Euclid did not have a concept of the real numbers, which are foundational in modern treatments. All magnetudes in Euclid are what we would now call algebraic numbers, which means that they correspond to solutions of rational polynomials. And not just any polynomial either. The intersections of straight lines with straight lines, straight lines with circles, and circles with circles correspond to basic polynomials that can be combined with one another to produce more polynomials via methods that correspond to geometric constructions. The set of polynomials that can be constructed in this manner is not the full set of rational polynomials. Consequently there are many numbers that seem quite natural to us that Euclid could not construct, for example $\sqrt{7}$ was entirely beyond Euclid. 
 
-However, physicists don't care about any of that and don't know anything about compass and straight edge constructions. Modern physicists use the real numbers, which are defined in terms of limits of rational numbers. They have no touble trisecting an angle if they feel like it. 
+The limitations of compass and straight edge constructions were understood by ancient mathematicians in terms of three famous problems that they could not solve: the trisection of an angle, the doubling of the cube, and the construction of a circle with the same area as a given square. Much of modern mathematics was founded through investigations into what made these problems unsolvable by Euclid. However, physicists don't care about any of that and don't know anything about compass and straight edge constructions. Modern physicists use the real numbers, which are defined in terms of limits of rational numbers. They have no touble trisecting an angle if they feel like it. 
 
-Any sequence of rational numbers with a limit is a real number. Real numbers turn out to be quite bizarre when you bring them into set theory, but we do not have to imagine that we ever have a set of all real numbers so that is not a problem. However, there is a potential problem due to a consequence of Godel's theorems, which is that it is not necessarily the case that two convergent sequences of rational numbers can be proven to be either equal or unequal. 
+However, the real numbers come with their own difficulties. Any sequence of rational numbers with a limit is a real number. There is a problem with determining whether two real numbers are equal, but we do not have to imagine that we ever have a set of all real numbers so that is not a problem. However, there is a potential problem due to a consequence of Godel's theorems, which is that it is not necessarily the case that two convergent sequences of rational numbers can be proven to be either equal or unequal. 
 
 Real numbers turn into a big problem in physics later when we get to quantum field theory. 
 
 Thus, the modern notion of space as continuous needs to be viewed as an idealization that we cannot currently avoid, not knowing enough about what it is *really* like on a small scale. 
 
+Although Euclid's work is today considered to be a foundational work of mathematics, in some ways it is better understood as a work of physics. Euclid originated the axiomatic method in mathematics, which was so influential that virtually all mathematicians have used it since then. 
+
+The flatness of Euclidian space is a consequence of Euclid's fifth postulate, which says that a point can be constructed from any two lines that are not parallel. The fifth postulate is disturbing because it implies knowledge of space over distances much bigger than any real table. The intersection of two nearly parallel lines could be arbitrarily far away. How would we have abstracted that such a point exists from our experience of real tables, compasses, and straight edges? This may have been a mistake because, as it turns out, curved spaces approach flat space over short distances. Thus, space over real tables may have been imperceptively curved the whole time. 
+
+Nowadays, 
+
 As to Euclidian space being flat, that is intuitive for two-dimensional space, but what does it mean to be flat in higher dimensions? For our purposes, flatness can be understood in terms that are intuitive to imagine. One is that all triangles have $180^\circ$ in them, just as in the two-dimensional version of Euclid. The other is that two figures of different sizes can be congruent. In other words, a big triangle with the same angles at its corners as a small triangle can be uniformly scaled down to fit on top of the little triangle. A flat space in higher dimensions will retain these properties. In curved space this does not work because there is a relationship between the area of a triangle and the sum of its angles. 
+
+### Modern Euclidian Space
 
 ### Vectors
 
-Given that we have already discussed Newton's three laws, what is left to put in this chapter on Newtonian physics? In addition to establishing a clear concept of force, Newton also formulated physics in a way that was suitable for bodies moving freely in three dimensional space. The physics of the last chapter was one dimensional. 
+Given that we have already discussed Newton's three laws, what is left to put in this chapter on Newtonian physics? In addition to establishing a clear concept of force, Newton also formulated physics in a way that was suitable for bodies moving freely in three dimensional space, whereas the physics of the last chapter was one-dimensional. 
 
+In modern language, Newton formulated his physics in terms of vectors. 
 
+The word *vector* means something different to physicists as to mathematicans. To mathematicians, a vector is an element of a vector space, whereas to physicists a vector is a field that transforms as the vector representation of the rotation group. 
 
-The word vector means something different to physicists as to mathematicans. To mathematicians, a vector is an element of a vector space, whereas to physicists a vector is something that transforms as the vector representation of the rotation group. 
+*Field* is another word that means something different to mathematicians vs physicists. To physicists, a field is a function over space. To mathematicians, a field is a set, such as *R* or *C* that supports addition, subtraction, multiplication, and division. 
 
 ### Mechanics
 
 
 
-### Rotation
+## Rotation
 
-### The Two-Body Problem
+Rotational physics has a theory that is exactly analagous to Newtonian physics. 
 
-### Kepler's Laws
+orientation - position
+angular velocity - velocity
+angular acceleration - acceleration
+moment of inertia - mass
+angular momentum - momentum
+torque - force
 
-## Gauss's Law
+The complexity lies in understanding the form of rotational quantities, which are more complicated than in the Newtonian theory. In $N$ dimensions, position is simply a list of $N$ numbers and derivatives of position are vectors. A rotation is described by a matrix whose inverse is its own transpose. Thus the angular velocity and acceleration are derivitaves of such a thing, whatever that is. 
 
-## The Conservation of Energy
+### Two Dimensions
+
+In two dimensions, a rotation is entirely described by an angle. 
+
+### Three Dimensions
+
+In three dimensions, a rotation must be specified by both an axis and an angle. 
+
+### Parity
+
+I lied above when I said a three-dimensional rotation is a vector. It is actually a pseudo-vector. 
+
+### The Exterior Algebra
+
+### The Magnetic Torque
 
 ## Einstein's Special Relativity
 
@@ -235,6 +266,8 @@ The word vector means something different to physicists as to mathematicans. To 
 ### 4-vectors
 
 ### Force Fields
+
+## Gauss's Law
 
 ### Maxwell's Equations
 
