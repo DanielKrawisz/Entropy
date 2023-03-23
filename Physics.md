@@ -10,7 +10,7 @@ His proposal was controversial because it violated the principle of *localism*, 
 
 By contrast, Descartes had attempted to explain the orbits of the planets by vorticies that spun around the sun and pushed on the planets like a kind of wind and he criticized Newton's theory as a kind of mathematical abstraction which did not necessarily pertain to the fundamental nature of the univrse.  Newton's famous statement "I frame no hypothesis" was already a response to this objection. His laws were derived empirically from what had been observed in planetary motion and were not claimed to be statements about fundamental causes. Privately, however, Newton agreed with Descartes that a fundamental theory ought to be local. 
 
-As time went on, other long-range forces came to be understood. The electric force appears very similar to gravity but has a key difference: it is proportional to charge rather than mass. This has two important implications. First, the electric force can be either attractive or repulsive. Second, that an electric interaction with a distant charged body can be detected without a telescope because two bodies with a different ratio of charge to mass can be observed to accelerate differently. 
+As time went on, other long-range forces came to be understood. The electric force appears very similar to gravity but has a key difference: it is proportional to charge rather than mass. This has two important implications. First, the electric force can be either attractive or repulsive. Second, an electric interaction with a distant charged body can be detected without a telescope because two bodies with a different ratio of charge to mass can be observed to accelerate differently. By contrast, a telescope is required to detect a gravitational acceleration because everything accelerates the same way in a gravitational field. You would need to see some distant body accelerating relative to you in order to detect gravity. 
 
 The magnetic force also obeys an inverse-square law, but unlike the electric and gravitation forces is proportional to current, which means that two charged bodies do not have a magnetic interaction unless they are both moving. 
 
@@ -34,7 +34,15 @@ The compatibility of long-range forces with localism is, in large part, the stor
 
 The purport of quantum mechanics is that the best possible laws of physics that we could intuit from experience are probabilistic rather than deterministic. Probability is not new in physics. What is new about probability in quantum mechanics is that it is no longer due entirely to an imperfection in our experimental method but belongs to the fundamental nature of the universe. 
 
-Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. 
+Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. A better name might be "probability wave mechanics", which would emphasize that which is really new and different in quantum mechanics. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics. Yet quantization can be seen everywhere in physics in contexts in which quantum mechanics can be totally ignored. It is always a result of wave mechanics. 
+
+Physicists did not at first recognize quantization as being a result of wave mechanics because of a confusion over what is now called wave-particle duality. 
+
+The understanding of quantum mechanics as a probabilistic theory came later. 
+
+Hidden variable theories. 
+
+The collapse of the wave function vs many worlds. 
 
 ### Gauge Theories
 
@@ -50,21 +58,29 @@ An implication of gauge theories is that all long-range forces in three special 
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
-In other words, Galileo conceptualized the motion of a body as a position function $x:time->space$ and attempted to explain it by relating physical concepts to the derivatives, $x'(t)$, $x''(t)$, and so on, of position. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
+In other words, Galileo conceptualized the motion of a body as a position function $x:time->space$ and attempted to explain it by relating physical concepts to the derivatives, $x'(t)$, $x''(t)$, and so on, of position. 
+
+Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
+
+Einstein's physics restores the perspective of the classical geometer to physics to make it compatible with Galileo's physics by treating time and space as a single four-dimensional manifold. Curves on this manifold can again be treated independent of parameterization. 
+
+Since Galileo, the most fundamental known laws of physics have had the form  
+
+$$x''(t) = f(x(t), x'(t))$$
+
+where $f$ is some function. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
 
 $$v(t) = x'(t)$$
 
 $$a(t) = x''(t) = v'(t)$$
 
-Velocity is not the same thing as speed. Velocity is speed together with direction. There can be negative velocities. Speed is the absolute value of velocity. 
-
-Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
-
-Since Galileo, the most fundamental known laws of physics have had the form  
+Velocity is not the same thing as speed. Velocity is speed together with direction. There can be negative velocities. Speed is the absolute value of velocity. Thus, a law of physics looks like 
 
 $$a(t) = f(x(t), v(t))$$
 
-where $f$ is some function. Differential equations of this form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk much about them. 
+Differential equations of this form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk much about them. 
+
+Why is physics second-order? The answer is not known, but geometry points to a possible answer. Second-order differential equations naturally arise in the theory of geodesic curves, which are the curves that minimize distance in a curved space. When space is curved, there is no such thing as a straight line but there is such a thing as the shortest curve between two points. The differential equation that characterizes such a curve is second-order. In Einstein's gravity, motion in a gravitational field is geodesic. 
 
 If a function like $f$ can be determined from observations of moving bodies, then it can be used to predict the motion of a body given an initial position $x_0$ and velocity $v_0$ at a given time $t_0$. Since 
 
@@ -104,33 +120,39 @@ The principle of inertia is often conflated with Newton's first law, but it is n
 
 You would only say that Newton's first law and the principle of inertia are equivalent if you were imagining that some power of resistance is required to keep a body at a constant velocity, as if some internal force always exists to degrade its motion, something you would only think inertial motion rather than slowing down and standing still, which is what you would think if you still believed with Aristotle that a body's natural motion was to approach a state of rest, a notion that had been refuted not just by Galileo but by Jean Buridan long before. Indeed, this concept of inertia is much closer to how it was originally defined by Kepler, who described inertia as a force that prevents a moving body from slowing down. 
 
-Thus, the principle of inertia is *not* the same as Newton's first law and inertia is not an explanation for inertial motion. Ineria is simply a confusing vestage in modern physics. We have a much better explanation for inertial motion and that is the principle of relativity, to be discussed in the next sectoin. 
-
-Having established that no interaction implies no acceleration, is it also the case that no acceleration implies no interaction? No, for two reasons. The first is that two opposite forces can cancel each other out. This is why modern textbooks often change Newton's first law to say that a body does not divert from inertial motion unless there is a *net* force. Second, a body can have internal motions that that change without affecting its net motion. For example, a body could grow hotter or colder. As we will see, light and other things that move at the speed of light cannot change their speed, but they can still react to forces along their direction of motion. They all have a wavelength which can widen or shrink. 
+Thus, the principle of inertia is *not* the same as Newton's first law and inertia is not an explanation for inertial motion. Ineria is simply a confusing vestage in modern physics. We have a much better explanation for inertial motion and that is the principle of relativity. 
 
 ### Principle of Relativity
 
-The *Principle of Relativity* is an explanation for inertial motion that does not require the introduction of concepts like inertia or force. It states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies could take the perspective of themselves as standing still and this would be a valid way of looking at their own physical system. 
-
-We all know that a body that is initially standing still will not spontaneously start moving. If the principle of relativity is true, then an inertial body also could not spontaneously slow down. If it did, then from its own perspective it would appear to start moving spontaneously. 
+The *Principle of Relativity* states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies could take the perspective of themselves as standing still and this would be a valid way of looking at their own physical system. We all know that a body that is initially standing still will not spontaneously start moving. If the principle of relativity is true, then an inertial body also could not spontaneously slow down. If it did, then from its own perspective it would appear to start moving spontaneously. 
 
 Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
 
 *Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
 
+The *Galilean transform* is a coordinate transform that brings us from one inertial reference frame to another. So say if we are on the shore watching the ship, which is moving at velocity $\bar{v}$, we can look at the universe from the perspective of the physicist in the ship's below decks like so: 
 
+$$Galilean(\bar{v})(v(t)) = v - \bar{v}$$
+
+$$Galilean(\bar{v})(x(t)) = x - \bar{v} t$$
+
+Every position function which undergoes a Galilean transformation must be equally valid under the laws of physics as it was before. The laws therefore must satisfy 
+
+$$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t)) = \sum_{j : i\neq j}f_{j->i}(x_j(t) - \bar{v} t, v_j(t) - \bar{v})$$
+
+This can be accomplished by saying that only relative positions and velocities matter. 
+
+$$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_i(t) - x_j(t), v_i(t) - v_j(t))$$
 
 ### Symmetry
 
-The principle of relativity is an example of a symmetry principle, which are of central importance in modern physics. Something that is *symmetric* can be transformed in some way that leaves it unchanged. The known laws of physics have quite a complex set of symmetries. One of these is translational symmetry. This means that no position in space is special, in the same sense that the principle of relativity says that no velocity is special. We can regard any point in space as being at the center of the universe and The principle of relativity implies translational symmetry because if we look at the world from the perspective of different velocities, we would perceive events as taking place at different positions in space. 
+The principle of relativity is an example of a symmetry principle, which are of central importance in modern physics due to the amount of conceptual work they accomplish for relatively little effort. 
+
+Something that is *symmetric* can be transformed in some way that leaves it unchanged. The known laws of physics have a complex set of symmetries. One of these is translational symmetry. This means that no position in space is special, in the same sense that the principle of relativity says that no velocity is special. We can regard any point in space as being at the center of the universe and The principle of relativity implies translational symmetry because if we look at the world from the perspective of different velocities, we would perceive events as taking place at different positions in space. 
 
 Another important symmetry is rotatational symmetry. If the universe is rotationally symmetric, then there is no special direction. If there were some special direction, you could say that resting bodies accelerate in that direction, so we actually needed rotational symmetry before. 
 
-Symmetry arguments like this have taken a central position in physics because they accomplish much for little effort. 
-
-### Einstein's Special Relativity
-
-### Lorentz Transformations
+Physicists love symmetric theories because a lot of the work solving them has already been done by nature. Noether's theorem proves that there is a conserved quantity that corresponds to any symmetry in a physical theory. This makes sense because 
 
 ## Conservation of Momentum
 
@@ -165,6 +187,7 @@ This quantity we call linear momentum because, as we will see, later on in physi
 
 We will see that the law of inertia is more correct than Newton's second law. When Einstein's special theory is introduced, the principle of inertia will remain and 
 
+Having established that no interaction implies no acceleration, is it also the case that no acceleration implies no interaction? No, for two reasons. The first is that two opposite forces can cancel each other out. This is why modern textbooks often change Newton's first law to say that a body does not divert from inertial motion unless there is a *net* force. Second, a body can have internal motions that that change without affecting its net motion. For example, a body could grow hotter or colder. As we will see, light and other things that move at the speed of light cannot change their speed, but they can still react to forces along their direction of motion. They all have a wavelength which can widen or shrink. 
 
 ### Newton's Second and Third Laws
 
@@ -271,25 +294,29 @@ I lied above when I said a three-dimensional rotation is a vector. It is actuall
 
 ### World Lines
 
+### Twins Paradox
+
 ### 4-vectors
 
 ### Force Fields
 
 ## Gauss's Law
 
-This chapter has to do with the elliptic partial differential equations that are obeyed by gravitational, electric, and magnetic forces. 
+This chapter has to do with the elliptic partial differential equations that are obeyed by gravitational, electric, and magnetic forces and it is the first step in restoring localism to physics. 
+
+### Green Function Solutions
+
+## The Conservation of Energy
 
 ## Maxwell's Equations
 
 ## Waves
 
-## Conservation of Energy
-
-### Stress-Energy Tensor
-
 ## Curved Space
 
 ### Pseudoforces
+
+### Accelerated Coordinates in Special Relativity
 
 ## Point Particles
 
