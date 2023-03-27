@@ -68,6 +68,9 @@ Since Galileo, the most fundamental known laws of physics have had the form
 
 $$x''(t) = f(x(t), x'(t))$$
 
+|:---|---:|
+| $$x''(t) = f(x(t), x'(t))$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . | (1) |
+
 where $f$ is some function. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
 
 $$v(t) = x'(t)$$
