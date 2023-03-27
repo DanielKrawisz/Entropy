@@ -52,9 +52,27 @@ To put it vaguely, when the geometry of a theory works out just right, there can
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
-## Inertia
+### Inertia and the Principle of Relativity
 
-### Galilean Physics
+An early argument in mechanics concerned the motion of an isolated body. In other words, if some body could be separated from all external influence, such as gravity and friction against the ground and air. Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation about what an isolated system would be like. Galileo asked his readers to imagine a ball rolling on a plane as sources of friction were gradually removed. He argued that the ball would roll farther before stopping as more sources of friction were removed. The limit of such a sequence would be a ball that rolled on forever without stopping. Whatever its initial velocity, that velocity would be maintained forever. 
+
+Galileo was not the first to argue this position, but his argument was very persuasive and is considered to have settled the point against the most popular alternative theory, which was the theory of Aristotle that all bodies naturally come to a state of rest without outside influence. 
+
+Much later, Galilieo's conclusion that an isolated body would exhibit uniform motion was called the Principle of Inertia, which was not a word that Galileo used. Inertia is a word invented Kepler, a lunatic who spent his life attempting to discover harmonic tones in the orbits of the planets. The concept of inertia was not intended to refute Aristotle, but to make the observed motion of celestial bodies consistent with his theory. Kepler proposed that bodies resisted coming to a state of rest because of some force called inertia would cause it to maintain its state of motion. 
+
+Inertia has come to be associated with Newton's first law as a result of a misreading of Newton. Early in the *Principia*, Newton refers to something he calles the *vis insista* which sounds like inertia and which he defines as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". 
+
+Later, Newton introduces his three laws, the first of which states "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". Thus, the first law establishes, in agreement with Galileo, that motion at constant velocity is the natural motion of an isolated body. The first law does not say that a body resists change. 
+
+It is not clear whether Newton's concept of the *vis insista* refers to a resistance to an outside force or to some internal force that causes a body to come to a state of rest. In either case, the concept is not used by Newton later on in his book. In the later case, it is contradicted by the first law. In the former, it is made obsolete by the second law, which establishes the nature of that resistence as the mass of the body. I think the best way to explain Newton's writing is that the *vis insista* concept was a way of engaging with his contemporaries to introduce his own way of thinking, which is no longer needed once the reader is familiar with the Newtonian paradigm. 
+
+For modern physicists, *inertia* is simply jargon that refers to the principle that the motion of an isolated body is uniform. Physics students have been confused by it ever since because rarely are they told that the word is simply a vestage from the theories of an idiot who thought that the solar system was a musical instrument and not a genuine concept or cause of anything. 
+
+Galileo argued for another principle, now called the Principle of Relativity, that explains the principle of Inertia much better than the theory of inertia, although this was not noted until later. Galileo wanted to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
+
+*Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
+
+## Galilean Physics
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
@@ -67,9 +85,6 @@ Einstein's physics restores the perspective of the classical geometer to physics
 Since Galileo, the most fundamental known laws of physics have had the form  
 
 $$x''(t) = f(x(t), x'(t))$$
-
-|:---|---:|
-| $$x''(t) = f(x(t), x'(t))$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . | (1) |
 
 where $f$ is some function. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
 
@@ -110,20 +125,6 @@ Evidently, if there is no interaction then there is no acceleration. If we want 
 $$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t))$$
 
 Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$. 
-
-### Inertia and Newton's First Law
-
-*Inertia* is an archaic concept that has no place in modern physics but which has been frozen into the jargon because of the influence of Kepler, the one who first proposed it. 
-
-Newton's overriding influence. Inertia was defined by him as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". However, in the present discussion, inertia should be understood as a word that refers to motion at constant velocity and has no other connotation. 
-
-In my reading of Newton, it appears that his discussion of inertia engages with earlier work on physics but is made obsolete later by the introduction of Newton's three laws of motion and after that is no longer relevant. If you were to do experiments to attempt to approximate an isolated body, perhaps by rolling balls on flat surfaces, you would notice that the balls rolled father as they stopped as you reduced friction or sources of interactions with the ball. You might also notice that you need to push the ball more to make it move at higher speeds. This is how you might come up with something like inertia, if you didn't have a clear concept of force. 
-
-The principle of inertia is often conflated with Newton's first law, but it is not the same thing. Newton's first law says "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". Thus, the first law establishes that motion at constant velocity is the natural motion of an isolated body, which is what the previous section was about. The first law does not say that a body resists change or what happens when the force acts on it, whereas the principle of inertia does. According to the principle of inertia, if a force acts on a body, the body will resist changing its velocity in reaction to that force. Thus, the principle of inertia is much more like Newton's second law, except that the second law is a lot better because it establishes *how* the body resists the force, which is in proprtion to its mass. In fact, I would say that Newton's second law emplies that inertia cannot be anything *other* than mass. 
-
-You would only say that Newton's first law and the principle of inertia are equivalent if you were imagining that some power of resistance is required to keep a body at a constant velocity, as if some internal force always exists to degrade its motion, something you would only think inertial motion rather than slowing down and standing still, which is what you would think if you still believed with Aristotle that a body's natural motion was to approach a state of rest, a notion that had been refuted not just by Galileo but by Jean Buridan long before. Indeed, this concept of inertia is much closer to how it was originally defined by Kepler, who described inertia as a force that prevents a moving body from slowing down. 
-
-Thus, the principle of inertia is *not* the same as Newton's first law and inertia is not an explanation for inertial motion. Ineria is simply a confusing vestage in modern physics. We have a much better explanation for inertial motion and that is the principle of relativity. 
 
 ### Principle of Relativity
 
