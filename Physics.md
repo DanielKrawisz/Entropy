@@ -84,7 +84,9 @@ The breakthroughs that made Galileo the father of modern mechanics had to do wit
 
 In other words, Galileo conceptualized the motion of a body as a position function $x:time->space$ and attempted to explain it by relating physical concepts to the derivatives, $x'(t)$, $x''(t)$, and so on, of position. 
 
-Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
+Galileo attempted to describe physics in terms of what would now be called differential equations. Earlier researchers did not consistently take this view and instead tended to look at motion in terms of geometric curves, in the style of classical geometry. The problem with a purely geometric viewpoint is that it matters where the body is at any given time, but the geometric view abstracts this information away. For example, Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
+
+Galileo's breakthrough was not purely theoretical, but experimental. It began with the invention of the pendulum clock, which could be used to measure small amounts of time. Previously, researchers had success in branches of science in which there were natural clocks, such as in astronomy, or in which time can be abstracted away, as in optics, where a geometric view is appropriate because the motion of light can be taken to be instantaneous. 
 
 ### Second-order Differential Equations
 
@@ -92,7 +94,17 @@ Since Galileo, the most fundamental known laws of physics have had the form
 
 $$x''(t) = f(x(t), x'(t))$$
 
-where $f$ is some function. In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
+where $f$ is some function. 
+
+Differential equations of this form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk much about them. 
+
+Why is physics second-order? The answer is not known, but geometry points to a possible answer. Second-order differential equations naturally arise in the theory of geodesic curves, which are the curves that minimize distance in a curved space. When space is curved, there is no such thing as a straight line but there is such a thing as the shortest curve between two points. The differential equation that characterizes such a curve is second-order, and is equivalent to saying that the curve has no acceleration tangent to the space. 
+
+In Einstein's gravity, motion in a gravitational field is geodesic, but not all motion in physics is known to be geodesic. Thus, the connection between physics and geometry is tantalizing but incomplete. The universality of second-order differential equations is certainly a very important and deep principle that remains unexplained.  
+
+### Velocity and Acceleration
+
+In physics, he first derivative of the position is called the *velocity* and the second is called the *acceleration*. 
 
 $$v(t) = x'(t)$$
 
@@ -101,10 +113,6 @@ $$a(t) = x''(t) = v'(t)$$
 Velocity is not the same thing as speed. Velocity is speed together with direction. There can be negative velocities. Speed is the absolute value of velocity. Thus, a law of physics looks like 
 
 $$a(t) = f(x(t), v(t))$$
-
-Differential equations of this form are called *second-order*, which means that all derivatives of $x$ that are second-order or higher are determined by $x$ and its first derivative. This is why higher derivatives of the position do not have their own name. They are all determined by the acceleration and do not enter into the differential equation, so there's no reason to talk much about them. 
-
-Why is physics second-order? The answer is not known, but geometry points to a possible answer. Second-order differential equations naturally arise in the theory of geodesic curves, which are the curves that minimize distance in a curved space. When space is curved, there is no such thing as a straight line but there is such a thing as the shortest curve between two points. The differential equation that characterizes such a curve is second-order. In Einstein's gravity, motion in a gravitational field is geodesic. 
 
 If a function like $f$ can be determined from observations of moving bodies, then it can be used to predict the motion of a body given an initial position $x_0$ and velocity $v_0$ at a given time $t_0$. Since 
 
@@ -132,15 +140,15 @@ $$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t))$$
 
 Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$. 
 
+### Spacetime 
+
+*Spacetime* is a concept that merges Galileo's viewpoint with that of the classical geometer by treating time and space together by treating time as a coordinate like those of physical space. We are only thinking about one dimension of physical space for now, so space time is a two-dimensional space with coordinates $x$ and $t$. In this space, curves can be parameterized by time *or* treated simply as curves independent of parameterization. 
+
+The importance of spacetime is that it simplifies physics conceptually and mathematically, but should not be taken as having any metaphysical meaning. We are not saying that the past and future exist in places outside our experience or that we could move around in time as we do in space. 
+
 ### The Galilean Transform
 
-*Spacetime* is a paradigm that merges Galileo's viewpoint with that of the classical geometer by treating time and space together as a single gometric system. 
-
-Einstein's physics restores the perspective of the classical geometer to physics to make it compatible with Galileo's physics by treating time and space as a single four-dimensional manifold. Curves on this manifold can again be treated independent of parameterization. 
-
-### The Galilean Transform
-
-The *Galilean transform* is a coordinate transform that brings us from one inertial reference frame to another. So say if we are on the shore watching the ship, which is moving at velocity $\bar{v}$, we can look at the universe from the perspective of the physicist in the ship's below decks like so: 
+The *Galilean transform* is a coordinate transform of spacetime that brings us from one inertial reference frame to another. If we are on the shore watching the ship, which is moving at velocity $\bar{v}$, we can look at the universe from the perspective of the physicist in the ship's below decks like so: 
 
 $$Galilean(\bar{v})(v(t)) = v - \bar{v}$$
 
