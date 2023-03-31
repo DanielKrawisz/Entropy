@@ -52,6 +52,8 @@ To put it vaguely, when the geometry of a theory works out just right, there can
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
+## Inertial Motion
+
 ### The Principle of Inertia
 
 An early argument in mechanics concerned the motion of an isolated body. In other words, if some body could be separated from all external influence, such as gravity and friction against the ground and air. Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation about what an isolated system would be like. Galileo asked his readers to imagine a ball rolling on a plane as sources of friction were gradually removed. He argued that the ball would roll farther before stopping as more sources of friction were removed. The limit of such a sequence would be a ball that rolled on forever without stopping. Whatever its initial velocity, that velocity would be maintained forever. 
@@ -76,7 +78,7 @@ It is not clear whether Newton's concept of the *vis insista* refers to a resist
 
 For modern physicists, *inertia* is simply jargon that refers to the principle that the motion of an isolated body is uniform. Physics students have been confused by it ever since because rarely are they told that the word is simply a vestage from the theories of an idiot who thought that the solar system was a musical instrument. Einstein cannot be understood without knowing what *inertial reference frame* means, not that he is a bad scientist but Galileo did a much better job avoiding jargon and present his ideas parsimoniously. 
 
-## Galilean Physics
+### Galilean Physics
 
 The breakthroughs that made Galileo the father of modern mechanics had to do with the way he approached time. Previously, physicists had generally attempted to describe the motion of bodies in terms of geometric curves, which would tend to abstract away a notion of where the body was at a given time. The biggest successes in physics prior to Galileo had to do with motion that was so fast that it could be taken to be instantaneous, as in optics, or motion that could be measured in terms of natural cycles, as in astronomy. Galileo developed new experimental methods to measure small amounts of time and a theoretical approach to motion that treated time as the independent variable. 
 
@@ -84,7 +86,7 @@ In other words, Galileo conceptualized the motion of a body as a position functi
 
 Galileo attempted to describe physics in terms of what would now be called differential equations. By contrast, geometers like Apollonius of Perga treated curves in terms of relationships between geometric objects. For example, a point on a parabola is always the same distance from some given point called the *focus* and a line called the *directrix*. Although conic sections are important in physics, they are not the whole story of any kind of motion. For any curve there are many parameterizations, whereas a physical motion represents one individual parameterization. Galileo observed not only that free-falling bodies trace out parabolas, but that their motion parallel to the surface of the Earth is uniform. This observation adds a nuance that prefigures the later notion of a force vector which might have been missed by a classical geometer. 
 
-Einstein's physics restores the perspective of the classical geometer to physics to make it compatible with Galileo's physics by treating time and space as a single four-dimensional manifold. Curves on this manifold can again be treated independent of parameterization. 
+### Second-order Differential Equations
 
 Since Galileo, the most fundamental known laws of physics have had the form  
 
@@ -116,9 +118,9 @@ Here $\bar{v}$ and $\bar{x}$ are indefinite integrals that result from integrati
 
 Of course, the integral cannot be performed because initially we do not know acceleration as a function of time, other than at $t_0$ when it can be determined from $f(x_0, t_0)$. However, implicitly there is still some function $a(t)$ which could be integrated if it were known. 
 
-### Inertial Motion
+### Isolated Bodies
 
-Science typically proceeds by separating things into smaller pieces so that they can be examined in isolation and controlled experiments can be designed with them. Thus Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
+Galileo attempted to imagine what motion without interaction would be like by extrapolating from what he could observe. He could not prepare a frictionless vaccuum, but he could observe what happened as friction and other interactions were minimized. He imagined a ball that rolled along an infinite flat plane without friction and argued that it would roll at the same velocity forever. 
 
 Motion at constant velocity is called *inertial* and is described by the law 
 
@@ -130,13 +132,13 @@ $$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_j(t), v_j(t))$$
 
 Where $f_{j->i}$ is the acceleration caused by body $j$ on body $i$. 
 
-### Principle of Relativity
+### The Galilean Transform
 
-The *Principle of Relativity* states that the laws of physics are the same in any *inertial reference frame*, which means from the perspective of some inertial body. A body that is standing still is an inertial body, and therefore other inertial bodies could take the perspective of themselves as standing still and this would be a valid way of looking at their own physical system. We all know that a body that is initially standing still will not spontaneously start moving. If the principle of relativity is true, then an inertial body also could not spontaneously slow down. If it did, then from its own perspective it would appear to start moving spontaneously. 
+*Spacetime* is a paradigm that merges Galileo's viewpoint with that of the classical geometer by treating time and space together as a single gometric system. 
 
-Galileo proposed the principle of relativity and used it to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
+Einstein's physics restores the perspective of the classical geometer to physics to make it compatible with Galileo's physics by treating time and space as a single four-dimensional manifold. Curves on this manifold can again be treated independent of parameterization. 
 
-*Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
+### The Galilean Transform
 
 The *Galilean transform* is a coordinate transform that brings us from one inertial reference frame to another. So say if we are on the shore watching the ship, which is moving at velocity $\bar{v}$, we can look at the universe from the perspective of the physicist in the ship's below decks like so: 
 
@@ -152,15 +154,9 @@ This can be accomplished by saying that only relative positions and velocities m
 
 $$a_i(t) = \sum_{j : i\neq j}f_{j->i}(x_i(t) - x_j(t), v_i(t) - v_j(t))$$
 
-### Symmetry
+### The Lorentz Transform
 
-The principle of relativity is an example of a symmetry principle, which are of central importance in modern physics due to the amount of conceptual work they accomplish for relatively little effort. 
 
-Something that is *symmetric* can be transformed in some way that leaves it unchanged. The known laws of physics have a complex set of symmetries. One of these is translational symmetry. This means that no position in space is special, in the same sense that the principle of relativity says that no velocity is special. We can regard any point in space as being at the center of the universe and The principle of relativity implies translational symmetry because if we look at the world from the perspective of different velocities, we would perceive events as taking place at different positions in space. 
-
-Another important symmetry is rotatational symmetry. If the universe is rotationally symmetric, then there is no special direction. If there were some special direction, you could say that resting bodies accelerate in that direction, so we actually needed rotational symmetry before. 
-
-Physicists love symmetric theories because a lot of the work solving them has already been done by nature. Noether's theorem proves that there is a conserved quantity that corresponds to any symmetry in a physical theory. This makes sense because 
 
 ## Conservation of Momentum
 
