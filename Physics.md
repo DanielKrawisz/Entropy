@@ -32,17 +32,33 @@ The compatibility of long-range forces with localism is, in large part, the stor
 
 ### Quantum Mechanics
 
-The purport of quantum mechanics is that the best possible laws of physics that we could intuit from experience are probabilistic rather than deterministic. Probability is not new in physics. What is new about probability in quantum mechanics is that it is no longer due entirely to an imperfection in our experimental method but belongs to the fundamental nature of the universe. 
+Quantum mechanics is a theoretical approach in which the laws of physics are probabilistic rather than deterministic.  Probability is not new in physics, but in quantum mechanics it is not due entirely to an imperfection in our methods. It is the fundamental nature of the universe. A quantum mechanical theory will never predict the result of any given experiment. It will predict only a probability distribution. Repeated results of the experiment will adhere to the predicted distribution if the theory is correct. 
 
-Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. A better name might be "probability wave mechanics", which would emphasize that which is really new and different in quantum mechanics. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics. Yet quantization can be seen everywhere in physics in contexts in which quantum mechanics can be totally ignored. It is always a result of wave mechanics. 
+Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. A better name would be "probability wave mechanics", which would emphasize that which is really new and different in quantum mechanics. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics. 
 
-Physicists did not at first recognize quantization as being a result of wave mechanics because of a confusion over what is now called wave-particle duality. 
+Yet quantization can be seen everywhere in physics in contexts in which quantum mechanics can be totally ignored. It is always a result of wave mechanics. Every object has resonant frequencies. The quantization of quantum mechanics has to do with the resonant frequencies of probabality waves. The reason that quantization was not immediately understood in terms of wave mechanics was that the probability wave is never observed. 
 
-The understanding of quantum mechanics as a probabilistic theory came later. 
+Instead quantization was understood in terms of "wave-particle duality", which is an expression of confusion. Quantization appeared to make particles like electrons behave like waves and waves, like the electromagnetic field, behave like particles that were called *photons*. However, we now understand both electrons and photons in terms of fields. These fields admit waves. On top of that, the fields are in an indeterminate state. Thus, quantum fields are probability waves of classical waves. Electrons and photons are resonances of probability waves. 
 
-Hidden variable theories. 
+Waves in quantum mechanics were introduced by Heisenberg and Schrodinger, but they were not recognized as probability waves until later. In Schrodinger the wave picture is more promenent but both of their theoretical approaches are equivalent. 
 
-The collapse of the wave function vs many worlds. 
+Since the early days of science, it was understood that a theory that correctly predicted experimental results did not *necessarily* describe the true nature of the universe. However, in the case of quantum mechanics, the theory seems to describe something that cannot be expressed in terms of our experience at all. Although both Newton and Descartes agreed that a long-range force could not describe the true nature of the universe, they had no trouble imagining such a thing. With quantum mechanics, our experience and our theory seem to require quite different concepts to describe. 
+
+In particular, what is the nature of the probabilty wave wave that is never observed? This idea has been understood broadly along four different philosophical approaches. The first approach is to point out, correctly, that the question is metaphysical rather than scientific and therefore not worth worrying about. As scientists, this is the correct approach. Of course, nothing is stopping a scientist from being a philosopher in his spare time. 
+
+The second is the "hidden variable" approach, which means that we say that the probability wave is not truly fundamental, but an emergent quality of some more fundamental process that is not truely probabilistic. This approach was pioneered by De Broglie with his pilot wave theory. This approach appears to be unscientific because hidden variables are by definition hidden, which means we cannot distinguish them from true probability waves. Of course, one could always say that new observations will expose those hidden variables, but if you tried to 
+
+However, what is known about hidden variable theories is that they must violate Einstein's special relativity, due to the possibility of preparing entangled states that have correlations over large distances. 
+
+The second is the wave function collapse approach, which propases that the wave function is a real thing that 
+
+Finally, there is the many worlds approach, which was expounded by ... In this approach, the wave function is real and it does not collapse. A superposition of states continues on and the appearance of a collapse of the wave function is an illusion. This makes perfect sense due to the linearity of quantum mechanics. Linearity means that the sum of two valid solutons is also a valid solution. Some superposition of states would be able to exist on top of each other without interacting. They would all disagree about what they had abserved. They would all think that they are the real exerience. This is the approach that is most concordant with the mathematics of quantum mechanics. It does not require the introducion of new concepts that are not already in the equations. It also involves another universe for everything that could happen different or might have happened differently. 
+
+Finally, let's discuss quantum mechanics and consciousness. There is certainly an interesting analogy between the two but consciousness is not *genuinely* quantum mechanical. It's just that your mind on psychadelics can feel like a probability wave. However, you could not compute Shor's algorithm efficiently with just your imagination. 
+
+I think a better analogy with quantum mechanics is to be found in biology. Eukariotic species follow a cycle of splitting and merging, which results in a continuous mixing of their DNA. The gene pool is like the wave function and each individual is like one of the many worlds. An individual is produced from many past parents that come together, and his future are more individuals that proceed from him. Of course, in real life, most animals do not have children, which is not like quantum mechanics at all. Quantum mechanics obeys a principle of unitarity, which means probability conservation, and that prevents a Darwinian evolution of quantum states. 
+
+However, with both these analogies, the true connection is the statistical ensable, which is probabilistic but not necessarily quantum mechanical. Stastical ensables are used in thermodynamics and artificial intelligence. For example, the thought of a cat could be understood as a statistical ensable of all cats that have been experienced, including live and dead cats, as well as cartoon cats and cats from stories and books. 
 
 ### Gauge Theories
 
