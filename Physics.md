@@ -1,8 +1,6 @@
 # Matter and Motion
 
-## Long-Range Forces
-
-### Localism
+## Localism
 
 Newton proposed that all matter is attracted to all other matter via a force that is proportional to the mass of both bodies and which diminishes with the inverse square of the distance. He called this force *gravity* and used it to explain both the cohesion of the Earth and all Earthbound matter and the motion of the orbits of the planets, which obeyed Kepler's laws. 
 
@@ -30,23 +28,31 @@ Einstein argued, however, that physics really *is* relativistic by noting that t
 
 The compatibility of long-range forces with localism is, in large part, the story of modern physics. The theories which have made this possible are called gauge theories. Gauge theories describe not just electromagnetism and gravity, but the strong and electroweak forces as well. The gauge theory idea is so big that it bridges classical and quantum physics, all the way to gravitation and curved space. Ideas that go beyond known physics, such as grand unified theories and string theory are also gauge theories. Physics has yet to really move past the gauge theory idea, and it all begins with Maxwell. It is arguably the biggest idea in physics and if not it is certainly one of the two biggest ideas in physics, the other being quantum mechanics. 
 
-### Quantum Mechanics
+## Quantum Mechanics
 
-Quantum mechanics is a theoretical approach in which the laws of physics are probabilistic rather than deterministic.  Probability is not new in physics, but in quantum mechanics it is not due entirely to an imperfection in our methods. It is the fundamental nature of the universe. A quantum mechanical theory will never predict the result of any given experiment. It will predict only a probability distribution. Repeated results of the experiment will adhere to the predicted distribution if the theory is correct. 
+### Quantization
 
-Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. A better name would be "probability wave mechanics", which would emphasize that which is really new and different in quantum mechanics. It is not perfect because the probability is really the square of the amplitude of the wave, but it is better than *quantum mechanics*. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics in contrast to quantum mechanics. 
+Quantum mechanics is a theoretical approach in which the laws of physics are probabilistic rather than deterministic.  Probability is not new in physics, but before quantum mechanics it was understood to represent in imperfection in our methods rather than an inherent property of the universe. A quantum mechanical theory will never predict the result of any given experiment. It will predict only a probability distribution. Repeated results of the experiment will adhere to the predicted distribution if the theory is correct. 
 
-Yet quantization can be seen everywhere in physics in contexts in which quantum mechanics can be ignored. It is always a result of wave mechanics. Every object has resonant frequencies. The quantization of quantum mechanics has to do with the resonant frequencies of probabality waves. This was not immediately apparent because physicists were confused by an idea that is now called *wave-particle duality* proposed by de Broglie, building on work from Einstein. According to this idea, phenena which previously had been understood as waves, such as light, could behave more like particles (called *photons*) under some circumstances and phenomena previously understood as particles, such as electrons, would behave like waves under some circumstances. These wave-particle composites obeyed the relation $ p = h / \lambda$, where $p$ is the particle momentum, $h$ is Plank's constant, and $\lambda$ is the wavelength. 
+Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. What is truely new and different in quantum mechanics is a probability distribution that derives from wave mechanics. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics in contrast to quantum mechanics. 
 
-This relation is obeyed by photons and electrons but does not fully explain quantization because the wavelength in each of them refers to a different kind of wave. In the case of the electron, its wave-like nature is due to the probability wave of quantum mechanics, whereas for the photon, it is the electromagnetic field. It is only once probability waves are placed on top of electromagnetic waves that the quantization of the electromagnetic field is explained. Thus, the idea of wave-particle duality is ambiguous and ought to be understood as a confused picture that is unhelpful today.  
+Quantization can be seen everywhere in physics in contexts in which quantum mechanics can be ignored. It is always a result of wave mechanics. Every object has resonant frequencies. The quantization of quantum mechanics has to do with resonant frequencies of probabality waves. Furthermore, quantization is not always characteristic of quantum mechanics. The energy levels of electrons bound to atomic nuclei are quantized, but the electrons of free electrons are not quantized. Probability wave mechanics explains both the bound and the free electron. Wave mechanics as an explanation for quantization was first proposed by Schrodinger long after it was observed and the probabilistic interpretation of these waves came even later, from Max Born. 
 
-Furthermore, quantization is not always characteristic of quantum mechanics. The energy levels of electrons bound to atomic nuclei are quantized, but the electrons of free electrons are not quantized. Probability wave mechanics explains both the bound and the free electron, but the probability wave is never observed and can only be inferred. Thus, it was overlooked or misunderstood for some time. Schrodinger explained quantization of the energy levels of the atom in terms of wave mechanics but the the probabilistic interpretaion was not understood until later, by Born. 
+### Wave-Particle Duality
 
-The famous double slit expriment tells us everything that is new about quantum mechanics. A particle is released on one side of a room. A row of detectors are placed on the other side of the room. In the middle of the room is a screen with two slits, which can be open or closed. Detectors are also be placed in front of the slits. When the particle is released, it may be detected at one of the slits and may be detected at the other end of the room somewhere. It may also be lost. We only care about the subset of trials in which the particle is detected at the other end of the room. In this set of trials, the particle may have been detected earlier at one of the two slits, or it may not have been. For each of these cases, we plot the frequency of particles detected at each location at the other end of the room. If the particle was not detected earlier at either of the two slits, the plot will show a diffraction pattern. Otherwise, it will not. 
+Before this time, physicists were confused by an idea known as *wave-particle duality*. This concept was proposed by de Broglie, building on work from Einstein. According to this idea, phenena which previously had been understood as waves, such as light, could behave more like particles (called *photons*) under some circumstances and phenomena previously understood as particles, such as electrons, would behave like waves under some circumstances. These wave-particle composites obeyed the relation $p = h / \lambda$, where $p$ is the particle momentum, $h$ is Plank's constant, and $\lambda$ is the wavelength. 
 
+Although this relation holds true for photons and electrons, it is pointing in the wrong direction because the wavelength in each case has to do with different kinds of waves. In the case of the electron, its wave-like nature is due to the probability wave of quantum mechanics, whereas for the photon, it is the electromagnetic field. It is only once probability waves are placed on top of electromagnetic waves that the quantization of the electromagnetic field is explained. Once this is understood, then the idea of wave-particle duality is revealed to be ambiguous. 
 
+### New Phenomena in Quantum Mechanics
 
-Since the early days of science, it was understood that a theory that correctly predicted experimental results did not *necessarily* describe the true nature of the universe. However, in the case of quantum mechanics, the theory seems to describe something that cannot be expressed in terms of our experience at all. Although both Newton and Descartes agreed that a long-range force could not describe the true nature of the universe, they had no trouble imagining such a thing. With quantum mechanics, the theory, seemingly, cannot be described in terms of our experience. 
+The best way to begin getting a feel for quantum mechanics is through the double split experiment. A particle is released on one side of a room. A row of detectors are placed on the other side of the room. In the middle of the room is a screen with two slits, which can be open or closed. Detectors are also be placed in front of the slits. When the particle is released, it may be detected at one of the slits and may be detected at the other end of the room somewhere. It may also be lost. We only care about the subset of trials in which the particle is detected at the other end of the room. In this set of trials, the particle may have been detected earlier at one of the two slits, or it may not have been. For each of these cases, we plot the frequency of particles detected at each location at the other end of the room. If the particle was not detected earlier at either of the two slits, the plot will show a diffraction pattern. Otherwise, it will not. 
+
+Thus, the particle appears to take the form of a wave that propagates outward from the point it was last observed. The wave is never seen as a wave, only inferred from many trials. If the particle was observed at one slit, then it appears to spread outward around that one slit. If it was not observend around either slit, then it appears to have gone through both of them. 
+
+### Metaphysics
+
+The probability wave is never observed. It can only be inferred. Furthermore, it appears that it cannot be explained in terms of anything observable. It was always understood that a theory that correctly predicted experimental results did not *necessarily* describe the true nature of the universe. Although both Newton and Descartes agreed that a long-range force could not describe the true nature of the universe, they had no trouble imagining such a thing. With quantum mechanics, the theory, seemingly, cannot be described in terms of our experience. 
 
 In particular, what is the nature of the probabilty wave wave that is never observed? This idea has been understood broadly along four different philosophical approaches. The first approach is to point out, correctly, that the question is metaphysical rather than scientific and therefore not worth worrying about. As scientists, this is the correct approach. Of course, nothing is stopping a scientist from being a philosopher in his spare time. 
 
@@ -64,7 +70,7 @@ I think a better analogy with quantum mechanics is to be found in biology. Eukar
 
 However, with both these analogies, the true connection is the statistical ensable, which is probabilistic but not necessarily quantum mechanical. Stastical ensables are used in thermodynamics and artificial intelligence. For example, the thought of a cat could be understood as a statistical ensable of all cats that have been experienced, including live and dead cats, as well as cartoon cats and cats from stories and books. 
 
-### Gauge Theories
+## Gauge Theories
 
 It is hard to explain what a gauge theory is without a lot of mathematical preparation, but physicists like to describe the world in terms of quantities that are physically real only in the way that they change but not in their absolute value. These quantities are integrals, which means that there is an arbitray additive constant to them, as anyone would have got used to seeing in a calculus class. Energy is an example of such a quantity. The potential energy is a spacial integral, and any additive constant can be added to it to produce identical physics. Physicists typically define the potential energy to ensure that bound states correspond to negative values of potential energy and unbound states to positive values, but this is done for convenience, not because it is required physically. 
 
@@ -72,9 +78,7 @@ To put it vaguely, when the geometry of a theory works out just right, there can
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
-## Inertial Motion
-
-### The Principle of Inertia
+## The Principle of Inertia
 
 An early argument in mechanics concerned the motion of an isolated body. In other words, if some body could be separated from all external influence, such as gravity and friction against the ground and air. Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation about what an isolated system would be like. Galileo asked his readers to imagine a ball rolling on a plane as sources of friction were gradually removed. He argued that the ball would roll farther before stopping as more sources of friction were removed. The limit of such a sequence would be a ball that rolled on forever without stopping. Whatever its initial velocity, that velocity would be maintained forever. 
 
@@ -97,6 +101,14 @@ Later, Newton introduces his three laws, the first of which states "every object
 It is not clear whether Newton's concept of the *vis insista* refers to a resistance to an outside force or to some internal force that causes a body to come to a state of rest. In either case, the concept is not used by Newton later on in his book. In the later case, it is contradicted by the first law. In the former, it is made obsolete by the second law, which establishes the nature of that resistence as the mass of the body. I think the best way to explain Newton's writing is that the *vis insista* concept was a way of engaging with his contemporaries to introduce his own way of thinking, which is no longer needed once the reader is familiar with the Newtonian paradigm. 
 
 For modern physicists, *inertia* is simply jargon that refers to the principle that the motion of an isolated body is uniform. Physics students have been confused by it ever since because rarely are they told that the word is simply a vestage from the theories of an idiot who thought that the solar system was a musical instrument. Einstein cannot be understood without knowing what *inertial reference frame* means, not that he is a bad scientist but Galileo did a much better job avoiding jargon and present his ideas parsimoniously. 
+
+## Newton's Laws of Motion
+
+Newton's laws state
+
+
+
+The first law establishes that acceleration is related to  
 
 ### Galilean Physics
 
