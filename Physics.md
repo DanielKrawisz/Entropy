@@ -28,11 +28,58 @@ Einstein argued, however, that physics really *is* relativistic by noting that t
 
 The compatibility of long-range forces with localism is, in large part, the story of modern physics. The theories which have made this possible are called gauge theories. Gauge theories describe not just electromagnetism and gravity, but the strong and electroweak forces as well. The gauge theory idea is so big that it bridges classical and quantum physics, all the way to gravitation and curved space. Ideas that go beyond known physics, such as grand unified theories and string theory are also gauge theories. Physics has yet to really move past the gauge theory idea, and it all begins with Maxwell. It is arguably the biggest idea in physics and if not it is certainly one of the two biggest ideas in physics, the other being quantum mechanics. 
 
+## The Principle of Relativity
+
+The *principle of relativity* states that the laws of physics are the same from the perspective of any observer moving at constant velocity. This principle was originally proposed by Galileo as part of his argument for heliocentrism. Galileo wanted to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
+
+*Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
+
+Thus, a scientist in laboratory that was moving uniformly from the perspective of someone standing on the shore would not know how he was moving relative to the shore without being able to look out at it. If that is the case, then can we truly say that the laboratory is moving and the shore is standing still in any absolute sense? Not if the Principle of Relativity is true. If there was no ship, no Earth, no Sun, nothing to take as a standard reference of motion, nothing but scientists floating out in space, then each of them would naturally take themselves as their own bodies as a reference frame. All of them might do the same kinds of experiments as those proposed by Galileo and none of them would be able to detect any absolute state of motion. 
+
+The Principle of Relativity is an example of a spacetime symmetry, which means that the laws of physics do not change under some transformation of space and time. Although it was not understood until much later, the Principle of Relativity can be treated as foundational to mechanics. From it follows the conservation of mass and momentum, which together imply all three of Newton's laws of motion. This can be established directly using Noether's theorem, but that requires Lagrangian mechanics. Instead, we will use informal reasoning. 
+
+## The Principle of Inertia
+
+An early argument in mechanics concerned the motion of an isolated body, or in other words, a body that is free from all interaction, such as gravity and friction against the ground and air. If a body could be truly isolated, how would it move? Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation. Galileo argued the point by looking at how the motion of a body changed as more sources of interaction were removed. He did this with both real experiments and thought experiments. He asked his readers to imagine a ball rolling on a plane. As more sources of interaction were removed or minimized, the ball would roll farther. Galileo argued that a ball which could roll without friction would do so forever. 
+
+At the time, the prevailing theory was that the natural motion of matter is to approach a state of rest, not to move along the same direction forever. However, if we start with the Principle of Relativity, clearly it is impossible for bodies to approach a state of rest on their own. From its own perspective, an isolated body is already at rest. If it were, from our perspective, to slow down towards a state of rest, then from its own perspective, it would be from a state of rest and speeding up in some arbitrary direction. 
+
+This is an example of a symmetry argument, which have come to take a central position in modern physics due to the amount of predictive work they accomplish for relatively low intellectual effort. In order to say absolutely that uniform motion is the only possible motion of an isolated body, we need to add rotational symmetry to the argument as well. Rotational symmetry means that there is no special direction in the universe either, just as there is no special velocity. Without rotational symmetry we could say that all bodies accelerate in some special direction. 
+
+Much later, Galileo's conclusion was confusingly called Principle of Inertia, which was not a word that Galileo used. Inertia is a word invented Kepler, a lunatic who spent his life attempting to discover harmonic tones in the orbits of the planets. The concept of inertia was not intended to refute Aristotle, but to make the observed motion of celestial bodies consistent with his theory. Kepler proposed that bodies resisted coming to a state of rest because of some force called inertia would cause it to maintain its state of motion. Although physicists still talk about inertia today, there is no need for such a concept without outside of Aristotilian physics. Instead, *inertia* is jargon that refers to uniform motion but does not genuinely refer to any real thing. It is a vestage of old arguments from a man who thought the solar system was a musical instrument. 
+
+## Momentum 
+
+
+
+## Newton's Laws
+
+1.
+2.
+3.
+
+First, I would like to consider the question of whether the first law is actually necessary because it appears to be a special case of the second law. If the force is zero, then so will the acceleration and therefore the motion will be uniform. Thus, the first law appears to follow from the second law. This is true in modern restatements of Newton's laws which are often found in textbooks because the force in the second law is clarified as referring to the *net* force. Under this interpretation, zero force implies zero acceleration. 
+
+However, from Newton's wording of the second law, it is clear that he is talking about a single force and *not* the net force. Thus, the first law establishes what happens to a body when there is no force, and in doing so establishes the nature of force as having to do with an interaction. The second law establishes the effect of a force on the body. The third law  
+
+Let us now observe that Newton's three laws can be replaced by two principles: 
+
+1. Local conservation of mass
+2. Conservation of momentum
+
+From these, all three laws follow. Consider Newton's first law. If an isolated body has mass $m$ and momentum $p$, and $p = m v$, then clearly $v$ cannot change because if it did, one of the two other quantities would have to chahnge. The velocity could only change if some other body were present for it to interact with by transferring momentum. 
+
+Next, what about the second law? A force is simply an instantaneous change in momentum. 
+
+However, what of the possibility that two bodies could interact by transferring mass instead of momentum? 
+
+Finally, let us think about 
+
 ## Quantum Mechanics
 
 ### Quantization
 
-Quantum mechanics is a theoretical approach in which the laws of physics are probabilistic rather than deterministic.  Probability is not new in physics, but before quantum mechanics it was understood to represent in imperfection in our methods rather than an inherent property of the universe. A quantum mechanical theory will never predict the result of any given experiment. It will predict only a probability distribution. Repeated results of the experiment will adhere to the predicted distribution if the theory is correct. 
+Quantum mechanics is a theoretical approach in which the laws of physics are probabilistic rather than deterministic. Probability is not new in physics, but before quantum mechanics it was understood to represent in imperfection in our methods rather than an inherent property of the universe. A quantum mechanical theory will never predict the result of any given experiment. It will predict only a probability distribution. Repeated results of the experiment will adhere to the predicted distribution if the theory is correct. 
 
 Like many ideas in physics, quantum mechanics is poorly named due to having been discussed before being understood. What is truely new and different in quantum mechanics is a probability distribution that derives from wave mechanics. Quantization was the first characteristic of quantum mechanics to be observed and recognized as incompatible with what the prevailing framework of physics, which is now called classical mechanics in contrast to quantum mechanics. 
 
@@ -78,29 +125,6 @@ To put it vaguely, when the geometry of a theory works out just right, there can
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
 
-## The Principle of Inertia
-
-An early argument in mechanics concerned the motion of an isolated body. In other words, if some body could be separated from all external influence, such as gravity and friction against the ground and air. Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation about what an isolated system would be like. Galileo asked his readers to imagine a ball rolling on a plane as sources of friction were gradually removed. He argued that the ball would roll farther before stopping as more sources of friction were removed. The limit of such a sequence would be a ball that rolled on forever without stopping. Whatever its initial velocity, that velocity would be maintained forever. 
-
-Galileo was not the first to argue this position, but his argument was very persuasive and is considered to have settled the point against the most popular alternative theory, which was the theory of Aristotle that all bodies naturally come to a state of rest without outside influence. 
-
-Much later, Galilieo's conclusion that an isolated body would exhibit uniform motion was called the Principle of Inertia, which was not a word that Galileo used. Inertia is a word invented Kepler, a lunatic who spent his life attempting to discover harmonic tones in the orbits of the planets. The concept of inertia was not intended to refute Aristotle, but to make the observed motion of celestial bodies consistent with his theory. Kepler proposed that bodies resisted coming to a state of rest because of some force called inertia would cause it to maintain its state of motion. 
-
-Galileo argued for another principle, now called the Principle of Relativity, that explains the principle of Inertia much better than the theory of inertia, although this was not noted until later. Galileo wanted to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
-
-*Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you there some flies, butterflies, and other small flying animals. Have a large bowl of water with some fish in it; hang up a bottle that empties drop by drop into a wide vessel beneath it. With the ship standing still, observe carefully how the little animals fly with equal speed to all sides of the cabin. The fish swim indifferently in all directions; the drops fall into the vessel beneath; and, in throwing something to your friend, you need to throw it no more strongly in one direction than another, the distances being equal; jumping with your feet together, you pass equal spaces in every direction.*
-
-Thus, a scientist in laboratory that was moving uniformly from the perspective of someone standing on the shore would not know how he was moving relative to the shore without being able to look out at it. If that is the case, then can we truly say that the laboratory is moving and the shore is standing still in any absolute sense? Not if the Principle of Relativity is true. If there was no ship, no Earth, no Sun, nothing to take as a standard reference of motion, nothing but scientists floating out in space, then each of them would naturally take themselves as their own bodies as a reference frame. All of them might do the same kinds of experiments as those proposed by Galileo and none of them would be able to detect any absolute state of motion. 
-
-Given this, some kind of internal force that would make everything approach a state of rest would be impossible. An isolated body could exhibit no motion other than inertial motion. If it did, then from its own perspective, it would not be slowing down towards a state of rest, but beginning from a state of rest and speeding up in some arbitrary direction. This is an example of a symmetry argument, which have come to take a central position in modern physics due to the amount of predictive work they accomplish for relatively low intellectual effort. 
-
-Hence the Principle of Relativity ought to be understood as the best explation for inertial motion, not inertia, which is not real. Inertia has come to be associated with Newton's first law as a result of a misreading of Newton. Early in the *Principia*, Newton refers to something he calles the *vis insista* which sounds like inertia and which he defines as "a power of resisting by which every body, as much as in it lies, endeavours to persevere in its present state, whether it be of rest or of moving uniformly forward in a right line". 
-
-Later, Newton introduces his three laws, the first of which states "every object perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon". Thus, the first law establishes, in agreement with Galileo, that motion at constant velocity is the natural motion of an isolated body. The first law does not say that a body resists change. 
-
-It is not clear whether Newton's concept of the *vis insista* refers to a resistance to an outside force or to some internal force that causes a body to come to a state of rest. In either case, the concept is not used by Newton later on in his book. In the later case, it is contradicted by the first law. In the former, it is made obsolete by the second law, which establishes the nature of that resistence as the mass of the body. I think the best way to explain Newton's writing is that the *vis insista* concept was a way of engaging with his contemporaries to introduce his own way of thinking, which is no longer needed once the reader is familiar with the Newtonian paradigm. 
-
-For modern physicists, *inertia* is simply jargon that refers to the principle that the motion of an isolated body is uniform. Physics students have been confused by it ever since because rarely are they told that the word is simply a vestage from the theories of an idiot who thought that the solar system was a musical instrument. Einstein cannot be understood without knowing what *inertial reference frame* means, not that he is a bad scientist but Galileo did a much better job avoiding jargon and present his ideas parsimoniously. 
 
 ## Newton's Laws of Motion
 
