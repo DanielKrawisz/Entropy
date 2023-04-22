@@ -1,6 +1,6 @@
 # Matter and Motion
 
-## Localism
+## Locality
 
 Newton proposed that all matter is attracted to all other matter via a force that is proportional to the mass of both bodies and which diminishes with the inverse square of the distance. He called this force *gravity* and used it to explain both the cohesion of the Earth and all Earthbound matter and the motion of the orbits of the planets, which obeyed Kepler's laws. 
 
@@ -28,6 +28,10 @@ Einstein argued, however, that physics really *is* relativistic by noting that t
 
 The compatibility of long-range forces with localism is, in large part, the story of modern physics. The theories which have made this possible are called gauge theories. Gauge theories describe not just electromagnetism and gravity, but the strong and electroweak forces as well. The gauge theory idea is so big that it bridges classical and quantum physics, all the way to gravitation and curved space. Ideas that go beyond known physics, such as grand unified theories and string theory are also gauge theories. Physics has yet to really move past the gauge theory idea, and it all begins with Maxwell. It is arguably the biggest idea in physics and if not it is certainly one of the two biggest ideas in physics, the other being quantum mechanics. 
 
+### Locality in Quantum Mechanics
+
+
+
 ## The Principle of Relativity
 
 The *principle of relativity* states that the laws of physics are the same from the perspective of any observer moving at constant velocity. This principle was originally proposed by Galileo as part of his argument for heliocentrism. Galileo wanted to argue that the Earth could orbit the Sun without producing any obvious effects in the direction of the Earth's motion, such a kind of wind tearing away the atmosphere. He imagined a laboratory in a moving ship on a very calm sea and asked whether a scientist inside would be able to tell that the ship was moving. 
@@ -38,7 +42,7 @@ Thus, a scientist in laboratory that was moving uniformly from the perspective o
 
 The Principle of Relativity is an example of a spacetime symmetry, which means that the laws of physics do not change under some transformation of space and time. Although it was not understood until much later, the Principle of Relativity can be treated as foundational to mechanics. From it follows the conservation of mass and momentum, which together imply all three of Newton's laws of motion. This can be established directly using Noether's theorem, but that requires Lagrangian mechanics. Instead, we will use informal reasoning. 
 
-## The Principle of Inertia
+### The Principle of Inertia
 
 An early argument in mechanics concerned the motion of an isolated body, or in other words, a body that is free from all interaction, such as gravity and friction against the ground and air. If a body could be truly isolated, how would it move? Early physicists were not able to actually go somewhere that was isolated from outside influence, so they had to rely on speculation. Galileo argued the point by looking at how the motion of a body changed as more sources of interaction were removed. He did this with both real experiments and thought experiments. He asked his readers to imagine a ball rolling on a plane. As more sources of interaction were removed or minimized, the ball would roll farther. Galileo argued that a ball which could roll without friction would do so forever. 
 
@@ -48,11 +52,11 @@ This is an example of a symmetry argument, which have come to take a central pos
 
 Much later, Galileo's conclusion was confusingly called Principle of Inertia, which was not a word that Galileo used. Inertia is a word invented Kepler, a lunatic who spent his life attempting to discover harmonic tones in the orbits of the planets. The concept of inertia was not intended to refute Aristotle, but to make the observed motion of celestial bodies consistent with his theory. Kepler proposed that bodies resisted coming to a state of rest because of some force called inertia would cause it to maintain its state of motion. Although physicists still talk about inertia today, there is no need for such a concept without outside of Aristotilian physics. Instead, *inertia* is jargon that refers to uniform motion but does not genuinely refer to any real thing. It is a vestage of old arguments from a man who thought the solar system was a musical instrument. 
 
-## Momentum 
+## Conservation of Momentum 
 
 
 
-## Newton's Laws
+### Newton's Laws
 
 1.
 2.
@@ -74,6 +78,8 @@ Next, what about the second law? A force is simply an instantaneous change in mo
 However, what of the possibility that two bodies could interact by transferring mass instead of momentum? 
 
 Finally, let us think about 
+
+## Einstein's Special Relativity
 
 ## Quantum Mechanics
 
@@ -124,15 +130,6 @@ It is hard to explain what a gauge theory is without a lot of mathematical prepa
 To put it vaguely, when the geometry of a theory works out just right, there can be integral quantities that that support a larger range of parameters than simply an additive constant. In a gauge theory, the potentials can be changed by an abstract rotation over all of space and time. Gauge invariant quantities obey partial differential equations that are elliptic and hyperbolic in different derivatives, which means that they describe an evolution of oscillation in time while at the same time obeying constraints ensuring that distant objects always remain connected by a long-range force. 
 
 An implication of gauge theories is that all long-range forces in three special dimensions are inverse square with the distance, as we have observed. Although Newton studied other kinds of forces that he could imagine, such as an inverse cube force, these kinds of forces cannot be reconciled with localism. Quantum mechanical gauge theories can lead to confinement, which means that the force is inverse square for short distances but eventually becomes stronger with distance. This is why quarks are confined to hadrons. Gauge theories also predict a conservation of charge. In the case of gravity, the charges are energy and momentum, so general relativity predicts that these are both conserved, something that had been observed long before Einstein explained it. 
-
-
-## Newton's Laws of Motion
-
-Newton's laws state
-
-
-
-The first law establishes that acceleration is related to  
 
 ### Galilean Physics
 
