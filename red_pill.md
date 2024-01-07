@@ -268,7 +268,6 @@ certainly wouldn't want to make that mistake.
 ## Most Basic Version of the Red Pill
 ### pictures
 
-
 Now, what are the red and the blue pills? I think the best way to explain the
 blue pill in the most basic possible way is with the stereotyical image of a
 man making a marriage proposal to a woman. [picture 1] This is a picture of the
@@ -545,8 +544,6 @@ great in the afterlife no matter how badly you screwed up in this life.
 If we can just get rid of these capitalists then we can have a perfect
 socialist utopia.
 
-
-
 A more modern take on this idea might be to say that people have a need
 to believe that good will triumph over evil. But if you go out into the
 dating market it's definitely not guaranteed that good will triumph
@@ -585,32 +582,12 @@ If you pretend that you can control chaos, if you try to live in a perfect
 world, you're trying to chop off all of the monster's heads.
 So when you lie to yourself, you're just like Hercules. Except that you
 can't win and what's worse, you can't even strategize because you're in
-dinal about it.
-
-
-
-A mistake
-becomes exponentially more costly as your project approaches fruition. So
-if you've made a fundamental mistake about the reality you're dealing with,
-you're looking at bigger and bigger problems down the line.
-
-Fighting the Hydra
+deinal about it.
 
 If the truely chaotic nature of the world is too fearsome to accept then a
 belief in a perfect world can help you get through life without going crazy.
 However, it can also result in disastrous mistakes if you are lying to
 yourself about something really important.
-
-So you're a lot better off not lying to yourself. I want to talk about how
-to win. And I'm willing to look into potential sources of self-deception in
-order to achieve that because maybe my idea on strategy actually isn't
-as good as I think. Now to me, success in real life begins with accepting
-that you are in chaos. Just accept it. Everything is a big mess. The 2nd
-law ofthermodynamics is what's true, and you can't make a power plant out
-of people by feeding them with their own dead. That would be a perpetual
-motion machine. So the Matrix is wrong on both psychology and physics.
-
-
 
 Once I finally grasped Neitzsche's idea I realized it explained many things
 that I was experiencing. I have always found the psychology of humans to be
@@ -720,6 +697,13 @@ do that you are acting like the opposite of someone who is attractive to
 women. The red pill is that you need to devalue the woman in order to be
 attracted to her and it makes sense to devalue her because she's not as
 good as you think she is.
+
+Heraclitus said that people will never look at the truth, but I think
+you can say that the Red Pill is probably true based on evolutionary
+psychology, and the fact that you can see cognitive disonence in blue
+pillers which means they are trying to justify having made a bad choice.
+So to me the Red Pill makes a lot of sense but happy to engage with
+alternate theories that perhaps have better evidence.
 
 Heraclitus said that people will never look at the truth, but I think
 you can say that the Red Pill is probably true based on evolutionary
