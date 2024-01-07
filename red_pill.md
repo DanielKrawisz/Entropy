@@ -268,6 +268,7 @@ certainly wouldn't want to make that mistake.
 ## Most Basic Version of the Red Pill
 ### pictures
 
+
 Now, what are the red and the blue pills? I think the best way to explain the
 blue pill in the most basic possible way is with the stereotyical image of a
 man making a marriage proposal to a woman. [picture 1] This is a picture of the
@@ -332,29 +333,114 @@ actually want and more like a man that a woman is going to be attracted
 to. "Every man should be king in his own castle." The Red Pill
 is about how we go from [picture 1] to [picture 2].
 
-* expand this section
-
-Now isn't [picture 2] simply a reversal of [picture 1] and therefore a
+Now looking at this picture I think the first thing you might say about it
+is isn't [picture 2] simply a reversal of [picture 1] and therefore a
 depiction of man's exploitation of woman, just as the first picture
-was a depiction of woman's exploitation of man? Not necessarily. [picture 2]
-could be a picture of exploitation whereas [picture 1] definitely is.
-A woman wants a man who could exploit her and this man could exploit this
-woman by investing in a different woman and leaving her to make up the
-difference when raising their children. She doesn't want that to happen
-but she wants it to be something that could happen because if it couldn't
-then the man wouldn't be good enough. So [picture 2] could
-be a really good deal for both the man and the woman. whereas
-[picture 1] would normally only happen if it was exploitative.
+was a depiction of woman's exploitation of man? Because we want good
+relationships that will be beneficial to both
+parties and therefore not exploitative. Otherwise it would not be
+sustainable, which means, less opportunity for successful reproduction,
+and we really don't want that to happen. I am going to explain why good
+relationships for both sexes corresponds to this picture but first I want
+to point out some important differences that make [picture 2] not simply
+a reversal of [picture 1].
 
-Although the relative positions
-of male and female have been reversed, the resources are still
-flowing from male to female. I don't think that being a provider is a
-bad idea. I think it's a good way to raise children successfully.
-However, it shouldn't be like tribute that she gets regardless of
-anything. It should be something that he controls. She isn't giving him
-resources, but she is giving him service not because she is being paid
-but because she doesn't want him to have any reason to lose interest
-in her.
+In particular, the direction of the flow of resources has not been reversed.
+The man is still providing resources to the woman except he controls how
+much she gets. It is not tribute, but investment. And as for woman, she
+is not paying the man tribute although she is giving him her service.
+
+So is [picture 2] exploitative? Well my answer is, not necessarily. But
+maybe. A big difference between
+men and women is that women likes a man who has the ability to exploit her.
+She doesn't like a man who would actually exploit her. She wants a man who
+could exploit her but who would instead treat her kindly, or maybe exploit
+her a little bit but not too much. Negotiating power. She wants a man who
+could pretty much get on a dating app or go to a bar and find her
+replacement if he felt like it. She doesn't want to be replaced but she is,
+at the same time, unhappy with anything making it implausible that he
+would accomplish such a thing if he tried. That's why she wants to give
+him service so badly. She wants to incentivize him away from wanting to
+cheat on her.
+
+Political power. She wants him to have the power of life or death over her,
+like a dictator whose word is law. She wants him to have the power to
+order her execution. She wouldn't want him to actually use that power, or
+maybe just a little bit, like ordering her execution and then pardoning her
+at the very moment the exectuioner raises his axe, after a weak of solitary
+confinement. And she may not literally want what I just said but all women
+listening are getting aroused thinking about idea.
+
+What about physical power? Obviously. We don't even need to go into it.
+
+Mental power. Say if you had the ability to produce electromagnetic waves
+that would resonte with her brain in order to completley reprogram her,
+she would like that. But she would want him to treat her mind very kindly,
+similar to how she would want him to treat their children if they had some.
+
+Ok so why does the woman like the authority of her husband so much? And
+once again, I'm not talking about literally everyone. This is an evolutionary
+system and that means things could be changing all the time, so maybe one day
+men who like the authority of women is going to win out over women who like
+the authority of men. That would indicate some kind of evolutionary pressure
+that I wouldn't expect but it's theoretically possible.
+
+The idea that women would be sexually attracted to the authority of a man
+but that men would not feel a similar attraction to the authority of the woman
+make sense not just in terms of the evolutionary pressures that not only
+shaped the human race, but have shaped our reproductive strategies from the
+origin of the egg and sperm cells.
+
+For most animals whereas the male attempts to maximize fitness by optimizing
+on the number of partners, the female attempts to maximize fitness by
+optimizing on the fitness of a single parther partner. There are some weird
+exceptions in the animal kingdom where there is a role reversal but generally
+speaking, for animals, the top males tend to have more children than the top
+females. There is a range in how great the difference is, but it's much more
+likely for the top males to be more prolific than the top females than vice
+versa. Now usually we have equal numbers of males and females at birth, so
+if these top males are having more children than the top females we also
+must have that there are more males who fail completely at children than there
+are females or else it couldn't average out. So with males we have more failures
+but more successful top males, with females we have fewer failures but less
+successful top females, and we have equal numbers of children for males and
+females on average. Thus, males and females have the same average number of
+children, but the males tend to have a greater variance in numbers of children,
+so more males than females have zero children.
+
+Consequently, there is a big benefit to females for trying to get one of these
+top performing males but little corresponding big benefit for males to try to
+find top performing females. She's never going to be able to do what
+he could theoretically do without her if he was a top man. So there's generally
+a better return for a man to invest in his becomming a better man so that he
+can get more women than to invest into making his woman into one of the top
+performing women.
+
+Well, what kind of bargain can a top male make with a top female? He can drive
+a hard bargain. He can treat her like he's in a class that she can't match.
+Being negotiated down, being devalued, is a reliable signal from the standpoint
+of a woman, that she is with a top male. Because that top male can easily reject
+her and go find someone else whereas lesser males would be more willing to give
+in to her.
+
+So, for a woman, a good deal looks superficially like a bad deal. She likes
+being negotiated down because someone
+who can drive a hard bargain with her is likely to be a top man. And
+you can't make up for not being a top man by giving her perks. She's
+attracted to someone who's going to tell her no, not good enough. I
+want more.
+
+Neo says "what if I say no?"
+
+Therefore, [picture 1] is not attractive, it's cringy. For both
+men and women. Women want someone above them, and men want to be
+treated like they on top.
+
+For a man this can be pretty disappointing in formation because it's pretty
+hard to treat a woman like you're a top man when you're not a top man. However,
+there is hope because men can get better over time. So although most men
+are not in the upper class at any given time, many men make it into
+the upper class eventually.
 
 ### Sexual straties
 
